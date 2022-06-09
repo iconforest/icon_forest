@@ -4,7 +4,7 @@
 - It makes icons from all pub.dev packages searchable in one place.
 - You can search, select and apply the icons to your Flutter projects.
 
-<img alt="sample icons screenshot" src="https://iconforest.flutterplay.com/flutter/pubdev/icons_snapshot.png" />
+<img alt="sample icons screenshot" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/icons_snapshot.png" />
 
 It has two components:
 1. a free app that searches icons - the **IconForest** app
@@ -12,9 +12,9 @@ It has two components:
 
 ---
 
-# IconForest app <img alt="apk" src="https://iconforest.flutterplay.com/flutter/pubdev/logo.png" width="4%"/>
+# IconForest app <img alt="apk" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/logo.png" width="4%"/>
 
-<img alt="search icons, mark favorites, output icon code" src="https://iconforest.flutterplay.com/flutter/pubdev/demo.gif" />
+<img alt="search icons, mark favorites, output icon code" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/demo.gif" />
 
 - Icons can be easily applied to your projects with pubspec.yaml.
 - Pasteboard example:
@@ -40,21 +40,21 @@ Icon(BootstrapIcons.cloud_rain_heavy_fill);
           href="https://play.google.com/store/apps/details?id=com.flutterplay.iconforest"
           ><img
             alt="Google Play"
-            src="https://iconforest.flutterplay.com/flutter/pubdev/download/googleplay.png"
+            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/googleplay.png"
         /></a>
       </td>
       <td align="center">
         <a href="https://iconforest.flutterplay.com/download/android.php"
           ><img
             alt="apk"
-            src="https://iconforest.flutterplay.com/flutter/pubdev/download/apk.png"
+            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/apk.png"
         /></a>
       </td>
       <td align="center">
         <a href="https://apps.apple.com/app/iconforest/id1626186092"
           ><img
             alt="Appstore"
-            src="https://iconforest.flutterplay.com/flutter/pubdev/download/appstore.png"
+            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/appstore.png"
         /></a>
       </td>
     </tr>
@@ -62,7 +62,7 @@ Icon(BootstrapIcons.cloud_rain_heavy_fill);
       <td align="center">
         <img
           alt="Google Play"
-          src="https://iconforest.flutterplay.com/flutter/pubdev/qr/qr_googleplay.png"
+          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_googleplay.png"
           width="127"
           height="127"
         />
@@ -70,7 +70,7 @@ Icon(BootstrapIcons.cloud_rain_heavy_fill);
       <td align="center">
         <img
           alt="Appstore"
-          src="https://iconforest.flutterplay.com/flutter/pubdev/qr/qr_apk.png"
+          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_apk.png"
           width="127"
           height="127"
         />
@@ -78,7 +78,7 @@ Icon(BootstrapIcons.cloud_rain_heavy_fill);
       <td align="center">
         <img
           alt="Appstore"
-          src="https://iconforest.flutterplay.com/flutter/pubdev/qr/qr_appstore.png"
+          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_appstore.png"
           width="128"
           height="128"
         />
