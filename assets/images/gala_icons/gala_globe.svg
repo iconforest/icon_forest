@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="gala-globe.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title851">Gala icon set</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-46.564397"
+     inkscape:cy="112.26001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1854"
+     inkscape:window-height="1016"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid851"
+       empspacing="16" />
+    <sodipodi:guide
+       position="16,8"
+       orientation="0,1"
+       id="guide876"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,248"
+       orientation="0,1"
+       id="guide878"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,248"
+       orientation="1,0"
+       id="guide880"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="248,0"
+       orientation="1,0"
+       id="guide882"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gala icon set</dc:title>
+        <dc:source>https://github.com/sisyphusion/gala-icons</dc:source>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jake Wells</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:15.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path870"
+       cx="127.99945"
+       cy="128"
+       r="112" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path899"
+       d="m 192.0027,219.91074 c -40.13552,-10.60764 2.8991,-36.95009 -12.98135,-56.80128 -7.0348,-8.7939 -24.94292,-22.44625 -16.06406,-37.68626 14.14662,-24.2819 74.44445,-16.70043 77.04541,2.65434"
+       style="fill:none;stroke:#000000;stroke-width:15.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="caaascc"
+       id="path911"
+       d="m 52.26403,210.5115 c 11.735422,-10.73393 23.101176,-21.25355 28.928591,-35.30877 4.896866,-11.81082 11.221497,-27.74331 3.816787,-38.16679 -6.795901,-9.56626 -28.036264,1.74355 -34.229477,-8.2235 -5.19823,-8.36579 -1.703207,-26.91578 6.536171,-28.815794 C 71.025394,96.835252 95.999454,115.70076 91.525264,97.954854 71.651098,54.251844 101.47196,64.000005 79.998805,26.807419"
+       style="fill:none;stroke:#000000;stroke-width:15.99998665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="csac"
+       id="path915"
+       d="M 229.90244,81.526574 C 222.59641,76.902443 210.40368,72.548 197.29726,73.264682 184.1909,73.981363 156.7628,89.642259 150.64024,75.329052 143.20598,57.949662 165.8904,33.900895 191.58021,36.089261"
+       style="fill:none;stroke:#000000;stroke-width:15.99998665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
