@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// kicons_aliyun icon pack (20 icons)
 class _KiconsEmoji extends IconData {
-  const _KiconsEmoji(int codePoint) : super(codePoint, fontFamily: 'kicons_emoji', fontPackage: 'icon_forest');
+  const _KiconsEmoji(int codePoint)
+      : super(codePoint,
+            fontFamily: 'kicons_emoji', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

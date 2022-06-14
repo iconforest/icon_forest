@@ -83,7 +83,8 @@ class Majesticons extends StatelessWidget {
   static const String alert_circle = 'alert_circle.svg';
   static const String align_bottom_line = 'align_bottom_line.svg';
   static const String align_bottom = 'align_bottom.svg';
-  static const String align_horizontal_center_line = 'align_horizontal_center_line.svg';
+  static const String align_horizontal_center_line =
+      'align_horizontal_center_line.svg';
   static const String align_horizontal_center = 'align_horizontal_center.svg';
   static const String align_left_line = 'align_left_line.svg';
   static const String align_left = 'align_left.svg';
@@ -91,14 +92,16 @@ class Majesticons extends StatelessWidget {
   static const String align_right = 'align_right.svg';
   static const String align_top_line = 'align_top_line.svg';
   static const String align_top = 'align_top.svg';
-  static const String align_vertical_center_line = 'align_vertical_center_line.svg';
+  static const String align_vertical_center_line =
+      'align_vertical_center_line.svg';
   static const String align_vertical_center = 'align_vertical_center.svg';
   static const String analytics_delete_line = 'analytics_delete_line.svg';
   static const String analytics_delete = 'analytics_delete.svg';
   static const String analytics_line = 'analytics_line.svg';
   static const String analytics_plus_line = 'analytics_plus_line.svg';
   static const String analytics_plus = 'analytics_plus.svg';
-  static const String analytics_restricted_line = 'analytics_restricted_line.svg';
+  static const String analytics_restricted_line =
+      'analytics_restricted_line.svg';
   static const String analytics_restricted = 'analytics_restricted.svg';
   static const String analytics = 'analytics.svg';
   static const String arrow_down_circle_line = 'arrow_down_circle_line.svg';
@@ -117,7 +120,8 @@ class Majesticons extends StatelessWidget {
   static const String arrow_up_circle = 'arrow_up_circle.svg';
   static const String arrow_up_line = 'arrow_up_line.svg';
   static const String arrow_up = 'arrow_up.svg';
-  static const String arrows_collapse_full_line = 'arrows_collapse_full_line.svg';
+  static const String arrows_collapse_full_line =
+      'arrows_collapse_full_line.svg';
   static const String arrows_collapse_full = 'arrows_collapse_full.svg';
   static const String arrows_expand_full_line = 'arrows_expand_full_line.svg';
   static const String arrows_expand_full = 'arrows_expand_full.svg';
@@ -135,7 +139,8 @@ class Majesticons extends StatelessWidget {
   static const String back_circle = 'back_circle.svg';
   static const String backward_circle_line = 'backward_circle_line.svg';
   static const String backward_circle = 'backward_circle.svg';
-  static const String backward_start_circle_line = 'backward_start_circle_line.svg';
+  static const String backward_start_circle_line =
+      'backward_start_circle_line.svg';
   static const String backward_start_circle = 'backward_start_circle.svg';
   static const String band_aids_line = 'band_aids_line.svg';
   static const String band_aids = 'band_aids.svg';
@@ -223,7 +228,8 @@ class Majesticons extends StatelessWidget {
   static const String chats_2 = 'chats_2.svg';
   static const String chats_line = 'chats_line.svg';
   static const String chats = 'chats.svg';
-  static const String checkbox_list_detail_line = 'checkbox_list_detail_line.svg';
+  static const String checkbox_list_detail_line =
+      'checkbox_list_detail_line.svg';
   static const String checkbox_list_detail = 'checkbox_list_detail.svg';
   static const String checkbox_list_line = 'checkbox_list_line.svg';
   static const String checkbox_list = 'checkbox_list.svg';
@@ -237,7 +243,8 @@ class Majesticons extends StatelessWidget {
   static const String chevron_left_circle = 'chevron_left_circle.svg';
   static const String chevron_left_line = 'chevron_left_line.svg';
   static const String chevron_left = 'chevron_left.svg';
-  static const String chevron_right_circle_line = 'chevron_right_circle_line.svg';
+  static const String chevron_right_circle_line =
+      'chevron_right_circle_line.svg';
   static const String chevron_right_circle = 'chevron_right_circle.svg';
   static const String chevron_right_line = 'chevron_right_line.svg';
   static const String chevron_right = 'chevron_right.svg';
@@ -319,7 +326,8 @@ class Majesticons extends StatelessWidget {
   static const String data = 'data.svg';
   static const String delete_bin_line = 'delete_bin_line.svg';
   static const String delete_bin = 'delete_bin.svg';
-  static const String distribute_horizontal_line = 'distribute_horizontal_line.svg';
+  static const String distribute_horizontal_line =
+      'distribute_horizontal_line.svg';
   static const String distribute_horizontal = 'distribute_horizontal.svg';
   static const String distribute_vertical_line = 'distribute_vertical_line.svg';
   static const String distribute_vertical = 'distribute_vertical.svg';
@@ -467,7 +475,8 @@ class Majesticons extends StatelessWidget {
   static const String leaf_3_angled = 'leaf_3_angled.svg';
   static const String library_line = 'library_line.svg';
   static const String library = 'library.svg';
-  static const String lidquid_drop_waves_2_line = 'lidquid_drop_waves_2_line.svg';
+  static const String lidquid_drop_waves_2_line =
+      'lidquid_drop_waves_2_line.svg';
   static const String lidquid_drop_waves_2 = 'lidquid_drop_waves_2.svg';
   static const String lifebuoy_line = 'lifebuoy_line.svg';
   static const String lifebuoy = 'lifebuoy.svg';
@@ -507,7 +516,8 @@ class Majesticons extends StatelessWidget {
   static const String map_marker_plus_line = 'map_marker_plus_line.svg';
   static const String map_marker_plus = 'map_marker_plus.svg';
   static const String map_marker = 'map_marker.svg';
-  static const String map_simple_destination_line = 'map_simple_destination_line.svg';
+  static const String map_simple_destination_line =
+      'map_simple_destination_line.svg';
   static const String map_simple_destination = 'map_simple_destination.svg';
   static const String map_simple_line = 'map_simple_line.svg';
   static const String map_simple_marker_line = 'map_simple_marker_line.svg';

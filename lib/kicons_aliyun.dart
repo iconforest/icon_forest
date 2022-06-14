@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// kicons_aliyun icon pack (71 icons)
 class _KiconsAliyun extends IconData {
-  const _KiconsAliyun(int codePoint) : super(codePoint, fontFamily: 'kicons_aliyun', fontPackage: 'icon_forest');
+  const _KiconsAliyun(int codePoint)
+      : super(codePoint,
+            fontFamily: 'kicons_aliyun', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

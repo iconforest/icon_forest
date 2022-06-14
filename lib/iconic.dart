@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 /// iconic icon pack (223 icons)
 class _Iconic extends IconData {
-  const _Iconic(int codePoint) : super(codePoint, fontFamily: 'iconic', fontPackage: 'icon_forest');
+  const _Iconic(int codePoint)
+      : super(codePoint, fontFamily: 'iconic', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

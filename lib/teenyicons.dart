@@ -81,12 +81,17 @@ class Teenyicons extends StatelessWidget {
   static const String add_solid = 'add_solid.svg';
   static const String address_book_outline = 'address_book_outline.svg';
   static const String address_book_solid = 'address_book_solid.svg';
-  static const String adjust_horizontal_alt_outline = 'adjust_horizontal_alt_outline.svg';
-  static const String adjust_horizontal_alt_solid = 'adjust_horizontal_alt_solid.svg';
-  static const String adjust_horizontal_outline = 'adjust_horizontal_outline.svg';
+  static const String adjust_horizontal_alt_outline =
+      'adjust_horizontal_alt_outline.svg';
+  static const String adjust_horizontal_alt_solid =
+      'adjust_horizontal_alt_solid.svg';
+  static const String adjust_horizontal_outline =
+      'adjust_horizontal_outline.svg';
   static const String adjust_horizontal_solid = 'adjust_horizontal_solid.svg';
-  static const String adjust_vertical_alt_outline = 'adjust_vertical_alt_outline.svg';
-  static const String adjust_vertical_alt_solid = 'adjust_vertical_alt_solid.svg';
+  static const String adjust_vertical_alt_outline =
+      'adjust_vertical_alt_outline.svg';
+  static const String adjust_vertical_alt_solid =
+      'adjust_vertical_alt_solid.svg';
   static const String adjust_vertical_outline = 'adjust_vertical_outline.svg';
   static const String adjust_vertical_solid = 'adjust_vertical_solid.svg';
   static const String airplay_outline = 'airplay_outline.svg';
@@ -99,17 +104,23 @@ class Teenyicons extends StatelessWidget {
   static const String alien_solid = 'alien_solid.svg';
   static const String align_bottom_outline = 'align_bottom_outline.svg';
   static const String align_bottom_solid = 'align_bottom_solid.svg';
-  static const String align_center_horizontal_outline = 'align_center_horizontal_outline.svg';
-  static const String align_center_horizontal_solid = 'align_center_horizontal_solid.svg';
-  static const String align_center_vertical_outline = 'align_center_vertical_outline.svg';
-  static const String align_center_vertical_solid = 'align_center_vertical_solid.svg';
+  static const String align_center_horizontal_outline =
+      'align_center_horizontal_outline.svg';
+  static const String align_center_horizontal_solid =
+      'align_center_horizontal_solid.svg';
+  static const String align_center_vertical_outline =
+      'align_center_vertical_outline.svg';
+  static const String align_center_vertical_solid =
+      'align_center_vertical_solid.svg';
   static const String align_left_solid = 'align_left_solid.svg';
   static const String align_left = 'align_left.svg';
   static const String align_right_outline = 'align_right_outline.svg';
   static const String align_right_solid = 'align_right_solid.svg';
-  static const String align_text_center_outline = 'align_text_center_outline.svg';
+  static const String align_text_center_outline =
+      'align_text_center_outline.svg';
   static const String align_text_center_solid = 'align_text_center_solid.svg';
-  static const String align_text_justify_outline = 'align_text_justify_outline.svg';
+  static const String align_text_justify_outline =
+      'align_text_justify_outline.svg';
   static const String align_text_justify_solid = 'align_text_justify_solid.svg';
   static const String align_text_left_solid = 'align_text_left_solid.svg';
   static const String align_text_left = 'align_text_left.svg';
@@ -137,23 +148,27 @@ class Teenyicons extends StatelessWidget {
   static const String area_chart_alt_solid = 'area_chart_alt_solid.svg';
   static const String area_chart_outline = 'area_chart_outline.svg';
   static const String area_chart_solid = 'area_chart_solid.svg';
-  static const String arrow_down_circle_outline = 'arrow_down_circle_outline.svg';
+  static const String arrow_down_circle_outline =
+      'arrow_down_circle_outline.svg';
   static const String arrow_down_circle_solid = 'arrow_down_circle_solid.svg';
   static const String arrow_down_outline = 'arrow_down_outline.svg';
   static const String arrow_down_small_outline = 'arrow_down_small_outline.svg';
   static const String arrow_down_small_solid = 'arrow_down_small_solid.svg';
   static const String arrow_down_solid = 'arrow_down_solid.svg';
-  static const String arrow_left_circle_outline = 'arrow_left_circle_outline.svg';
+  static const String arrow_left_circle_outline =
+      'arrow_left_circle_outline.svg';
   static const String arrow_left_circle_solid = 'arrow_left_circle_solid.svg';
   static const String arrow_left_outline = 'arrow_left_outline.svg';
   static const String arrow_left_small_outline = 'arrow_left_small_outline.svg';
   static const String arrow_left_small_solid = 'arrow_left_small_solid.svg';
   static const String arrow_left_solid = 'arrow_left_solid.svg';
   static const String arrow_outline = 'arrow_outline.svg';
-  static const String arrow_right_circle_outline = 'arrow_right_circle_outline.svg';
+  static const String arrow_right_circle_outline =
+      'arrow_right_circle_outline.svg';
   static const String arrow_right_circle_solid = 'arrow_right_circle_solid.svg';
   static const String arrow_right_outline = 'arrow_right_outline.svg';
-  static const String arrow_right_small_outline = 'arrow_right_small_outline.svg';
+  static const String arrow_right_small_outline =
+      'arrow_right_small_outline.svg';
   static const String arrow_right_small_solid = 'arrow_right_small_solid.svg';
   static const String arrow_right_solid = 'arrow_right_solid.svg';
   static const String arrow_solid = 'arrow_solid.svg';
@@ -238,7 +253,8 @@ class Teenyicons extends StatelessWidget {
   static const String border_all_solid = 'border_all_solid.svg';
   static const String border_bottom_outline = 'border_bottom_outline.svg';
   static const String border_bottom_solid = 'border_bottom_solid.svg';
-  static const String border_horizontal_outline = 'border_horizontal_outline.svg';
+  static const String border_horizontal_outline =
+      'border_horizontal_outline.svg';
   static const String border_horizontal_solid = 'border_horizontal_solid.svg';
   static const String border_inner_outline = 'border_inner_outline.svg';
   static const String border_inner_solid = 'border_inner_solid.svg';
@@ -288,7 +304,8 @@ class Teenyicons extends StatelessWidget {
   static const String calculator_solid = 'calculator_solid.svg';
   static const String calendar_minus_outline = 'calendar_minus_outline.svg';
   static const String calendar_minus_solid = 'calendar_minus_solid.svg';
-  static const String calendar_no_access_outline = 'calendar_no_access_outline.svg';
+  static const String calendar_no_access_outline =
+      'calendar_no_access_outline.svg';
   static const String calendar_no_access_solid = 'calendar_no_access_solid.svg';
   static const String calendar_outline = 'calendar_outline.svg';
   static const String calendar_plus_outline = 'calendar_plus_outline.svg';
@@ -304,11 +321,15 @@ class Teenyicons extends StatelessWidget {
   static const String candle_chart_solid = 'candle_chart_solid.svg';
   static const String car_outline = 'car_outline.svg';
   static const String car_solid = 'car_solid.svg';
-  static const String caret_vertical_circle_outline = 'caret_vertical_circle_outline.svg';
-  static const String caret_vertical_circle_solid = 'caret_vertical_circle_solid.svg';
+  static const String caret_vertical_circle_outline =
+      'caret_vertical_circle_outline.svg';
+  static const String caret_vertical_circle_solid =
+      'caret_vertical_circle_solid.svg';
   static const String caret_vertical_outline = 'caret_vertical_outline.svg';
-  static const String caret_vertical_small_outline = 'caret_vertical_small_outline.svg';
-  static const String caret_vertical_small_solid = 'caret_vertical_small_solid.svg';
+  static const String caret_vertical_small_outline =
+      'caret_vertical_small_outline.svg';
+  static const String caret_vertical_small_solid =
+      'caret_vertical_small_solid.svg';
   static const String caret_vertical_solid = 'caret_vertical_solid.svg';
   static const String cart_minus_outline = 'cart_minus_outline.svg';
   static const String cart_minus_solid = 'cart_minus_solid.svg';
@@ -334,8 +355,10 @@ class Teenyicons extends StatelessWidget {
   static const String circle_solid = 'circle_solid.svg';
   static const String clipboard_minus_outline = 'clipboard_minus_outline.svg';
   static const String clipboard_minus_solid = 'clipboard_minus_solid.svg';
-  static const String clipboard_no_access_outline = 'clipboard_no_access_outline.svg';
-  static const String clipboard_no_access_solid = 'clipboard_no_access_solid.svg';
+  static const String clipboard_no_access_outline =
+      'clipboard_no_access_outline.svg';
+  static const String clipboard_no_access_solid =
+      'clipboard_no_access_solid.svg';
   static const String clipboard_outline = 'clipboard_outline.svg';
   static const String clipboard_plus_outline = 'clipboard_plus_outline.svg';
   static const String clipboard_plus_solid = 'clipboard_plus_solid.svg';
@@ -398,10 +421,14 @@ class Teenyicons extends StatelessWidget {
   static const String discord_solid = 'discord_solid.svg';
   static const String discount_outline = 'discount_outline.svg';
   static const String discount_solid = 'discount_solid.svg';
-  static const String distribute_horizontal_outline = 'distribute_horizontal_outline.svg';
-  static const String distribute_horizontal_solid = 'distribute_horizontal_solid.svg';
-  static const String distribute_vertical_outline = 'distribute_vertical_outline.svg';
-  static const String distribute_vertical_solid = 'distribute_vertical_solid.svg';
+  static const String distribute_horizontal_outline =
+      'distribute_horizontal_outline.svg';
+  static const String distribute_horizontal_solid =
+      'distribute_horizontal_solid.svg';
+  static const String distribute_vertical_outline =
+      'distribute_vertical_outline.svg';
+  static const String distribute_vertical_solid =
+      'distribute_vertical_solid.svg';
   static const String divider_line_outline = 'divider_line_outline.svg';
   static const String divider_line_solid = 'divider_line_solid.svg';
   static const String doc_outline = 'doc_outline.svg';
@@ -414,29 +441,48 @@ class Teenyicons extends StatelessWidget {
   static const String dollar_solid = 'dollar_solid.svg';
   static const String donut_chart_outline = 'donut_chart_outline.svg';
   static const String donut_chart_solid = 'donut_chart_solid.svg';
-  static const String double_caret_down_circle_outline = 'double_caret_down_circle_outline.svg';
-  static const String double_caret_down_circle_solid = 'double_caret_down_circle_solid.svg';
-  static const String double_caret_down_outline = 'double_caret_down_outline.svg';
-  static const String double_caret_down_small_outline = 'double_caret_down_small_outline.svg';
-  static const String double_caret_down_small_solid = 'double_caret_down_small_solid.svg';
+  static const String double_caret_down_circle_outline =
+      'double_caret_down_circle_outline.svg';
+  static const String double_caret_down_circle_solid =
+      'double_caret_down_circle_solid.svg';
+  static const String double_caret_down_outline =
+      'double_caret_down_outline.svg';
+  static const String double_caret_down_small_outline =
+      'double_caret_down_small_outline.svg';
+  static const String double_caret_down_small_solid =
+      'double_caret_down_small_solid.svg';
   static const String double_caret_down_solid = 'double_caret_down_solid.svg';
-  static const String double_caret_left_circle_outline = 'double_caret_left_circle_outline.svg';
-  static const String double_caret_left_circle_solid = 'double_caret_left_circle_solid.svg';
-  static const String double_caret_left_outline = 'double_caret_left_outline.svg';
-  static const String double_caret_left_small_outline = 'double_caret_left_small_outline.svg';
-  static const String double_caret_left_small_solid = 'double_caret_left_small_solid.svg';
+  static const String double_caret_left_circle_outline =
+      'double_caret_left_circle_outline.svg';
+  static const String double_caret_left_circle_solid =
+      'double_caret_left_circle_solid.svg';
+  static const String double_caret_left_outline =
+      'double_caret_left_outline.svg';
+  static const String double_caret_left_small_outline =
+      'double_caret_left_small_outline.svg';
+  static const String double_caret_left_small_solid =
+      'double_caret_left_small_solid.svg';
   static const String double_caret_left_solid = 'double_caret_left_solid.svg';
-  static const String double_caret_right_circle_outline = 'double_caret_right_circle_outline.svg';
-  static const String double_caret_right_circle_solid = 'double_caret_right_circle_solid.svg';
-  static const String double_caret_right_outline = 'double_caret_right_outline.svg';
-  static const String double_caret_right_small_outline = 'double_caret_right_small_outline.svg';
-  static const String double_caret_right_small_solid = 'double_caret_right_small_solid.svg';
+  static const String double_caret_right_circle_outline =
+      'double_caret_right_circle_outline.svg';
+  static const String double_caret_right_circle_solid =
+      'double_caret_right_circle_solid.svg';
+  static const String double_caret_right_outline =
+      'double_caret_right_outline.svg';
+  static const String double_caret_right_small_outline =
+      'double_caret_right_small_outline.svg';
+  static const String double_caret_right_small_solid =
+      'double_caret_right_small_solid.svg';
   static const String double_caret_right_solid = 'double_caret_right_solid.svg';
-  static const String double_caret_up_circle_outline = 'double_caret_up_circle_outline.svg';
-  static const String double_caret_up_circle_solid = 'double_caret_up_circle_solid.svg';
+  static const String double_caret_up_circle_outline =
+      'double_caret_up_circle_outline.svg';
+  static const String double_caret_up_circle_solid =
+      'double_caret_up_circle_solid.svg';
   static const String double_caret_up_outline = 'double_caret_up_outline.svg';
-  static const String double_caret_up_small_outline = 'double_caret_up_small_outline.svg';
-  static const String double_caret_up_small_solid = 'double_caret_up_small_solid.svg';
+  static const String double_caret_up_small_outline =
+      'double_caret_up_small_outline.svg';
+  static const String double_caret_up_small_solid =
+      'double_caret_up_small_solid.svg';
   static const String double_caret_up_solid = 'double_caret_up_solid.svg';
   static const String down_circle_outline = 'down_circle_outline.svg';
   static const String down_circle_solid = 'down_circle_solid.svg';
@@ -482,10 +528,12 @@ class Teenyicons extends StatelessWidget {
   static const String ethereum_solid = 'ethereum_solid.svg';
   static const String euro_outline = 'euro_outline.svg';
   static const String euro_solid = 'euro_solid.svg';
-  static const String exclamation_circle_outline = 'exclamation_circle_outline.svg';
+  static const String exclamation_circle_outline =
+      'exclamation_circle_outline.svg';
   static const String exclamation_circle_solid = 'exclamation_circle_solid.svg';
   static const String exclamation_outline = 'exclamation_outline.svg';
-  static const String exclamation_small_outline = 'exclamation_small_outline.svg';
+  static const String exclamation_small_outline =
+      'exclamation_small_outline.svg';
   static const String exclamation_small_solid = 'exclamation_small_solid.svg';
   static const String exclamation_solid = 'exclamation_solid.svg';
   static const String expand_alt_outline = 'expand_alt_outline.svg';
@@ -561,8 +609,10 @@ class Teenyicons extends StatelessWidget {
   static const String framer_outline = 'framer_outline.svg';
   static const String framer_solid = 'framer_solid.svg';
   static const String game_controller_outline = 'game_controller_outline.svg';
-  static const String game_controller_retro_outline = 'game_controller_retro_outline.svg';
-  static const String game_controller_retro_solid = 'game_controller_retro_solid.svg';
+  static const String game_controller_retro_outline =
+      'game_controller_retro_outline.svg';
+  static const String game_controller_retro_solid =
+      'game_controller_retro_solid.svg';
   static const String game_controller_solid = 'game_controller_solid.svg';
   static const String gantt_chart_outline = 'gantt_chart_outline.svg';
   static const String gantt_chart_solid = 'gantt_chart_solid.svg';
@@ -609,10 +659,12 @@ class Teenyicons extends StatelessWidget {
   static const String google_drive_outline = 'google_drive_outline.svg';
   static const String google_drive_solid = 'google_drive_solid.svg';
   static const String google_outline = 'google_outline.svg';
-  static const String google_play_store_outline = 'google_play_store_outline.svg';
+  static const String google_play_store_outline =
+      'google_play_store_outline.svg';
   static const String google_play_store_solid = 'google_play_store_solid.svg';
   static const String google_solid = 'google_solid.svg';
-  static const String google_streetview_outline = 'google_streetview_outline.svg';
+  static const String google_streetview_outline =
+      'google_streetview_outline.svg';
   static const String google_streetview_solid = 'google_streetview_solid.svg';
   static const String graphql_outline = 'graphql_outline.svg';
   static const String graphql_solid = 'graphql_solid.svg';
@@ -660,7 +712,8 @@ class Teenyicons extends StatelessWidget {
   static const String image_document_solid = 'image_document_solid.svg';
   static const String image_outline = 'image_outline.svg';
   static const String image_solid = 'image_solid.svg';
-  static const String in_ear_headphones_outline = 'in_ear_headphones_outline.svg';
+  static const String in_ear_headphones_outline =
+      'in_ear_headphones_outline.svg';
   static const String in_ear_headphones_solid = 'in_ear_headphones_solid.svg';
   static const String inbox_outline = 'inbox_outline.svg';
   static const String inbox_solid = 'inbox_solid.svg';
@@ -698,7 +751,8 @@ class Teenyicons extends StatelessWidget {
   static const String laptop_solid = 'laptop_solid.svg';
   static const String laravel_outline = 'laravel_outline.svg';
   static const String laravel_solid = 'laravel_solid.svg';
-  static const String layers_difference_outline = 'layers_difference_outline.svg';
+  static const String layers_difference_outline =
+      'layers_difference_outline.svg';
   static const String layers_difference_solid = 'layers_difference_solid.svg';
   static const String layers_intersect_outline = 'layers_intersect_outline.svg';
   static const String layers_intersect_solid = 'layers_intersect_solid.svg';
@@ -764,7 +818,8 @@ class Teenyicons extends StatelessWidget {
   static const String menu_solid = 'menu_solid.svg';
   static const String message_minus_outline = 'message_minus_outline.svg';
   static const String message_minus_solid = 'message_minus_solid.svg';
-  static const String message_no_access_outline = 'message_no_access_outline.svg';
+  static const String message_no_access_outline =
+      'message_no_access_outline.svg';
   static const String message_no_access_solid = 'message_no_access_solid.svg';
   static const String message_outline = 'message_outline.svg';
   static const String message_plus_outline = 'message_plus_outline.svg';
@@ -900,10 +955,12 @@ class Teenyicons extends StatelessWidget {
   static const String pen_solid = 'pen_solid.svg';
   static const String phone_outline = 'phone_outline.svg';
   static const String phone_solid = 'phone_solid.svg';
-  static const String phonecall_blocked_outline = 'phonecall_blocked_outline.svg';
+  static const String phonecall_blocked_outline =
+      'phonecall_blocked_outline.svg';
   static const String phonecall_blocked_solid = 'phonecall_blocked_solid.svg';
   static const String phonecall_outline = 'phonecall_outline.svg';
-  static const String phonecall_receive_outline = 'phonecall_receive_outline.svg';
+  static const String phonecall_receive_outline =
+      'phonecall_receive_outline.svg';
   static const String phonecall_receive_solid = 'phonecall_receive_solid.svg';
   static const String phonecall_solid = 'phonecall_solid.svg';
   static const String pie_chart_alt_outline = 'pie_chart_alt_outline.svg';
@@ -1068,16 +1125,20 @@ class Teenyicons extends StatelessWidget {
   static const String snapchat_solid = 'snapchat_solid.svg';
   static const String snes_outline = 'snes_outline.svg';
   static const String snes_solid = 'snes_solid.svg';
-  static const String sort_alphabetically_outline = 'sort_alphabetically_outline.svg';
-  static const String sort_alphabetically_solid = 'sort_alphabetically_solid.svg';
+  static const String sort_alphabetically_outline =
+      'sort_alphabetically_outline.svg';
+  static const String sort_alphabetically_solid =
+      'sort_alphabetically_solid.svg';
   static const String sort_down_outline = 'sort_down_outline.svg';
   static const String sort_down_solid = 'sort_down_solid.svg';
   static const String sort_high_to_low_outline = 'sort_high_to_low_outline.svg';
   static const String sort_high_to_low_solid = 'sort_high_to_low_solid.svg';
   static const String sort_low_to_high_outline = 'sort_low_to_high_outline.svg';
   static const String sort_low_to_high_solid = 'sort_low_to_high_solid.svg';
-  static const String sort_reverse_alphabetically_outline = 'sort_reverse_alphabetically_outline.svg';
-  static const String sort_reverse_alphabetically_solid = 'sort_reverse_alphabetically_solid.svg';
+  static const String sort_reverse_alphabetically_outline =
+      'sort_reverse_alphabetically_outline.svg';
+  static const String sort_reverse_alphabetically_solid =
+      'sort_reverse_alphabetically_solid.svg';
   static const String sort_up_outline = 'sort_up_outline.svg';
   static const String sort_up_solid = 'sort_up_solid.svg';
   static const String sound_off_outline = 'sound_off_outline.svg';
@@ -1134,7 +1195,8 @@ class Teenyicons extends StatelessWidget {
   static const String telegram_solid = 'telegram_solid.svg';
   static const String terminal_outline = 'terminal_outline.svg';
   static const String terminal_solid = 'terminal_solid.svg';
-  static const String text_document_alt_outline = 'text_document_alt_outline.svg';
+  static const String text_document_alt_outline =
+      'text_document_alt_outline.svg';
   static const String text_document_alt_solid = 'text_document_alt_solid.svg';
   static const String text_document_outline = 'text_document_outline.svg';
   static const String text_document_solid = 'text_document_solid.svg';

@@ -82,9 +82,12 @@ class Clarity extends StatelessWidget {
   static const String airplane_line = 'airplane_line.svg';
   static const String airplane_solid = 'airplane_solid.svg';
   static const String alarm_clock_line = 'alarm_clock_line.svg';
-  static const String alarm_clock_outline_alerted = 'alarm_clock_outline_alerted.svg';
-  static const String alarm_clock_outline_badged = 'alarm_clock_outline_badged.svg';
-  static const String alarm_clock_solid_alerted = 'alarm_clock_solid_alerted.svg';
+  static const String alarm_clock_outline_alerted =
+      'alarm_clock_outline_alerted.svg';
+  static const String alarm_clock_outline_badged =
+      'alarm_clock_outline_badged.svg';
+  static const String alarm_clock_solid_alerted =
+      'alarm_clock_solid_alerted.svg';
   static const String alarm_clock_solid_badged = 'alarm_clock_solid_badged.svg';
   static const String alarm_clock_solid = 'alarm_clock_solid.svg';
   static const String alarm_off_line = 'alarm_off_line.svg';
@@ -100,7 +103,8 @@ class Clarity extends StatelessWidget {
   static const String align_right_text_line = 'align_right_text_line.svg';
   static const String align_top_line = 'align_top_line.svg';
   static const String analytics_line = 'analytics_line.svg';
-  static const String analytics_outline_alerted = 'analytics_outline_alerted.svg';
+  static const String analytics_outline_alerted =
+      'analytics_outline_alerted.svg';
   static const String analytics_outline_badged = 'analytics_outline_badged.svg';
   static const String analytics_solid_alerted = 'analytics_solid_alerted.svg';
   static const String analytics_solid_badged = 'analytics_solid_badged.svg';
@@ -112,10 +116,14 @@ class Clarity extends StatelessWidget {
   static const String application_line = 'application_line.svg';
   static const String application_solid = 'application_solid.svg';
   static const String applications_line = 'applications_line.svg';
-  static const String applications_outline_alerted = 'applications_outline_alerted.svg';
-  static const String applications_outline_badged = 'applications_outline_badged.svg';
-  static const String applications_solid_alerted = 'applications_solid_alerted.svg';
-  static const String applications_solid_badged = 'applications_solid_badged.svg';
+  static const String applications_outline_alerted =
+      'applications_outline_alerted.svg';
+  static const String applications_outline_badged =
+      'applications_outline_badged.svg';
+  static const String applications_solid_alerted =
+      'applications_solid_alerted.svg';
+  static const String applications_solid_badged =
+      'applications_solid_badged.svg';
   static const String applications_solid = 'applications_solid.svg';
   static const String archive_line = 'archive_line.svg';
   static const String archive_solid = 'archive_solid.svg';
@@ -136,8 +144,10 @@ class Clarity extends StatelessWidget {
   static const String avatar_solid_badged = 'avatar_solid_badged.svg';
   static const String avatar_solid = 'avatar_solid.svg';
   static const String axis_chart_line = 'axis_chart_line.svg';
-  static const String axis_chart_outline_alerted = 'axis_chart_outline_alerted.svg';
-  static const String axis_chart_outline_badged = 'axis_chart_outline_badged.svg';
+  static const String axis_chart_outline_alerted =
+      'axis_chart_outline_alerted.svg';
+  static const String axis_chart_outline_badged =
+      'axis_chart_outline_badged.svg';
   static const String axis_chart_solid_alerted = 'axis_chart_solid_alerted.svg';
   static const String axis_chart_solid_badged = 'axis_chart_solid_badged.svg';
   static const String axis_chart_solid = 'axis_chart_solid.svg';
@@ -145,10 +155,14 @@ class Clarity extends StatelessWidget {
   static const String backup_outline_alerted = 'backup_outline_alerted.svg';
   static const String backup_outline_badged = 'backup_outline_badged.svg';
   static const String backup_restore_line = 'backup_restore_line.svg';
-  static const String backup_restore_outline_alerted = 'backup_restore_outline_alerted.svg';
-  static const String backup_restore_outline_badged = 'backup_restore_outline_badged.svg';
-  static const String backup_restore_solid_alerted = 'backup_restore_solid_alerted.svg';
-  static const String backup_restore_solid_badged = 'backup_restore_solid_badged.svg';
+  static const String backup_restore_outline_alerted =
+      'backup_restore_outline_alerted.svg';
+  static const String backup_restore_outline_badged =
+      'backup_restore_outline_badged.svg';
+  static const String backup_restore_solid_alerted =
+      'backup_restore_solid_alerted.svg';
+  static const String backup_restore_solid_badged =
+      'backup_restore_solid_badged.svg';
   static const String backup_restore_solid = 'backup_restore_solid.svg';
   static const String backup_solid_alerted = 'backup_solid_alerted.svg';
   static const String backup_solid_badged = 'backup_solid_badged.svg';
@@ -162,7 +176,8 @@ class Clarity extends StatelessWidget {
   static const String bank_solid_badged = 'bank_solid_badged.svg';
   static const String bank_solid = 'bank_solid.svg';
   static const String bar_chart_line = 'bar_chart_line.svg';
-  static const String bar_chart_outline_alerted = 'bar_chart_outline_alerted.svg';
+  static const String bar_chart_outline_alerted =
+      'bar_chart_outline_alerted.svg';
   static const String bar_chart_outline_badged = 'bar_chart_outline_badged.svg';
   static const String bar_chart_solid_alerted = 'bar_chart_solid_alerted.svg';
   static const String bar_chart_solid_badged = 'bar_chart_solid_badged.svg';
@@ -194,10 +209,14 @@ class Clarity extends StatelessWidget {
   static const String block_solid_badged = 'block_solid_badged.svg';
   static const String block_solid = 'block_solid.svg';
   static const String blocks_group_line = 'blocks_group_line.svg';
-  static const String blocks_group_outline_alerted = 'blocks_group_outline_alerted.svg';
-  static const String blocks_group_outline_badged = 'blocks_group_outline_badged.svg';
-  static const String blocks_group_solid_alerted = 'blocks_group_solid_alerted.svg';
-  static const String blocks_group_solid_badged = 'blocks_group_solid_badged.svg';
+  static const String blocks_group_outline_alerted =
+      'blocks_group_outline_alerted.svg';
+  static const String blocks_group_outline_badged =
+      'blocks_group_outline_badged.svg';
+  static const String blocks_group_solid_alerted =
+      'blocks_group_solid_alerted.svg';
+  static const String blocks_group_solid_badged =
+      'blocks_group_solid_badged.svg';
   static const String blocks_group_solid = 'blocks_group_solid.svg';
   static const String bluetooth_line = 'bluetooth_line.svg';
   static const String bluetooth_off_line = 'bluetooth_off_line.svg';
@@ -221,10 +240,14 @@ class Clarity extends StatelessWidget {
   static const String briefcase_line = 'briefcase_line.svg';
   static const String briefcase_solid = 'briefcase_solid.svg';
   static const String bubble_chart_line = 'bubble_chart_line.svg';
-  static const String bubble_chart_outline_alerted = 'bubble_chart_outline_alerted.svg';
-  static const String bubble_chart_outline_badged = 'bubble_chart_outline_badged.svg';
-  static const String bubble_chart_solid_alerted = 'bubble_chart_solid_alerted.svg';
-  static const String bubble_chart_solid_badged = 'bubble_chart_solid_badged.svg';
+  static const String bubble_chart_outline_alerted =
+      'bubble_chart_outline_alerted.svg';
+  static const String bubble_chart_outline_badged =
+      'bubble_chart_outline_badged.svg';
+  static const String bubble_chart_solid_alerted =
+      'bubble_chart_solid_alerted.svg';
+  static const String bubble_chart_solid_badged =
+      'bubble_chart_solid_badged.svg';
   static const String bubble_chart_solid = 'bubble_chart_solid.svg';
   static const String bubble_exclamation_line = 'bubble_exclamation_line.svg';
   static const String bubble_exclamation_solid = 'bubble_exclamation_solid.svg';
@@ -245,9 +268,11 @@ class Clarity extends StatelessWidget {
   static const String calculator_solid = 'calculator_solid.svg';
   static const String calendar_line_2 = 'calendar_line 2.svg';
   static const String calendar_line = 'calendar_line.svg';
-  static const String calendar_outline_alerted_2 = 'calendar_outline_alerted 2.svg';
+  static const String calendar_outline_alerted_2 =
+      'calendar_outline_alerted 2.svg';
   static const String calendar_outline_alerted = 'calendar_outline_alerted.svg';
-  static const String calendar_outline_badged_2 = 'calendar_outline_badged 2.svg';
+  static const String calendar_outline_badged_2 =
+      'calendar_outline_badged 2.svg';
   static const String calendar_outline_badged = 'calendar_outline_badged.svg';
   static const String calendar_solid_2 = 'calendar_solid 2.svg';
   static const String calendar_solid_alerted_2 = 'calendar_solid_alerted 2.svg';
@@ -270,13 +295,17 @@ class Clarity extends StatelessWidget {
   static const String cd_dvd_solid = 'cd_dvd_solid.svg';
   static const String center_text_line = 'center_text_line.svg';
   static const String certificate_line = 'certificate_line.svg';
-  static const String certificate_outline_alerted = 'certificate_outline_alerted.svg';
-  static const String certificate_outline_badged = 'certificate_outline_badged.svg';
-  static const String certificate_solid_alerted = 'certificate_solid_alerted.svg';
+  static const String certificate_outline_alerted =
+      'certificate_outline_alerted.svg';
+  static const String certificate_outline_badged =
+      'certificate_outline_badged.svg';
+  static const String certificate_solid_alerted =
+      'certificate_solid_alerted.svg';
   static const String certificate_solid_badged = 'certificate_solid_badged.svg';
   static const String certificate_solid = 'certificate_solid.svg';
   static const String chat_bubble_line = 'chat_bubble_line.svg';
-  static const String chat_bubble_outline_badged = 'chat_bubble_outline_badged.svg';
+  static const String chat_bubble_outline_badged =
+      'chat_bubble_outline_badged.svg';
   static const String chat_bubble_solid_badged = 'chat_bubble_solid_badged.svg';
   static const String chat_bubble_solid = 'chat_bubble_solid.svg';
   static const String check_circle_line = 'check_circle_line.svg';
@@ -303,9 +332,12 @@ class Clarity extends StatelessWidget {
   static const String clone_solid = 'clone_solid.svg';
   static const String close_line = 'close_line.svg';
   static const String cloud_chart_line = 'cloud_chart_line.svg';
-  static const String cloud_chart_outline_alerted = 'cloud_chart_outline_alerted.svg';
-  static const String cloud_chart_outline_badged = 'cloud_chart_outline_badged.svg';
-  static const String cloud_chart_solid_alerted = 'cloud_chart_solid_alerted.svg';
+  static const String cloud_chart_outline_alerted =
+      'cloud_chart_outline_alerted.svg';
+  static const String cloud_chart_outline_badged =
+      'cloud_chart_outline_badged.svg';
+  static const String cloud_chart_solid_alerted =
+      'cloud_chart_solid_alerted.svg';
   static const String cloud_chart_solid_badged = 'cloud_chart_solid_badged.svg';
   static const String cloud_chart_solid = 'cloud_chart_solid.svg';
   static const String cloud_line = 'cloud_line.svg';
@@ -364,9 +396,12 @@ class Clarity extends StatelessWidget {
   static const String contract_line = 'contract_line.svg';
   static const String contract_solid = 'contract_solid.svg';
   static const String control_lun_line = 'control_lun_line.svg';
-  static const String control_lun_outline_alerted = 'control_lun_outline_alerted.svg';
-  static const String control_lun_outline_badged = 'control_lun_outline_badged.svg';
-  static const String control_lun_solid_alerted = 'control_lun_solid_alerted.svg';
+  static const String control_lun_outline_alerted =
+      'control_lun_outline_alerted.svg';
+  static const String control_lun_outline_badged =
+      'control_lun_outline_badged.svg';
+  static const String control_lun_solid_alerted =
+      'control_lun_solid_alerted.svg';
   static const String control_lun_solid_badged = 'control_lun_solid_badged.svg';
   static const String control_lun_solid = 'control_lun_solid.svg';
   static const String copy_line = 'copy_line.svg';
@@ -392,9 +427,12 @@ class Clarity extends StatelessWidget {
   static const String cursor_hand_solid = 'cursor_hand_solid.svg';
   static const String cursor_move_line = 'cursor_move_line.svg';
   static const String curve_chart_line = 'curve_chart_line.svg';
-  static const String curve_chart_outline_alerted = 'curve_chart_outline_alerted.svg';
-  static const String curve_chart_outline_badged = 'curve_chart_outline_badged.svg';
-  static const String curve_chart_solid_alerted = 'curve_chart_solid_alerted.svg';
+  static const String curve_chart_outline_alerted =
+      'curve_chart_outline_alerted.svg';
+  static const String curve_chart_outline_badged =
+      'curve_chart_outline_badged.svg';
+  static const String curve_chart_solid_alerted =
+      'curve_chart_solid_alerted.svg';
   static const String curve_chart_solid_badged = 'curve_chart_solid_badged.svg';
   static const String curve_chart_solid = 'curve_chart_solid.svg';
   static const String dashboard_line = 'dashboard_line.svg';
@@ -402,10 +440,14 @@ class Clarity extends StatelessWidget {
   static const String dashboard_solid_badged = 'dashboard_solid_badged.svg';
   static const String dashboard_solid = 'dashboard_solid.svg';
   static const String data_cluster_line = 'data_cluster_line.svg';
-  static const String data_cluster_outline_alerted = 'data_cluster_outline_alerted.svg';
-  static const String data_cluster_outline_badged = 'data_cluster_outline_badged.svg';
-  static const String data_cluster_solid_alerted = 'data_cluster_solid_alerted.svg';
-  static const String data_cluster_solid_badged = 'data_cluster_solid_badged.svg';
+  static const String data_cluster_outline_alerted =
+      'data_cluster_outline_alerted.svg';
+  static const String data_cluster_outline_badged =
+      'data_cluster_outline_badged.svg';
+  static const String data_cluster_solid_alerted =
+      'data_cluster_solid_alerted.svg';
+  static const String data_cluster_solid_badged =
+      'data_cluster_solid_badged.svg';
   static const String data_cluster_solid = 'data_cluster_solid.svg';
   static const String date_line = 'date_line.svg';
   static const String date_outline_alerted = 'date_outline_alerted.svg';
@@ -423,7 +465,8 @@ class Clarity extends StatelessWidget {
   static const String devices_solid = 'devices_solid.svg';
   static const String digital_signature_line = 'digital_signature_line.svg';
   static const String directory_line = 'directory_line.svg';
-  static const String directory_outline_alerted = 'directory_outline_alerted.svg';
+  static const String directory_outline_alerted =
+      'directory_outline_alerted.svg';
   static const String directory_outline_badged = 'directory_outline_badged.svg';
   static const String directory_solid_alerted = 'directory_solid_alerted.svg';
   static const String directory_solid_badged = 'directory_solid_badged.svg';
@@ -452,8 +495,10 @@ class Clarity extends StatelessWidget {
   static const String dollar_solid = 'dollar_solid.svg';
   static const String dot_circle_line = 'dot_circle_line.svg';
   static const String download_cloud_line = 'download_cloud_line.svg';
-  static const String download_cloud_outline_alerted = 'download_cloud_outline_alerted.svg';
-  static const String download_cloud_outline_badged = 'download_cloud_outline_badged.svg';
+  static const String download_cloud_outline_alerted =
+      'download_cloud_outline_alerted.svg';
+  static const String download_cloud_outline_badged =
+      'download_cloud_outline_badged.svg';
   static const String download_line = 'download_line.svg';
   static const String download_outline_alerted = 'download_outline_alerted.svg';
   static const String download_outline_badged = 'download_outline_badged.svg';
@@ -464,9 +509,11 @@ class Clarity extends StatelessWidget {
   static const String edit_line = 'edit_line.svg';
   static const String edit_solid = 'edit_solid.svg';
   static const String ellipsis_horizontal_line = 'ellipsis_horizontal_line.svg';
-  static const String ellipsis_horizontal_outline_badged = 'ellipsis_horizontal_outline_badged.svg';
+  static const String ellipsis_horizontal_outline_badged =
+      'ellipsis_horizontal_outline_badged.svg';
   static const String ellipsis_vertical_line = 'ellipsis_vertical_line.svg';
-  static const String ellipsis_vertical_outline_badged = 'ellipsis_vertical_outline_badged.svg';
+  static const String ellipsis_vertical_outline_badged =
+      'ellipsis_vertical_outline_badged.svg';
   static const String email_line = 'email_line.svg';
   static const String email_outline_alerted = 'email_outline_alerted.svg';
   static const String email_outline_badged = 'email_outline_badged.svg';
@@ -505,8 +552,10 @@ class Clarity extends StatelessWidget {
   static const String event_solid = 'event_solid.svg';
   static const String exclamation_circle_line = 'exclamation_circle_line.svg';
   static const String exclamation_circle_solid = 'exclamation_circle_solid.svg';
-  static const String exclamation_triangle_line = 'exclamation_triangle_line.svg';
-  static const String exclamation_triangle_solid = 'exclamation_triangle_solid.svg';
+  static const String exclamation_triangle_line =
+      'exclamation_triangle_line.svg';
+  static const String exclamation_triangle_solid =
+      'exclamation_triangle_solid.svg';
   static const String expand_card_line = 'expand_card_line.svg';
   static const String expand_card_solid = 'expand_card_solid.svg';
   static const String export_line = 'export_line.svg';
@@ -539,10 +588,14 @@ class Clarity extends StatelessWidget {
   static const String file_outline_alerted = 'file_outline_alerted.svg';
   static const String file_outline_badged = 'file_outline_badged.svg';
   static const String file_settings_line = 'file_settings_line.svg';
-  static const String file_settings_outline_alerted = 'file_settings_outline_alerted.svg';
-  static const String file_settings_outline_badged = 'file_settings_outline_badged.svg';
-  static const String file_settings_solid_alerted = 'file_settings_solid_alerted.svg';
-  static const String file_settings_solid_badged = 'file_settings_solid_badged.svg';
+  static const String file_settings_outline_alerted =
+      'file_settings_outline_alerted.svg';
+  static const String file_settings_outline_badged =
+      'file_settings_outline_badged.svg';
+  static const String file_settings_solid_alerted =
+      'file_settings_solid_alerted.svg';
+  static const String file_settings_solid_badged =
+      'file_settings_solid_badged.svg';
   static const String file_settings_solid = 'file_settings_solid.svg';
   static const String file_share_2_line = 'file_share_2_line.svg';
   static const String file_share_2_solid = 'file_share_2_solid.svg';
@@ -589,9 +642,12 @@ class Clarity extends StatelessWidget {
   static const String flow_chart_solid = 'flow_chart_solid.svg';
   static const String folder_line = 'folder_line.svg';
   static const String folder_open_line = 'folder_open_line.svg';
-  static const String folder_open_outline_alerted = 'folder_open_outline_alerted.svg';
-  static const String folder_open_outline_badged = 'folder_open_outline_badged.svg';
-  static const String folder_open_solid_alerted = 'folder_open_solid_alerted.svg';
+  static const String folder_open_outline_alerted =
+      'folder_open_outline_alerted.svg';
+  static const String folder_open_outline_badged =
+      'folder_open_outline_badged.svg';
+  static const String folder_open_solid_alerted =
+      'folder_open_solid_alerted.svg';
   static const String folder_open_solid_badged = 'folder_open_solid_badged.svg';
   static const String folder_open_solid = 'folder_open_solid.svg';
   static const String folder_outline_alerted = 'folder_outline_alerted.svg';
@@ -606,8 +662,10 @@ class Clarity extends StatelessWidget {
   static const String gavel_line = 'gavel_line.svg';
   static const String gavel_solid = 'gavel_solid.svg';
   static const String grid_chart_line = 'grid_chart_line.svg';
-  static const String grid_chart_outline_alerted = 'grid_chart_outline_alerted.svg';
-  static const String grid_chart_outline_badged = 'grid_chart_outline_badged.svg';
+  static const String grid_chart_outline_alerted =
+      'grid_chart_outline_alerted.svg';
+  static const String grid_chart_outline_badged =
+      'grid_chart_outline_badged.svg';
   static const String grid_chart_solid_alerted = 'grid_chart_solid_alerted.svg';
   static const String grid_chart_solid_badged = 'grid_chart_solid_badged.svg';
   static const String grid_chart_solid = 'grid_chart_solid.svg';
@@ -624,7 +682,8 @@ class Clarity extends StatelessWidget {
   static const String happy_face_line = 'happy_face_line.svg';
   static const String happy_face_solid = 'happy_face_solid.svg';
   static const String hard_disk_line = 'hard_disk_line.svg';
-  static const String hard_disk_outline_alerted = 'hard_disk_outline_alerted.svg';
+  static const String hard_disk_outline_alerted =
+      'hard_disk_outline_alerted.svg';
   static const String hard_disk_outline_badged = 'hard_disk_outline_badged.svg';
   static const String hard_disk_solid_alerted = 'hard_disk_solid_alerted.svg';
   static const String hard_disk_solid_badged = 'hard_disk_solid_badged.svg';
@@ -668,7 +727,8 @@ class Clarity extends StatelessWidget {
   static const String host_solid_badged = 'host_solid_badged.svg';
   static const String host_solid = 'host_solid.svg';
   static const String hourglass_line = 'hourglass_line.svg';
-  static const String hourglass_outline_alerted = 'hourglass_outline_alerted.svg';
+  static const String hourglass_outline_alerted =
+      'hourglass_outline_alerted.svg';
   static const String hourglass_outline_badged = 'hourglass_outline_badged.svg';
   static const String hourglass_solid_alerted = 'hourglass_solid_alerted.svg';
   static const String hourglass_solid_badged = 'hourglass_solid_badged.svg';
@@ -741,8 +801,10 @@ class Clarity extends StatelessWidget {
   static const String lightning_line = 'lightning_line.svg';
   static const String lightning_solid = 'lightning_solid.svg';
   static const String line_chart_line = 'line_chart_line.svg';
-  static const String line_chart_outline_alerted = 'line_chart_outline_alerted.svg';
-  static const String line_chart_outline_badged = 'line_chart_outline_badged.svg';
+  static const String line_chart_outline_alerted =
+      'line_chart_outline_alerted.svg';
+  static const String line_chart_outline_badged =
+      'line_chart_outline_badged.svg';
   static const String line_chart_solid_alerted = 'line_chart_solid_alerted.svg';
   static const String line_chart_solid_badged = 'line_chart_solid_badged.svg';
   static const String line_chart_solid = 'line_chart_solid.svg';
@@ -759,7 +821,8 @@ class Clarity extends StatelessWidget {
   static const String logout_solid = 'logout_solid.svg';
   static const String map_line = 'map_line.svg';
   static const String map_marker_line = 'map_marker_line.svg';
-  static const String map_marker_outline_badged = 'map_marker_outline_badged.svg';
+  static const String map_marker_outline_badged =
+      'map_marker_outline_badged.svg';
   static const String map_marker_solid_badged = 'map_marker_solid_badged.svg';
   static const String map_marker_solid = 'map_marker_solid.svg';
   static const String map_outline_alerted = 'map_outline_alerted.svg';
@@ -768,10 +831,14 @@ class Clarity extends StatelessWidget {
   static const String map_solid_badged = 'map_solid_badged.svg';
   static const String map_solid = 'map_solid.svg';
   static const String media_changer_line = 'media_changer_line.svg';
-  static const String media_changer_outline_alerted = 'media_changer_outline_alerted.svg';
-  static const String media_changer_outline_badged = 'media_changer_outline_badged.svg';
-  static const String media_changer_solid_alerted = 'media_changer_solid_alerted.svg';
-  static const String media_changer_solid_badged = 'media_changer_solid_badged.svg';
+  static const String media_changer_outline_alerted =
+      'media_changer_outline_alerted.svg';
+  static const String media_changer_outline_badged =
+      'media_changer_outline_badged.svg';
+  static const String media_changer_solid_alerted =
+      'media_changer_solid_alerted.svg';
+  static const String media_changer_solid_badged =
+      'media_changer_solid_badged.svg';
   static const String media_changer_solid = 'media_changer_solid.svg';
   static const String memory_line = 'memory_line.svg';
   static const String memory_outline_alerted = 'memory_outline_alerted.svg';
@@ -798,21 +865,30 @@ class Clarity extends StatelessWidget {
   static const String music_note_line = 'music_note_line.svg';
   static const String music_note_solid = 'music_note_solid.svg';
   static const String namespace_line = 'namespace_line.svg';
-  static const String namespace_outline_alerted = 'namespace_outline_alerted.svg';
+  static const String namespace_outline_alerted =
+      'namespace_outline_alerted.svg';
   static const String namespace_outline_badged = 'namespace_outline_badged.svg';
   static const String network_globe_line = 'network_globe_line.svg';
-  static const String network_globe_outline_alerted = 'network_globe_outline_alerted.svg';
-  static const String network_globe_outline_badged = 'network_globe_outline_badged.svg';
-  static const String network_globe_solid_alerted = 'network_globe_solid_alerted.svg';
-  static const String network_globe_solid_badged = 'network_globe_solid_badged.svg';
+  static const String network_globe_outline_alerted =
+      'network_globe_outline_alerted.svg';
+  static const String network_globe_outline_badged =
+      'network_globe_outline_badged.svg';
+  static const String network_globe_solid_alerted =
+      'network_globe_solid_alerted.svg';
+  static const String network_globe_solid_badged =
+      'network_globe_solid_badged.svg';
   static const String network_globe_solid = 'network_globe_solid.svg';
   static const String network_settings_line = 'network_settings_line.svg';
   static const String network_settings_solid = 'network_settings_solid.svg';
   static const String network_switch_line = 'network_switch_line.svg';
-  static const String network_switch_outline_alerted = 'network_switch_outline_alerted.svg';
-  static const String network_switch_outline_badged = 'network_switch_outline_badged.svg';
-  static const String network_switch_solid_alerted = 'network_switch_solid_alerted.svg';
-  static const String network_switch_solid_badged = 'network_switch_solid_badged.svg';
+  static const String network_switch_outline_alerted =
+      'network_switch_outline_alerted.svg';
+  static const String network_switch_outline_badged =
+      'network_switch_outline_badged.svg';
+  static const String network_switch_solid_alerted =
+      'network_switch_solid_alerted.svg';
+  static const String network_switch_solid_badged =
+      'network_switch_solid_badged.svg';
   static const String network_switch_solid = 'network_switch_solid.svg';
   static const String neutral_face_line = 'neutral_face_line.svg';
   static const String neutral_face_solid = 'neutral_face_solid.svg';
@@ -830,8 +906,10 @@ class Clarity extends StatelessWidget {
   static const String note_line = 'note_line.svg';
   static const String note_solid = 'note_solid.svg';
   static const String notification_line = 'notification_line.svg';
-  static const String notification_outline_badged = 'notification_outline_badged.svg';
-  static const String notification_solid_badged = 'notification_solid_badged.svg';
+  static const String notification_outline_badged =
+      'notification_outline_badged.svg';
+  static const String notification_solid_badged =
+      'notification_solid_badged.svg';
   static const String notification_solid = 'notification_solid.svg';
   static const String number_list_line = 'number_list_line.svg';
   static const String nvme_line = 'nvme_line.svg';
@@ -860,7 +938,8 @@ class Clarity extends StatelessWidget {
   static const String picture_solid_badged = 'picture_solid_badged.svg';
   static const String picture_solid = 'picture_solid.svg';
   static const String pie_chart_line = 'pie_chart_line.svg';
-  static const String pie_chart_outline_alerted = 'pie_chart_outline_alerted.svg';
+  static const String pie_chart_outline_alerted =
+      'pie_chart_outline_alerted.svg';
   static const String pie_chart_outline_badged = 'pie_chart_outline_badged.svg';
   static const String pie_chart_solid_alerted = 'pie_chart_solid_alerted.svg';
   static const String pie_chart_solid_badged = 'pie_chart_solid_badged.svg';
@@ -907,9 +986,12 @@ class Clarity extends StatelessWidget {
   static const String process_on_vm_line = 'process_on_vm_line.svg';
   static const String qr_code_line = 'qr_code_line.svg';
   static const String rack_server_line = 'rack_server_line.svg';
-  static const String rack_server_outline_alerted = 'rack_server_outline_alerted.svg';
-  static const String rack_server_outline_badged = 'rack_server_outline_badged.svg';
-  static const String rack_server_solid_alerted = 'rack_server_solid_alerted.svg';
+  static const String rack_server_outline_alerted =
+      'rack_server_outline_alerted.svg';
+  static const String rack_server_outline_badged =
+      'rack_server_outline_badged.svg';
+  static const String rack_server_solid_alerted =
+      'rack_server_solid_alerted.svg';
   static const String rack_server_solid_badged = 'rack_server_solid_badged.svg';
   static const String rack_server_solid = 'rack_server_solid.svg';
   static const String radar_line = 'radar_line.svg';
@@ -930,10 +1012,14 @@ class Clarity extends StatelessWidget {
   static const String resize_line = 'resize_line.svg';
   static const String resize_up_line = 'resize_up_line.svg';
   static const String resource_pool_line = 'resource_pool_line.svg';
-  static const String resource_pool_outline_alerted = 'resource_pool_outline_alerted.svg';
-  static const String resource_pool_outline_badged = 'resource_pool_outline_badged.svg';
-  static const String resource_pool_solid_alerted = 'resource_pool_solid_alerted.svg';
-  static const String resource_pool_solid_badged = 'resource_pool_solid_badged.svg';
+  static const String resource_pool_outline_alerted =
+      'resource_pool_outline_alerted.svg';
+  static const String resource_pool_outline_badged =
+      'resource_pool_outline_badged.svg';
+  static const String resource_pool_solid_alerted =
+      'resource_pool_solid_alerted.svg';
+  static const String resource_pool_solid_badged =
+      'resource_pool_solid_badged.svg';
   static const String resource_pool_solid = 'resource_pool_solid.svg';
   static const String rewind_line = 'rewind_line.svg';
   static const String rewind_solid = 'rewind_solid.svg';
@@ -954,10 +1040,14 @@ class Clarity extends StatelessWidget {
   static const String savings_line = 'savings_line.svg';
   static const String savings_solid = 'savings_solid.svg';
   static const String scatter_plot_line = 'scatter_plot_line.svg';
-  static const String scatter_plot_outline_alerted = 'scatter_plot_outline_alerted.svg';
-  static const String scatter_plot_outline_badged = 'scatter_plot_outline_badged.svg';
-  static const String scatter_plot_solid_alerted = 'scatter_plot_solid_alerted.svg';
-  static const String scatter_plot_solid_badged = 'scatter_plot_solid_badged.svg';
+  static const String scatter_plot_outline_alerted =
+      'scatter_plot_outline_alerted.svg';
+  static const String scatter_plot_outline_badged =
+      'scatter_plot_outline_badged.svg';
+  static const String scatter_plot_solid_alerted =
+      'scatter_plot_solid_alerted.svg';
+  static const String scatter_plot_solid_badged =
+      'scatter_plot_solid_badged.svg';
   static const String scatter_plot_solid = 'scatter_plot_solid.svg';
   static const String scissors_line = 'scissors_line.svg';
   static const String scissors_solid = 'scissors_solid.svg';
@@ -995,10 +1085,14 @@ class Clarity extends StatelessWidget {
   static const String shopping_bag_line = 'shopping_bag_line.svg';
   static const String shopping_bag_solid = 'shopping_bag_solid.svg';
   static const String shopping_cart_line = 'shopping_cart_line.svg';
-  static const String shopping_cart_outline_alerted = 'shopping_cart_outline_alerted.svg';
-  static const String shopping_cart_outline_badged = 'shopping_cart_outline_badged.svg';
-  static const String shopping_cart_solid_alerted = 'shopping_cart_solid_alerted.svg';
-  static const String shopping_cart_solid_badged = 'shopping_cart_solid_badged.svg';
+  static const String shopping_cart_outline_alerted =
+      'shopping_cart_outline_alerted.svg';
+  static const String shopping_cart_outline_badged =
+      'shopping_cart_outline_badged.svg';
+  static const String shopping_cart_solid_alerted =
+      'shopping_cart_solid_alerted.svg';
+  static const String shopping_cart_solid_badged =
+      'shopping_cart_solid_badged.svg';
   static const String shopping_cart_solid = 'shopping_cart_solid.svg';
   static const String shrink_line = 'shrink_line.svg';
   static const String shuffle_line = 'shuffle_line.svg';
@@ -1055,12 +1149,16 @@ class Clarity extends StatelessWidget {
   static const String tags_solid_badged = 'tags_solid_badged.svg';
   static const String tags_solid = 'tags_solid.svg';
   static const String talk_bubbles_line = 'talk_bubbles_line.svg';
-  static const String talk_bubbles_outline_badged = 'talk_bubbles_outline_badged.svg';
-  static const String talk_bubbles_solid_badged = 'talk_bubbles_solid_badged.svg';
+  static const String talk_bubbles_outline_badged =
+      'talk_bubbles_outline_badged.svg';
+  static const String talk_bubbles_solid_badged =
+      'talk_bubbles_solid_badged.svg';
   static const String talk_bubbles_solid = 'talk_bubbles_solid.svg';
   static const String tape_drive_line = 'tape_drive_line.svg';
-  static const String tape_drive_outline_alerted = 'tape_drive_outline_alerted.svg';
-  static const String tape_drive_outline_badged = 'tape_drive_outline_badged.svg';
+  static const String tape_drive_outline_alerted =
+      'tape_drive_outline_alerted.svg';
+  static const String tape_drive_outline_badged =
+      'tape_drive_outline_badged.svg';
   static const String tape_drive_solid_alerted = 'tape_drive_solid_alerted.svg';
   static const String tape_drive_solid_badged = 'tape_drive_solid_badged.svg';
   static const String tape_drive_solid = 'tape_drive_solid.svg';
@@ -1088,8 +1186,10 @@ class Clarity extends StatelessWidget {
   static const String thumbs_up_line = 'thumbs_up_line.svg';
   static const String thumbs_up_solid = 'thumbs_up_solid.svg';
   static const String tick_chart_line = 'tick_chart_line.svg';
-  static const String tick_chart_outline_alerted = 'tick_chart_outline_alerted.svg';
-  static const String tick_chart_outline_badged = 'tick_chart_outline_badged.svg';
+  static const String tick_chart_outline_alerted =
+      'tick_chart_outline_alerted.svg';
+  static const String tick_chart_outline_badged =
+      'tick_chart_outline_badged.svg';
   static const String tick_chart_solid_alerted = 'tick_chart_solid_alerted.svg';
   static const String tick_chart_solid_badged = 'tick_chart_solid_badged.svg';
   static const String tick_chart_solid = 'tick_chart_solid.svg';
@@ -1115,7 +1215,8 @@ class Clarity extends StatelessWidget {
   static const String underline_line = 'underline_line.svg';
   static const String undo_line = 'undo_line.svg';
   static const String uninstall_line = 'uninstall_line.svg';
-  static const String uninstall_outline_alerted = 'uninstall_outline_alerted.svg';
+  static const String uninstall_outline_alerted =
+      'uninstall_outline_alerted.svg';
   static const String uninstall_outline_badged = 'uninstall_outline_badged.svg';
   static const String unknown_status_line = 'unknown_status_line.svg';
   static const String unlink_line = 'unlink_line.svg';
@@ -1123,8 +1224,10 @@ class Clarity extends StatelessWidget {
   static const String unlock_solid = 'unlock_solid.svg';
   static const String update_line = 'update_line.svg';
   static const String upload_cloud_line = 'upload_cloud_line.svg';
-  static const String upload_cloud_outline_alerted = 'upload_cloud_outline_alerted.svg';
-  static const String upload_cloud_outline_badged = 'upload_cloud_outline_badged.svg';
+  static const String upload_cloud_outline_alerted =
+      'upload_cloud_outline_alerted.svg';
+  static const String upload_cloud_outline_badged =
+      'upload_cloud_outline_badged.svg';
   static const String upload_line = 'upload_line.svg';
   static const String upload_outline_alerted = 'upload_outline_alerted.svg';
   static const String upload_outline_badged = 'upload_outline_badged.svg';

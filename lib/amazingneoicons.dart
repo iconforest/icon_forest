@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// Amazing Neo icon pack (112 icons)
 class _AmazingNeoIcons extends IconData {
-  const _AmazingNeoIcons(int codePoint) : super(codePoint, fontFamily: 'amazingneoicons', fontPackage: 'icon_forest');
+  const _AmazingNeoIcons(int codePoint)
+      : super(codePoint,
+            fontFamily: 'amazingneoicons', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point
@@ -52,16 +54,20 @@ class AmazingNeoIcons {
   static const IconData angle_dow = _AmazingNeoIcons(0xf12b);
   static const IconData angle_left_alt_circle = _AmazingNeoIcons(0xf12c);
   static const IconData angle_left_alt_double = _AmazingNeoIcons(0xf12d);
-  static const IconData angle_left_alt_doublet_circle = _AmazingNeoIcons(0xf12e);
-  static const IconData angle_left_alt_doublet_square = _AmazingNeoIcons(0xf12f);
+  static const IconData angle_left_alt_doublet_circle =
+      _AmazingNeoIcons(0xf12e);
+  static const IconData angle_left_alt_doublet_square =
+      _AmazingNeoIcons(0xf12f);
   static const IconData angle_left_alt_square = _AmazingNeoIcons(0xf130);
   static const IconData angle_left_alt = _AmazingNeoIcons(0xf131);
   static const IconData angle_left_circle = _AmazingNeoIcons(0xf132);
   static const IconData angle_left_square = _AmazingNeoIcons(0xf133);
   static const IconData angle_left = _AmazingNeoIcons(0xf134);
   static const IconData angle_right_alt_circle = _AmazingNeoIcons(0xf135);
-  static const IconData angle_right_alt_double_circle = _AmazingNeoIcons(0xf136);
-  static const IconData angle_right_alt_double_square = _AmazingNeoIcons(0xf137);
+  static const IconData angle_right_alt_double_circle =
+      _AmazingNeoIcons(0xf136);
+  static const IconData angle_right_alt_double_square =
+      _AmazingNeoIcons(0xf137);
   static const IconData angle_right_alt_double = _AmazingNeoIcons(0xf138);
   static const IconData beach = _AmazingNeoIcons(0xf1cb);
   static const IconData archive = _AmazingNeoIcons(0xf147);

@@ -145,109 +145,174 @@ class _MyHomePageState extends State<MyHomePage> {
           children: const [
             /// Examples
             /// Amazing Neo icon example
-            ListTile(title: Text('AmazingNeoIcons'), leading: Icon(AmazingNeoIcons.airplane)),
+            ListTile(
+                title: Text('AmazingNeoIcons'),
+                leading: Icon(AmazingNeoIcons.airplane)),
 
             /// App crypto icon example
-            ListTile(title: Text('AppCryptoIcons'), leading: AppCryptoIcons(AppCryptoIcons.band)),
+            ListTile(
+                title: Text('AppCryptoIcons'),
+                leading: AppCryptoIcons(AppCryptoIcons.band)),
 
             /// Arcticon icon example
-            ListTile(title: Text('Arcticons'), leading: Arcticons(Arcticons.a3c_all_in_one_toolbox)),
+            ListTile(
+                title: Text('Arcticons'),
+                leading: Arcticons(Arcticons.a3c_all_in_one_toolbox)),
 
             /// Bpmn icon example
             ListTile(title: Text('Bpmn'), leading: Icon(Bpmn.ad_hoc_marker)),
 
             /// Bytesize icon example
-            ListTile(title: Text('Bytesize'), leading: Bytesize(Bytesize.camera)),
+            ListTile(
+                title: Text('Bytesize'), leading: Bytesize(Bytesize.camera)),
 
             /// Charm icon example
-            ListTile(title: Text('CharmIcons'), leading: CharmIcons(CharmIcons.anchor)),
+            ListTile(
+                title: Text('CharmIcons'),
+                leading: CharmIcons(CharmIcons.anchor)),
 
             /// Clarity icon example
-            ListTile(title: Text('Clarity'), leading: Clarity(Clarity.accessibility_1_line)),
+            ListTile(
+                title: Text('Clarity'),
+                leading: Clarity(Clarity.accessibility_1_line)),
 
             /// Don icon example
-            ListTile(title: Text('DonIcons'), leading: Icon(DonIcons.add_square)),
+            ListTile(
+                title: Text('DonIcons'), leading: Icon(DonIcons.add_square)),
 
             /// EncapitalIconsTest icon example
-            ListTile(title: Text('EncapitalIconsTest'), leading: Icon(EncapitalIconsTest.watchlist_outlined)),
+            ListTile(
+                title: Text('EncapitalIconsTest'),
+                leading: Icon(EncapitalIconsTest.watchlist_outlined)),
 
             /// FlatIcons (Arrows) icon example
-            ListTile(title: Text('FlatIconsArrows'), leading: Icon(FlatIconsArrows.back_a)),
+            ListTile(
+                title: Text('FlatIconsArrows'),
+                leading: Icon(FlatIconsArrows.back_a)),
 
             /// FlatIcons (Medium) icon example
-            ListTile(title: Text('FlatIconsMedium'), leading: Icon(FlatIconsMedium.agenda)),
+            ListTile(
+                title: Text('FlatIconsMedium'),
+                leading: Icon(FlatIconsMedium.agenda)),
 
             /// FlatIcons (Social) icon example
-            ListTile(title: Text('FlatIconsSocial'), leading: Icon(FlatIconsSocial.amazon)),
+            ListTile(
+                title: Text('FlatIconsSocial'),
+                leading: Icon(FlatIconsSocial.amazon)),
 
             /// Flutter cmoon icon example
-            ListTile(title: Text('FlutterCmoonIcons'), leading: Icon(FlutterCmoonIcons.icon_1password)),
+            ListTile(
+                title: Text('FlutterCmoonIcons'),
+                leading: Icon(FlutterCmoonIcons.icon_1password)),
 
             /// Flutter icomoon icon example
-            ListTile(title: Text('FlutterIcoMoonIcons'), leading: Icon(FlutterIcoMoonIcons.aidKit)),
+            ListTile(
+                title: Text('FlutterIcoMoonIcons'),
+                leading: Icon(FlutterIcoMoonIcons.aidKit)),
 
             /// Frino icon example
-            ListTile(title: Text('FrinoIcons'), leading: Icon(FrinoIcons.f_google_plus)),
+            ListTile(
+                title: Text('FrinoIcons'),
+                leading: Icon(FrinoIcons.f_google_plus)),
 
             /// Gala icon example
-            ListTile(title: Text('GalaIcons'), leading: GalaIcons(GalaIcons.gala_airplay)),
+            ListTile(
+                title: Text('GalaIcons'),
+                leading: GalaIcons(GalaIcons.gala_airplay)),
 
             /// Grommet icon example
-            ListTile(title: Text('GrommetIcons'), leading: GrommetIcons(GrommetIcons.accessibility)),
+            ListTile(
+                title: Text('GrommetIcons'),
+                leading: GrommetIcons(GrommetIcons.accessibility)),
 
             /// IconPark icon example
-            ListTile(title: Text('IconPark'), leading: IconPark(IconPark.family)),
+            ListTile(
+                title: Text('IconPark'), leading: IconPark(IconPark.family)),
 
             /// Iconic icon example
             ListTile(title: Text('Iconic'), leading: Icon(Iconic.star)),
 
             /// Iconoir icon example
-            ListTile(title: Text('Iconoir'), leading: Iconoir(Iconoir.add_circled_outline)),
+            ListTile(
+                title: Text('Iconoir'),
+                leading: Iconoir(Iconoir.add_circled_outline)),
 
             /// Ion icon example
-            ListTile(title: Text('Ionicons'), leading: Ionicons(Ionicons.add_circle_sharp)),
+            ListTile(
+                title: Text('Ionicons'),
+                leading: Ionicons(Ionicons.add_circle_sharp)),
 
             /// Kicons aliyun icon example
-            ListTile(title: Text('KiconsAliyun'), leading: Icon(KiconsAliyun.calculator)),
+            ListTile(
+                title: Text('KiconsAliyun'),
+                leading: Icon(KiconsAliyun.calculator)),
 
             /// Kicons emoji icon example
-            ListTile(title: Text('KiconsEmoji'), leading: Icon(KiconsEmoji.astonished)),
+            ListTile(
+                title: Text('KiconsEmoji'),
+                leading: Icon(KiconsEmoji.astonished)),
 
             /// Koukicons icon example
-            ListTile(title: Text('Koukicons'), leading: Koukicons(Koukicons.calculator)),
+            ListTile(
+                title: Text('Koukicons'),
+                leading: Koukicons(Koukicons.calculator)),
 
             /// Majesticons icon example
-            ListTile(title: Text('Majesticons'), leading: Majesticons(Majesticons.airplane_flight_2)),
+            ListTile(
+                title: Text('Majesticons'),
+                leading: Majesticons(Majesticons.airplane_flight_2)),
 
             /// Openmoji (Black) icon example
-            ListTile(title: Text('OpenmojiBlack'), leading: OpenmojiBlack(OpenmojiBlack.E0B3)),
+            ListTile(
+                title: Text('OpenmojiBlack'),
+                leading: OpenmojiBlack(OpenmojiBlack.E0B3)),
 
             /// Openmoji (Color) icon example
-            ListTile(title: Text('OpenmojiColor'), leading: OpenmojiColor(OpenmojiColor.E0A3)),
+            ListTile(
+                title: Text('OpenmojiColor'),
+                leading: OpenmojiColor(OpenmojiColor.E0A3)),
 
             /// SystemUicons icon example
-            ListTile(title: Text('SystemUicons'), leading: SystemUicons(SystemUicons.browser)),
+            ListTile(
+                title: Text('SystemUicons'),
+                leading: SystemUicons(SystemUicons.browser)),
 
             /// Teenyicons icon example
-            ListTile(title: Text('Teenyicons'), leading: Teenyicons(Teenyicons.table_outline)),
+            ListTile(
+                title: Text('Teenyicons'),
+                leading: Teenyicons(Teenyicons.table_outline)),
 
             /// TernavIcons (Bold) icon example
-            ListTile(title: Text('TernavIconsBold'), leading: TernavIconsBold(TernavIconsBold.Accept)),
+            ListTile(
+                title: Text('TernavIconsBold'),
+                leading: TernavIconsBold(TernavIconsBold.Accept)),
 
             /// TernavIcons (Duotone) icon example
-            ListTile(title: Text('TernavIconsDuotone'), leading: TernavIconsDuotone(TernavIconsDuotone.Aligncenter)),
+            ListTile(
+                title: Text('TernavIconsDuotone'),
+                leading: TernavIconsDuotone(TernavIconsDuotone.Aligncenter)),
 
             /// TernavIcons (Light) icon example
-            ListTile(title: Text('TernavIconsLight'), leading: TernavIconsLight(TernavIconsLight.Arrow_DownSquare3)),
+            ListTile(
+                title: Text('TernavIconsLight'),
+                leading: TernavIconsLight(TernavIconsLight.Arrow_DownSquare3)),
 
             /// TernavIcons (LightOutline) icon example
-            ListTile(title: Text('TernavIconsLightOutline'), leading: TernavIconsLightOutline(TernavIconsLightOutline.Arrow_Left1)),
+            ListTile(
+                title: Text('TernavIconsLightOutline'),
+                leading: TernavIconsLightOutline(
+                    TernavIconsLightOutline.Arrow_Left1)),
 
             /// TernavIcons (TwoColors)  icon example
-            ListTile(title: Text('TernavIconsTwoColor'), leading: TernavIconsTwoColor(TernavIconsTwoColor.Arrow_UpSquare)),
+            ListTile(
+                title: Text('TernavIconsTwoColor'),
+                leading:
+                    TernavIconsTwoColor(TernavIconsTwoColor.Arrow_UpSquare)),
 
             /// Themify icon example
-            ListTile(title: Text('ThemifyIcons'), leading: ThemifyIcons(ThemifyIcons.agenda)),
+            ListTile(
+                title: Text('ThemifyIcons'),
+                leading: ThemifyIcons(ThemifyIcons.agenda)),
           ],
         ),
       ),

@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// flat_icons_flutter (Medium) icon pack (380 icons)
 class _FlatIconsFlutterMedium extends IconData {
-  const _FlatIconsFlutterMedium(int codePoint) : super(codePoint, fontFamily: 'flat_icons_medium', fontPackage: 'icon_forest');
+  const _FlatIconsFlutterMedium(int codePoint)
+      : super(codePoint,
+            fontFamily: 'flat_icons_medium', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

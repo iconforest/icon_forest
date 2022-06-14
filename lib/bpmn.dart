@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 /// bpmn icon pack (106 icons)
 class _Bpmn extends IconData {
-  const _Bpmn(int codePoint) : super(codePoint, fontFamily: 'bpmn', fontPackage: 'icon_forest');
+  const _Bpmn(int codePoint)
+      : super(codePoint, fontFamily: 'bpmn', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point
@@ -48,14 +49,23 @@ class Bpmn {
   static const IconData intermediate_event_catch_link = _Bpmn(0xe826);
   static const IconData intermediate_event_catch_message = _Bpmn(0xe827);
   static const IconData intermediate_event_catch_multiple = _Bpmn(0xe828);
-  static const IconData intermediate_event_catch_non_interrupting_condition = _Bpmn(0xe829);
-  static const IconData intermediate_event_catch_non_interrupting_escalation = _Bpmn(0xe82a);
-  static const IconData intermediate_event_catch_non_interrupting_message = _Bpmn(0xe82b);
-  static const IconData intermediate_event_catch_non_interrupting_multiple = _Bpmn(0xe82c);
-  static const IconData intermediate_event_catch_non_interrupting_parallel_multiple = _Bpmn(0xe82d);
-  static const IconData intermediate_event_catch_non_interrupting_signal = _Bpmn(0xe82e);
-  static const IconData intermediate_event_catch_non_interrupting_timer = _Bpmn(0xe82f);
-  static const IconData intermediate_event_catch_parallel_multiple = _Bpmn(0xe830);
+  static const IconData intermediate_event_catch_non_interrupting_condition =
+      _Bpmn(0xe829);
+  static const IconData intermediate_event_catch_non_interrupting_escalation =
+      _Bpmn(0xe82a);
+  static const IconData intermediate_event_catch_non_interrupting_message =
+      _Bpmn(0xe82b);
+  static const IconData intermediate_event_catch_non_interrupting_multiple =
+      _Bpmn(0xe82c);
+  static const IconData
+      intermediate_event_catch_non_interrupting_parallel_multiple =
+      _Bpmn(0xe82d);
+  static const IconData intermediate_event_catch_non_interrupting_signal =
+      _Bpmn(0xe82e);
+  static const IconData intermediate_event_catch_non_interrupting_timer =
+      _Bpmn(0xe82f);
+  static const IconData intermediate_event_catch_parallel_multiple =
+      _Bpmn(0xe830);
   static const IconData intermediate_event_catch_signal = _Bpmn(0xe831);
   static const IconData intermediate_event_catch_timer = _Bpmn(0xe832);
   static const IconData intermediate_event_none = _Bpmn(0xe833);
@@ -97,7 +107,8 @@ class Bpmn {
   static const IconData start_event_non_interrupting_escalation = _Bpmn(0xe857);
   static const IconData start_event_non_interrupting_message = _Bpmn(0xe858);
   static const IconData start_event_non_interrupting_multiple = _Bpmn(0xe859);
-  static const IconData start_event_non_interrupting_parallel_multiple = _Bpmn(0xe85a);
+  static const IconData start_event_non_interrupting_parallel_multiple =
+      _Bpmn(0xe85a);
   static const IconData start_event_non_interrupting_signal = _Bpmn(0xe85b);
   static const IconData start_event_non_interrupting_timer = _Bpmn(0xe85c);
   static const IconData start_event_none = _Bpmn(0xe85d);

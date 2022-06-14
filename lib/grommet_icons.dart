@@ -3,9 +3,9 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import 'icon_forest.dart';
 
-/// App crypto icons (30 icons)
+/// Grommet icons (615 icons)
 ///
-/// - build svg for app_crypto_icons icon libraries
+/// - build svg for grommet_icons icon libraries
 /// - constants link to svg icon resources
 class GrommetIcons extends StatelessWidget {
   final String assetName;

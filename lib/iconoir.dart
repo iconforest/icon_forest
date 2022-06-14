@@ -3,9 +3,9 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import 'icon_forest.dart';
 
-/// App crypto icons (30 icons)
+/// Iconoir icons (30 icons)
 ///
-/// - build svg for app_crypto_icons icon libraries
+/// - build svg for iconoir icon libraries
 /// - constants link to svg icon resources
 class Iconoir extends StatelessWidget {
   final String assetName;
@@ -82,7 +82,8 @@ class Iconoir extends StatelessWidget {
   static const String $3d_ellipse_three_pts = '3d_ellipse_three_pts.svg';
   static const String $3d_ellipse = '3d_ellipse.svg';
   static const String $3d_pt_box = '3d_pt_box.svg';
-  static const String $3d_rect_corner_to_corner = '3d_rect_corner_to_corner.svg';
+  static const String $3d_rect_corner_to_corner =
+      '3d_rect_corner_to_corner.svg';
   static const String $3d_rect_from_center = '3d_rect_from_center.svg';
   static const String $3d_rect_three_pts = '3d_rect_three_pts.svg';
   static const String $3d_select_edge = '3d_select_edge.svg';
@@ -386,7 +387,8 @@ class Iconoir extends StatelessWidget {
   static const String dribbble = 'dribbble.svg';
   static const String droplet_half = 'droplet_half.svg';
   static const String droplet = 'droplet.svg';
-  static const String ease_curve_control_points = 'ease_curve_control_points.svg';
+  static const String ease_curve_control_points =
+      'ease_curve_control_points.svg';
   static const String ease_in_control_point = 'ease_in_control_point.svg';
   static const String ease_in_out = 'ease_in_out.svg';
   static const String ease_in = 'ease_in.svg';
@@ -469,7 +471,8 @@ class Iconoir extends StatelessWidget {
   static const String filter = 'filter.svg';
   static const String finder = 'finder.svg';
   static const String finger_print_window = 'finger_print_window.svg';
-  static const String fingerprint_circled_error = 'fingerprint_circled_error.svg';
+  static const String fingerprint_circled_error =
+      'fingerprint_circled_error.svg';
   static const String fingerprint_circled_lock = 'fingerprint_circled_lock.svg';
   static const String fingerprint_circled_ok = 'fingerprint_circled_ok.svg';
   static const String fingerprint_circled = 'fingerprint_circled.svg';
@@ -604,7 +607,8 @@ class Iconoir extends StatelessWidget {
   static const String key_alt_remove = 'key_alt_remove.svg';
   static const String key_alt = 'key_alt.svg';
   static const String keyframe_align_center = 'keyframe_align_center.svg';
-  static const String keyframe_align_horizontal = 'keyframe_align_horizontal.svg';
+  static const String keyframe_align_horizontal =
+      'keyframe_align_horizontal.svg';
   static const String keyframe_align_vertical = 'keyframe_align_vertical.svg';
   static const String keyframe_position = 'keyframe_position.svg';
   static const String keyframe = 'keyframe.svg';
@@ -705,9 +709,11 @@ class Iconoir extends StatelessWidget {
   static const String modern_tv = 'modern_tv.svg';
   static const String money_square = 'money_square.svg';
   static const String moon_sat = 'moon_sat.svg';
-  static const String more_horiz_circled_outline = 'more_horiz_circled_outline.svg';
+  static const String more_horiz_circled_outline =
+      'more_horiz_circled_outline.svg';
   static const String more_horiz = 'more_horiz.svg';
-  static const String more_vert_circled_outline = 'more_vert_circled_outline.svg';
+  static const String more_vert_circled_outline =
+      'more_vert_circled_outline.svg';
   static const String more_vert = 'more_vert.svg';
   static const String motorcycle = 'motorcycle.svg';
   static const String mouse_button_left = 'mouse_button_left.svg';
@@ -758,7 +764,8 @@ class Iconoir extends StatelessWidget {
   static const String off_rounded = 'off_rounded.svg';
   static const String oil_industry = 'oil_industry.svg';
   static const String on_rounded = 'on_rounded.svg';
-  static const String one_finger_select_hand_gesture = 'one_finger_select_hand_gesture.svg';
+  static const String one_finger_select_hand_gesture =
+      'one_finger_select_hand_gesture.svg';
   static const String one_point_circle = 'one_point_circle.svg';
   static const String open_book = 'open_book.svg';
   static const String open_in_browser = 'open_in_browser.svg';
@@ -1022,10 +1029,14 @@ class Iconoir extends StatelessWidget {
   static const String swipe_down_gesture = 'swipe_down_gesture.svg';
   static const String swipe_left_gesture = 'swipe_left_gesture.svg';
   static const String swipe_right_gesture = 'swipe_right_gesture.svg';
-  static const String swipe_two_fingers_down_gesture = 'swipe_two_fingers_down_gesture.svg';
-  static const String swipe_two_fingers_left_gesture = 'swipe_two_fingers_left_gesture.svg';
-  static const String swipe_two_fingers_right_gesture = 'swipe_two_fingers_right_gesture.svg';
-  static const String swipe_two_fingers_up_gesture = 'swipe_two_fingers_up_gesture.svg';
+  static const String swipe_two_fingers_down_gesture =
+      'swipe_two_fingers_down_gesture.svg';
+  static const String swipe_two_fingers_left_gesture =
+      'swipe_two_fingers_left_gesture.svg';
+  static const String swipe_two_fingers_right_gesture =
+      'swipe_two_fingers_right_gesture.svg';
+  static const String swipe_two_fingers_up_gesture =
+      'swipe_two_fingers_up_gesture.svg';
   static const String swipe_up_gesture = 'swipe_up_gesture.svg';
   static const String switch_off_outline = 'switch_off_outline.svg';
   static const String switch_on_outline = 'switch_on_outline.svg';
@@ -1135,7 +1146,8 @@ class Iconoir extends StatelessWidget {
   static const String wash = 'wash.svg';
   static const String washing_machine = 'washing_machine.svg';
   static const String web_window_close = 'web_window_close.svg';
-  static const String web_window_energy_consumption = 'web_window_energy_consumption.svg';
+  static const String web_window_energy_consumption =
+      'web_window_energy_consumption.svg';
   static const String web_window = 'web_window.svg';
   static const String weight_alt = 'weight_alt.svg';
   static const String weight = 'weight.svg';

@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// encapital icon pack (8 icons)
 class _EncapitalIconsTest extends IconData {
-  const _EncapitalIconsTest(int codePoint) : super(codePoint, fontFamily: 'encapital_icons_test', fontPackage: 'icon_forest');
+  const _EncapitalIconsTest(int codePoint)
+      : super(codePoint,
+            fontFamily: 'encapital_icons_test', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

@@ -2,7 +2,9 @@ import 'package:flutter/cupertino.dart';
 
 /// flat_icons_flutter (Social) icon pack (40 icons)
 class _FlatIconsFlutterSocial extends IconData {
-  const _FlatIconsFlutterSocial(int codePoint) : super(codePoint, fontFamily: 'flat_icons_social', fontPackage: 'icon_forest');
+  const _FlatIconsFlutterSocial(int codePoint)
+      : super(codePoint,
+            fontFamily: 'flat_icons_social', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

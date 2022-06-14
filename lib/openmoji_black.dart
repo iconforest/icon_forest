@@ -229,7 +229,8 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F573 = '1F573.svg';
   static const String $1F4A3 = '1F4A3.svg';
   static const String $1F4AC = '1F4AC.svg';
-  static const String $1F441_FE0F_200D_1F5E8_FE0F = '1F441_FE0F_200D_1F5E8_FE0F.svg';
+  static const String $1F441_FE0F_200D_1F5E8_FE0F =
+      '1F441_FE0F_200D_1F5E8_FE0F.svg';
   static const String $1F5E8 = '1F5E8.svg';
   static const String $1F5EF = '1F5EF.svg';
   static const String $1F4AD = '1F4AD.svg';
@@ -456,26 +457,46 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F91D_1F3FD = '1F91D_1F3FD.svg';
   static const String $1F91D_1F3FE = '1F91D_1F3FE.svg';
   static const String $1F91D_1F3FF = '1F91D_1F3FF.svg';
-  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FC = '1FAF1_1F3FB_200D_1FAF2_1F3FC.svg';
-  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FD = '1FAF1_1F3FB_200D_1FAF2_1F3FD.svg';
-  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FE = '1FAF1_1F3FB_200D_1FAF2_1F3FE.svg';
-  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FF = '1FAF1_1F3FB_200D_1FAF2_1F3FF.svg';
-  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FB = '1FAF1_1F3FC_200D_1FAF2_1F3FB.svg';
-  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FD = '1FAF1_1F3FC_200D_1FAF2_1F3FD.svg';
-  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FE = '1FAF1_1F3FC_200D_1FAF2_1F3FE.svg';
-  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FF = '1FAF1_1F3FC_200D_1FAF2_1F3FF.svg';
-  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FB = '1FAF1_1F3FD_200D_1FAF2_1F3FB.svg';
-  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FC = '1FAF1_1F3FD_200D_1FAF2_1F3FC.svg';
-  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FE = '1FAF1_1F3FD_200D_1FAF2_1F3FE.svg';
-  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FF = '1FAF1_1F3FD_200D_1FAF2_1F3FF.svg';
-  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FB = '1FAF1_1F3FE_200D_1FAF2_1F3FB.svg';
-  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FC = '1FAF1_1F3FE_200D_1FAF2_1F3FC.svg';
-  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FD = '1FAF1_1F3FE_200D_1FAF2_1F3FD.svg';
-  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FF = '1FAF1_1F3FE_200D_1FAF2_1F3FF.svg';
-  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FB = '1FAF1_1F3FF_200D_1FAF2_1F3FB.svg';
-  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FC = '1FAF1_1F3FF_200D_1FAF2_1F3FC.svg';
-  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FD = '1FAF1_1F3FF_200D_1FAF2_1F3FD.svg';
-  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FE = '1FAF1_1F3FF_200D_1FAF2_1F3FE.svg';
+  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FC =
+      '1FAF1_1F3FB_200D_1FAF2_1F3FC.svg';
+  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FD =
+      '1FAF1_1F3FB_200D_1FAF2_1F3FD.svg';
+  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FE =
+      '1FAF1_1F3FB_200D_1FAF2_1F3FE.svg';
+  static const String $1FAF1_1F3FB_200D_1FAF2_1F3FF =
+      '1FAF1_1F3FB_200D_1FAF2_1F3FF.svg';
+  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FB =
+      '1FAF1_1F3FC_200D_1FAF2_1F3FB.svg';
+  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FD =
+      '1FAF1_1F3FC_200D_1FAF2_1F3FD.svg';
+  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FE =
+      '1FAF1_1F3FC_200D_1FAF2_1F3FE.svg';
+  static const String $1FAF1_1F3FC_200D_1FAF2_1F3FF =
+      '1FAF1_1F3FC_200D_1FAF2_1F3FF.svg';
+  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FB =
+      '1FAF1_1F3FD_200D_1FAF2_1F3FB.svg';
+  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FC =
+      '1FAF1_1F3FD_200D_1FAF2_1F3FC.svg';
+  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FE =
+      '1FAF1_1F3FD_200D_1FAF2_1F3FE.svg';
+  static const String $1FAF1_1F3FD_200D_1FAF2_1F3FF =
+      '1FAF1_1F3FD_200D_1FAF2_1F3FF.svg';
+  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FB =
+      '1FAF1_1F3FE_200D_1FAF2_1F3FB.svg';
+  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FC =
+      '1FAF1_1F3FE_200D_1FAF2_1F3FC.svg';
+  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FD =
+      '1FAF1_1F3FE_200D_1FAF2_1F3FD.svg';
+  static const String $1FAF1_1F3FE_200D_1FAF2_1F3FF =
+      '1FAF1_1F3FE_200D_1FAF2_1F3FF.svg';
+  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FB =
+      '1FAF1_1F3FF_200D_1FAF2_1F3FB.svg';
+  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FC =
+      '1FAF1_1F3FF_200D_1FAF2_1F3FC.svg';
+  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FD =
+      '1FAF1_1F3FF_200D_1FAF2_1F3FD.svg';
+  static const String $1FAF1_1F3FF_200D_1FAF2_1F3FE =
+      '1FAF1_1F3FF_200D_1FAF2_1F3FE.svg';
   static const String $1F64F = '1F64F.svg';
   static const String $1F64F_1F3FB = '1F64F_1F3FB.svg';
   static const String $1F64F_1F3FC = '1F64F_1F3FC.svg';
@@ -597,17 +618,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D4_1F3FE = '1F9D4_1F3FE.svg';
   static const String $1F9D4_1F3FF = '1F9D4_1F3FF.svg';
   static const String $1F9D4_200D_2642_FE0F = '1F9D4_200D_2642_FE0F.svg';
-  static const String $1F9D4_1F3FB_200D_2642_FE0F = '1F9D4_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9D4_1F3FC_200D_2642_FE0F = '1F9D4_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9D4_1F3FD_200D_2642_FE0F = '1F9D4_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9D4_1F3FE_200D_2642_FE0F = '1F9D4_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9D4_1F3FF_200D_2642_FE0F = '1F9D4_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9D4_1F3FB_200D_2642_FE0F =
+      '1F9D4_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9D4_1F3FC_200D_2642_FE0F =
+      '1F9D4_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9D4_1F3FD_200D_2642_FE0F =
+      '1F9D4_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9D4_1F3FE_200D_2642_FE0F =
+      '1F9D4_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9D4_1F3FF_200D_2642_FE0F =
+      '1F9D4_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D4_200D_2640_FE0F = '1F9D4_200D_2640_FE0F.svg';
-  static const String $1F9D4_1F3FB_200D_2640_FE0F = '1F9D4_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9D4_1F3FC_200D_2640_FE0F = '1F9D4_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9D4_1F3FD_200D_2640_FE0F = '1F9D4_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9D4_1F3FE_200D_2640_FE0F = '1F9D4_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9D4_1F3FF_200D_2640_FE0F = '1F9D4_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9D4_1F3FB_200D_2640_FE0F =
+      '1F9D4_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9D4_1F3FC_200D_2640_FE0F =
+      '1F9D4_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9D4_1F3FD_200D_2640_FE0F =
+      '1F9D4_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9D4_1F3FE_200D_2640_FE0F =
+      '1F9D4_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9D4_1F3FF_200D_2640_FE0F =
+      '1F9D4_1F3FF_200D_2640_FE0F.svg';
   static const String $1F468_200D_1F9B0 = '1F468_200D_1F9B0.svg';
   static const String $1F468_1F3FB_200D_1F9B0 = '1F468_1F3FB_200D_1F9B0.svg';
   static const String $1F468_1F3FC_200D_1F9B0 = '1F468_1F3FC_200D_1F9B0.svg';
@@ -687,17 +718,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D1_1F3FE_200D_1F9B2 = '1F9D1_1F3FE_200D_1F9B2.svg';
   static const String $1F9D1_1F3FF_200D_1F9B2 = '1F9D1_1F3FF_200D_1F9B2.svg';
   static const String $1F471_200D_2640_FE0F = '1F471_200D_2640_FE0F.svg';
-  static const String $1F471_1F3FB_200D_2640_FE0F = '1F471_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F471_1F3FC_200D_2640_FE0F = '1F471_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F471_1F3FD_200D_2640_FE0F = '1F471_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F471_1F3FE_200D_2640_FE0F = '1F471_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F471_1F3FF_200D_2640_FE0F = '1F471_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F471_1F3FB_200D_2640_FE0F =
+      '1F471_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F471_1F3FC_200D_2640_FE0F =
+      '1F471_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F471_1F3FD_200D_2640_FE0F =
+      '1F471_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F471_1F3FE_200D_2640_FE0F =
+      '1F471_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F471_1F3FF_200D_2640_FE0F =
+      '1F471_1F3FF_200D_2640_FE0F.svg';
   static const String $1F471_200D_2642_FE0F = '1F471_200D_2642_FE0F.svg';
-  static const String $1F471_1F3FB_200D_2642_FE0F = '1F471_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F471_1F3FC_200D_2642_FE0F = '1F471_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F471_1F3FD_200D_2642_FE0F = '1F471_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F471_1F3FE_200D_2642_FE0F = '1F471_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F471_1F3FF_200D_2642_FE0F = '1F471_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F471_1F3FB_200D_2642_FE0F =
+      '1F471_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F471_1F3FC_200D_2642_FE0F =
+      '1F471_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F471_1F3FD_200D_2642_FE0F =
+      '1F471_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F471_1F3FE_200D_2642_FE0F =
+      '1F471_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F471_1F3FF_200D_2642_FE0F =
+      '1F471_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D3 = '1F9D3.svg';
   static const String $1F9D3_1F3FB = '1F9D3_1F3FB.svg';
   static const String $1F9D3_1F3FC = '1F9D3_1F3FC.svg';
@@ -723,17 +764,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F64D_1F3FE = '1F64D_1F3FE.svg';
   static const String $1F64D_1F3FF = '1F64D_1F3FF.svg';
   static const String $1F64D_200D_2642_FE0F = '1F64D_200D_2642_FE0F.svg';
-  static const String $1F64D_1F3FB_200D_2642_FE0F = '1F64D_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F64D_1F3FC_200D_2642_FE0F = '1F64D_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F64D_1F3FD_200D_2642_FE0F = '1F64D_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F64D_1F3FE_200D_2642_FE0F = '1F64D_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F64D_1F3FF_200D_2642_FE0F = '1F64D_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F64D_1F3FB_200D_2642_FE0F =
+      '1F64D_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F64D_1F3FC_200D_2642_FE0F =
+      '1F64D_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F64D_1F3FD_200D_2642_FE0F =
+      '1F64D_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F64D_1F3FE_200D_2642_FE0F =
+      '1F64D_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F64D_1F3FF_200D_2642_FE0F =
+      '1F64D_1F3FF_200D_2642_FE0F.svg';
   static const String $1F64D_200D_2640_FE0F = '1F64D_200D_2640_FE0F.svg';
-  static const String $1F64D_1F3FB_200D_2640_FE0F = '1F64D_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F64D_1F3FC_200D_2640_FE0F = '1F64D_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F64D_1F3FD_200D_2640_FE0F = '1F64D_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F64D_1F3FE_200D_2640_FE0F = '1F64D_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F64D_1F3FF_200D_2640_FE0F = '1F64D_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F64D_1F3FB_200D_2640_FE0F =
+      '1F64D_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F64D_1F3FC_200D_2640_FE0F =
+      '1F64D_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F64D_1F3FD_200D_2640_FE0F =
+      '1F64D_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F64D_1F3FE_200D_2640_FE0F =
+      '1F64D_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F64D_1F3FF_200D_2640_FE0F =
+      '1F64D_1F3FF_200D_2640_FE0F.svg';
   static const String $1F64E = '1F64E.svg';
   static const String $1F64E_1F3FB = '1F64E_1F3FB.svg';
   static const String $1F64E_1F3FC = '1F64E_1F3FC.svg';
@@ -741,17 +792,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F64E_1F3FE = '1F64E_1F3FE.svg';
   static const String $1F64E_1F3FF = '1F64E_1F3FF.svg';
   static const String $1F64E_200D_2642_FE0F = '1F64E_200D_2642_FE0F.svg';
-  static const String $1F64E_1F3FB_200D_2642_FE0F = '1F64E_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F64E_1F3FC_200D_2642_FE0F = '1F64E_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F64E_1F3FD_200D_2642_FE0F = '1F64E_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F64E_1F3FE_200D_2642_FE0F = '1F64E_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F64E_1F3FF_200D_2642_FE0F = '1F64E_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F64E_1F3FB_200D_2642_FE0F =
+      '1F64E_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F64E_1F3FC_200D_2642_FE0F =
+      '1F64E_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F64E_1F3FD_200D_2642_FE0F =
+      '1F64E_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F64E_1F3FE_200D_2642_FE0F =
+      '1F64E_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F64E_1F3FF_200D_2642_FE0F =
+      '1F64E_1F3FF_200D_2642_FE0F.svg';
   static const String $1F64E_200D_2640_FE0F = '1F64E_200D_2640_FE0F.svg';
-  static const String $1F64E_1F3FB_200D_2640_FE0F = '1F64E_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F64E_1F3FC_200D_2640_FE0F = '1F64E_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F64E_1F3FD_200D_2640_FE0F = '1F64E_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F64E_1F3FE_200D_2640_FE0F = '1F64E_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F64E_1F3FF_200D_2640_FE0F = '1F64E_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F64E_1F3FB_200D_2640_FE0F =
+      '1F64E_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F64E_1F3FC_200D_2640_FE0F =
+      '1F64E_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F64E_1F3FD_200D_2640_FE0F =
+      '1F64E_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F64E_1F3FE_200D_2640_FE0F =
+      '1F64E_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F64E_1F3FF_200D_2640_FE0F =
+      '1F64E_1F3FF_200D_2640_FE0F.svg';
   static const String $1F645 = '1F645.svg';
   static const String $1F645_1F3FB = '1F645_1F3FB.svg';
   static const String $1F645_1F3FC = '1F645_1F3FC.svg';
@@ -759,17 +820,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F645_1F3FE = '1F645_1F3FE.svg';
   static const String $1F645_1F3FF = '1F645_1F3FF.svg';
   static const String $1F645_200D_2642_FE0F = '1F645_200D_2642_FE0F.svg';
-  static const String $1F645_1F3FB_200D_2642_FE0F = '1F645_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F645_1F3FC_200D_2642_FE0F = '1F645_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F645_1F3FD_200D_2642_FE0F = '1F645_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F645_1F3FE_200D_2642_FE0F = '1F645_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F645_1F3FF_200D_2642_FE0F = '1F645_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F645_1F3FB_200D_2642_FE0F =
+      '1F645_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F645_1F3FC_200D_2642_FE0F =
+      '1F645_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F645_1F3FD_200D_2642_FE0F =
+      '1F645_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F645_1F3FE_200D_2642_FE0F =
+      '1F645_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F645_1F3FF_200D_2642_FE0F =
+      '1F645_1F3FF_200D_2642_FE0F.svg';
   static const String $1F645_200D_2640_FE0F = '1F645_200D_2640_FE0F.svg';
-  static const String $1F645_1F3FB_200D_2640_FE0F = '1F645_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F645_1F3FC_200D_2640_FE0F = '1F645_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F645_1F3FD_200D_2640_FE0F = '1F645_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F645_1F3FE_200D_2640_FE0F = '1F645_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F645_1F3FF_200D_2640_FE0F = '1F645_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F645_1F3FB_200D_2640_FE0F =
+      '1F645_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F645_1F3FC_200D_2640_FE0F =
+      '1F645_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F645_1F3FD_200D_2640_FE0F =
+      '1F645_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F645_1F3FE_200D_2640_FE0F =
+      '1F645_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F645_1F3FF_200D_2640_FE0F =
+      '1F645_1F3FF_200D_2640_FE0F.svg';
   static const String $1F646 = '1F646.svg';
   static const String $1F646_1F3FB = '1F646_1F3FB.svg';
   static const String $1F646_1F3FC = '1F646_1F3FC.svg';
@@ -777,17 +848,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F646_1F3FE = '1F646_1F3FE.svg';
   static const String $1F646_1F3FF = '1F646_1F3FF.svg';
   static const String $1F646_200D_2642_FE0F = '1F646_200D_2642_FE0F.svg';
-  static const String $1F646_1F3FB_200D_2642_FE0F = '1F646_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F646_1F3FC_200D_2642_FE0F = '1F646_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F646_1F3FD_200D_2642_FE0F = '1F646_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F646_1F3FE_200D_2642_FE0F = '1F646_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F646_1F3FF_200D_2642_FE0F = '1F646_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F646_1F3FB_200D_2642_FE0F =
+      '1F646_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F646_1F3FC_200D_2642_FE0F =
+      '1F646_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F646_1F3FD_200D_2642_FE0F =
+      '1F646_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F646_1F3FE_200D_2642_FE0F =
+      '1F646_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F646_1F3FF_200D_2642_FE0F =
+      '1F646_1F3FF_200D_2642_FE0F.svg';
   static const String $1F646_200D_2640_FE0F = '1F646_200D_2640_FE0F.svg';
-  static const String $1F646_1F3FB_200D_2640_FE0F = '1F646_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F646_1F3FC_200D_2640_FE0F = '1F646_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F646_1F3FD_200D_2640_FE0F = '1F646_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F646_1F3FE_200D_2640_FE0F = '1F646_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F646_1F3FF_200D_2640_FE0F = '1F646_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F646_1F3FB_200D_2640_FE0F =
+      '1F646_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F646_1F3FC_200D_2640_FE0F =
+      '1F646_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F646_1F3FD_200D_2640_FE0F =
+      '1F646_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F646_1F3FE_200D_2640_FE0F =
+      '1F646_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F646_1F3FF_200D_2640_FE0F =
+      '1F646_1F3FF_200D_2640_FE0F.svg';
   static const String $1F481 = '1F481.svg';
   static const String $1F481_1F3FB = '1F481_1F3FB.svg';
   static const String $1F481_1F3FC = '1F481_1F3FC.svg';
@@ -795,17 +876,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F481_1F3FE = '1F481_1F3FE.svg';
   static const String $1F481_1F3FF = '1F481_1F3FF.svg';
   static const String $1F481_200D_2642_FE0F = '1F481_200D_2642_FE0F.svg';
-  static const String $1F481_1F3FB_200D_2642_FE0F = '1F481_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F481_1F3FC_200D_2642_FE0F = '1F481_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F481_1F3FD_200D_2642_FE0F = '1F481_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F481_1F3FE_200D_2642_FE0F = '1F481_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F481_1F3FF_200D_2642_FE0F = '1F481_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F481_1F3FB_200D_2642_FE0F =
+      '1F481_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F481_1F3FC_200D_2642_FE0F =
+      '1F481_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F481_1F3FD_200D_2642_FE0F =
+      '1F481_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F481_1F3FE_200D_2642_FE0F =
+      '1F481_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F481_1F3FF_200D_2642_FE0F =
+      '1F481_1F3FF_200D_2642_FE0F.svg';
   static const String $1F481_200D_2640_FE0F = '1F481_200D_2640_FE0F.svg';
-  static const String $1F481_1F3FB_200D_2640_FE0F = '1F481_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F481_1F3FC_200D_2640_FE0F = '1F481_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F481_1F3FD_200D_2640_FE0F = '1F481_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F481_1F3FE_200D_2640_FE0F = '1F481_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F481_1F3FF_200D_2640_FE0F = '1F481_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F481_1F3FB_200D_2640_FE0F =
+      '1F481_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F481_1F3FC_200D_2640_FE0F =
+      '1F481_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F481_1F3FD_200D_2640_FE0F =
+      '1F481_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F481_1F3FE_200D_2640_FE0F =
+      '1F481_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F481_1F3FF_200D_2640_FE0F =
+      '1F481_1F3FF_200D_2640_FE0F.svg';
   static const String $1F64B = '1F64B.svg';
   static const String $1F64B_1F3FB = '1F64B_1F3FB.svg';
   static const String $1F64B_1F3FC = '1F64B_1F3FC.svg';
@@ -813,17 +904,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F64B_1F3FE = '1F64B_1F3FE.svg';
   static const String $1F64B_1F3FF = '1F64B_1F3FF.svg';
   static const String $1F64B_200D_2642_FE0F = '1F64B_200D_2642_FE0F.svg';
-  static const String $1F64B_1F3FB_200D_2642_FE0F = '1F64B_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F64B_1F3FC_200D_2642_FE0F = '1F64B_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F64B_1F3FD_200D_2642_FE0F = '1F64B_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F64B_1F3FE_200D_2642_FE0F = '1F64B_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F64B_1F3FF_200D_2642_FE0F = '1F64B_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F64B_1F3FB_200D_2642_FE0F =
+      '1F64B_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F64B_1F3FC_200D_2642_FE0F =
+      '1F64B_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F64B_1F3FD_200D_2642_FE0F =
+      '1F64B_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F64B_1F3FE_200D_2642_FE0F =
+      '1F64B_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F64B_1F3FF_200D_2642_FE0F =
+      '1F64B_1F3FF_200D_2642_FE0F.svg';
   static const String $1F64B_200D_2640_FE0F = '1F64B_200D_2640_FE0F.svg';
-  static const String $1F64B_1F3FB_200D_2640_FE0F = '1F64B_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F64B_1F3FC_200D_2640_FE0F = '1F64B_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F64B_1F3FD_200D_2640_FE0F = '1F64B_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F64B_1F3FE_200D_2640_FE0F = '1F64B_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F64B_1F3FF_200D_2640_FE0F = '1F64B_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F64B_1F3FB_200D_2640_FE0F =
+      '1F64B_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F64B_1F3FC_200D_2640_FE0F =
+      '1F64B_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F64B_1F3FD_200D_2640_FE0F =
+      '1F64B_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F64B_1F3FE_200D_2640_FE0F =
+      '1F64B_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F64B_1F3FF_200D_2640_FE0F =
+      '1F64B_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9CF = '1F9CF.svg';
   static const String $1F9CF_1F3FB = '1F9CF_1F3FB.svg';
   static const String $1F9CF_1F3FC = '1F9CF_1F3FC.svg';
@@ -831,17 +932,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9CF_1F3FE = '1F9CF_1F3FE.svg';
   static const String $1F9CF_1F3FF = '1F9CF_1F3FF.svg';
   static const String $1F9CF_200D_2642_FE0F = '1F9CF_200D_2642_FE0F.svg';
-  static const String $1F9CF_1F3FB_200D_2642_FE0F = '1F9CF_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9CF_1F3FC_200D_2642_FE0F = '1F9CF_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9CF_1F3FD_200D_2642_FE0F = '1F9CF_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9CF_1F3FE_200D_2642_FE0F = '1F9CF_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9CF_1F3FF_200D_2642_FE0F = '1F9CF_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9CF_1F3FB_200D_2642_FE0F =
+      '1F9CF_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9CF_1F3FC_200D_2642_FE0F =
+      '1F9CF_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9CF_1F3FD_200D_2642_FE0F =
+      '1F9CF_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9CF_1F3FE_200D_2642_FE0F =
+      '1F9CF_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9CF_1F3FF_200D_2642_FE0F =
+      '1F9CF_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9CF_200D_2640_FE0F = '1F9CF_200D_2640_FE0F.svg';
-  static const String $1F9CF_1F3FB_200D_2640_FE0F = '1F9CF_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9CF_1F3FC_200D_2640_FE0F = '1F9CF_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9CF_1F3FD_200D_2640_FE0F = '1F9CF_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9CF_1F3FE_200D_2640_FE0F = '1F9CF_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9CF_1F3FF_200D_2640_FE0F = '1F9CF_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9CF_1F3FB_200D_2640_FE0F =
+      '1F9CF_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9CF_1F3FC_200D_2640_FE0F =
+      '1F9CF_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9CF_1F3FD_200D_2640_FE0F =
+      '1F9CF_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9CF_1F3FE_200D_2640_FE0F =
+      '1F9CF_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9CF_1F3FF_200D_2640_FE0F =
+      '1F9CF_1F3FF_200D_2640_FE0F.svg';
   static const String $1F647 = '1F647.svg';
   static const String $1F647_1F3FB = '1F647_1F3FB.svg';
   static const String $1F647_1F3FC = '1F647_1F3FC.svg';
@@ -849,17 +960,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F647_1F3FE = '1F647_1F3FE.svg';
   static const String $1F647_1F3FF = '1F647_1F3FF.svg';
   static const String $1F647_200D_2642_FE0F = '1F647_200D_2642_FE0F.svg';
-  static const String $1F647_1F3FB_200D_2642_FE0F = '1F647_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F647_1F3FC_200D_2642_FE0F = '1F647_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F647_1F3FD_200D_2642_FE0F = '1F647_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F647_1F3FE_200D_2642_FE0F = '1F647_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F647_1F3FF_200D_2642_FE0F = '1F647_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F647_1F3FB_200D_2642_FE0F =
+      '1F647_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F647_1F3FC_200D_2642_FE0F =
+      '1F647_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F647_1F3FD_200D_2642_FE0F =
+      '1F647_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F647_1F3FE_200D_2642_FE0F =
+      '1F647_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F647_1F3FF_200D_2642_FE0F =
+      '1F647_1F3FF_200D_2642_FE0F.svg';
   static const String $1F647_200D_2640_FE0F = '1F647_200D_2640_FE0F.svg';
-  static const String $1F647_1F3FB_200D_2640_FE0F = '1F647_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F647_1F3FC_200D_2640_FE0F = '1F647_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F647_1F3FD_200D_2640_FE0F = '1F647_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F647_1F3FE_200D_2640_FE0F = '1F647_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F647_1F3FF_200D_2640_FE0F = '1F647_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F647_1F3FB_200D_2640_FE0F =
+      '1F647_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F647_1F3FC_200D_2640_FE0F =
+      '1F647_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F647_1F3FD_200D_2640_FE0F =
+      '1F647_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F647_1F3FE_200D_2640_FE0F =
+      '1F647_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F647_1F3FF_200D_2640_FE0F =
+      '1F647_1F3FF_200D_2640_FE0F.svg';
   static const String $1F926 = '1F926.svg';
   static const String $1F926_1F3FB = '1F926_1F3FB.svg';
   static const String $1F926_1F3FC = '1F926_1F3FC.svg';
@@ -867,17 +988,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F926_1F3FE = '1F926_1F3FE.svg';
   static const String $1F926_1F3FF = '1F926_1F3FF.svg';
   static const String $1F926_200D_2642_FE0F = '1F926_200D_2642_FE0F.svg';
-  static const String $1F926_1F3FB_200D_2642_FE0F = '1F926_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F926_1F3FC_200D_2642_FE0F = '1F926_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F926_1F3FD_200D_2642_FE0F = '1F926_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F926_1F3FE_200D_2642_FE0F = '1F926_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F926_1F3FF_200D_2642_FE0F = '1F926_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F926_1F3FB_200D_2642_FE0F =
+      '1F926_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F926_1F3FC_200D_2642_FE0F =
+      '1F926_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F926_1F3FD_200D_2642_FE0F =
+      '1F926_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F926_1F3FE_200D_2642_FE0F =
+      '1F926_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F926_1F3FF_200D_2642_FE0F =
+      '1F926_1F3FF_200D_2642_FE0F.svg';
   static const String $1F926_200D_2640_FE0F = '1F926_200D_2640_FE0F.svg';
-  static const String $1F926_1F3FB_200D_2640_FE0F = '1F926_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F926_1F3FC_200D_2640_FE0F = '1F926_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F926_1F3FD_200D_2640_FE0F = '1F926_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F926_1F3FE_200D_2640_FE0F = '1F926_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F926_1F3FF_200D_2640_FE0F = '1F926_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F926_1F3FB_200D_2640_FE0F =
+      '1F926_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F926_1F3FC_200D_2640_FE0F =
+      '1F926_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F926_1F3FD_200D_2640_FE0F =
+      '1F926_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F926_1F3FE_200D_2640_FE0F =
+      '1F926_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F926_1F3FF_200D_2640_FE0F =
+      '1F926_1F3FF_200D_2640_FE0F.svg';
   static const String $1F937 = '1F937.svg';
   static const String $1F937_1F3FB = '1F937_1F3FB.svg';
   static const String $1F937_1F3FC = '1F937_1F3FC.svg';
@@ -885,35 +1016,60 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F937_1F3FE = '1F937_1F3FE.svg';
   static const String $1F937_1F3FF = '1F937_1F3FF.svg';
   static const String $1F937_200D_2642_FE0F = '1F937_200D_2642_FE0F.svg';
-  static const String $1F937_1F3FB_200D_2642_FE0F = '1F937_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F937_1F3FC_200D_2642_FE0F = '1F937_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F937_1F3FD_200D_2642_FE0F = '1F937_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F937_1F3FE_200D_2642_FE0F = '1F937_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F937_1F3FF_200D_2642_FE0F = '1F937_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F937_1F3FB_200D_2642_FE0F =
+      '1F937_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F937_1F3FC_200D_2642_FE0F =
+      '1F937_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F937_1F3FD_200D_2642_FE0F =
+      '1F937_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F937_1F3FE_200D_2642_FE0F =
+      '1F937_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F937_1F3FF_200D_2642_FE0F =
+      '1F937_1F3FF_200D_2642_FE0F.svg';
   static const String $1F937_200D_2640_FE0F = '1F937_200D_2640_FE0F.svg';
-  static const String $1F937_1F3FB_200D_2640_FE0F = '1F937_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F937_1F3FC_200D_2640_FE0F = '1F937_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F937_1F3FD_200D_2640_FE0F = '1F937_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F937_1F3FE_200D_2640_FE0F = '1F937_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F937_1F3FF_200D_2640_FE0F = '1F937_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F937_1F3FB_200D_2640_FE0F =
+      '1F937_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F937_1F3FC_200D_2640_FE0F =
+      '1F937_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F937_1F3FD_200D_2640_FE0F =
+      '1F937_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F937_1F3FE_200D_2640_FE0F =
+      '1F937_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F937_1F3FF_200D_2640_FE0F =
+      '1F937_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9D1_200D_2695_FE0F = '1F9D1_200D_2695_FE0F.svg';
-  static const String $1F9D1_1F3FB_200D_2695_FE0F = '1F9D1_1F3FB_200D_2695_FE0F.svg';
-  static const String $1F9D1_1F3FC_200D_2695_FE0F = '1F9D1_1F3FC_200D_2695_FE0F.svg';
-  static const String $1F9D1_1F3FD_200D_2695_FE0F = '1F9D1_1F3FD_200D_2695_FE0F.svg';
-  static const String $1F9D1_1F3FE_200D_2695_FE0F = '1F9D1_1F3FE_200D_2695_FE0F.svg';
-  static const String $1F9D1_1F3FF_200D_2695_FE0F = '1F9D1_1F3FF_200D_2695_FE0F.svg';
+  static const String $1F9D1_1F3FB_200D_2695_FE0F =
+      '1F9D1_1F3FB_200D_2695_FE0F.svg';
+  static const String $1F9D1_1F3FC_200D_2695_FE0F =
+      '1F9D1_1F3FC_200D_2695_FE0F.svg';
+  static const String $1F9D1_1F3FD_200D_2695_FE0F =
+      '1F9D1_1F3FD_200D_2695_FE0F.svg';
+  static const String $1F9D1_1F3FE_200D_2695_FE0F =
+      '1F9D1_1F3FE_200D_2695_FE0F.svg';
+  static const String $1F9D1_1F3FF_200D_2695_FE0F =
+      '1F9D1_1F3FF_200D_2695_FE0F.svg';
   static const String $1F468_200D_2695_FE0F = '1F468_200D_2695_FE0F.svg';
-  static const String $1F468_1F3FB_200D_2695_FE0F = '1F468_1F3FB_200D_2695_FE0F.svg';
-  static const String $1F468_1F3FC_200D_2695_FE0F = '1F468_1F3FC_200D_2695_FE0F.svg';
-  static const String $1F468_1F3FD_200D_2695_FE0F = '1F468_1F3FD_200D_2695_FE0F.svg';
-  static const String $1F468_1F3FE_200D_2695_FE0F = '1F468_1F3FE_200D_2695_FE0F.svg';
-  static const String $1F468_1F3FF_200D_2695_FE0F = '1F468_1F3FF_200D_2695_FE0F.svg';
+  static const String $1F468_1F3FB_200D_2695_FE0F =
+      '1F468_1F3FB_200D_2695_FE0F.svg';
+  static const String $1F468_1F3FC_200D_2695_FE0F =
+      '1F468_1F3FC_200D_2695_FE0F.svg';
+  static const String $1F468_1F3FD_200D_2695_FE0F =
+      '1F468_1F3FD_200D_2695_FE0F.svg';
+  static const String $1F468_1F3FE_200D_2695_FE0F =
+      '1F468_1F3FE_200D_2695_FE0F.svg';
+  static const String $1F468_1F3FF_200D_2695_FE0F =
+      '1F468_1F3FF_200D_2695_FE0F.svg';
   static const String $1F469_200D_2695_FE0F = '1F469_200D_2695_FE0F.svg';
-  static const String $1F469_1F3FB_200D_2695_FE0F = '1F469_1F3FB_200D_2695_FE0F.svg';
-  static const String $1F469_1F3FC_200D_2695_FE0F = '1F469_1F3FC_200D_2695_FE0F.svg';
-  static const String $1F469_1F3FD_200D_2695_FE0F = '1F469_1F3FD_200D_2695_FE0F.svg';
-  static const String $1F469_1F3FE_200D_2695_FE0F = '1F469_1F3FE_200D_2695_FE0F.svg';
-  static const String $1F469_1F3FF_200D_2695_FE0F = '1F469_1F3FF_200D_2695_FE0F.svg';
+  static const String $1F469_1F3FB_200D_2695_FE0F =
+      '1F469_1F3FB_200D_2695_FE0F.svg';
+  static const String $1F469_1F3FC_200D_2695_FE0F =
+      '1F469_1F3FC_200D_2695_FE0F.svg';
+  static const String $1F469_1F3FD_200D_2695_FE0F =
+      '1F469_1F3FD_200D_2695_FE0F.svg';
+  static const String $1F469_1F3FE_200D_2695_FE0F =
+      '1F469_1F3FE_200D_2695_FE0F.svg';
+  static const String $1F469_1F3FF_200D_2695_FE0F =
+      '1F469_1F3FF_200D_2695_FE0F.svg';
   static const String $1F9D1_200D_1F393 = '1F9D1_200D_1F393.svg';
   static const String $1F9D1_1F3FB_200D_1F393 = '1F9D1_1F3FB_200D_1F393.svg';
   static const String $1F9D1_1F3FC_200D_1F393 = '1F9D1_1F3FC_200D_1F393.svg';
@@ -951,23 +1107,38 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F469_1F3FE_200D_1F3EB = '1F469_1F3FE_200D_1F3EB.svg';
   static const String $1F469_1F3FF_200D_1F3EB = '1F469_1F3FF_200D_1F3EB.svg';
   static const String $1F9D1_200D_2696_FE0F = '1F9D1_200D_2696_FE0F.svg';
-  static const String $1F9D1_1F3FB_200D_2696_FE0F = '1F9D1_1F3FB_200D_2696_FE0F.svg';
-  static const String $1F9D1_1F3FC_200D_2696_FE0F = '1F9D1_1F3FC_200D_2696_FE0F.svg';
-  static const String $1F9D1_1F3FD_200D_2696_FE0F = '1F9D1_1F3FD_200D_2696_FE0F.svg';
-  static const String $1F9D1_1F3FE_200D_2696_FE0F = '1F9D1_1F3FE_200D_2696_FE0F.svg';
-  static const String $1F9D1_1F3FF_200D_2696_FE0F = '1F9D1_1F3FF_200D_2696_FE0F.svg';
+  static const String $1F9D1_1F3FB_200D_2696_FE0F =
+      '1F9D1_1F3FB_200D_2696_FE0F.svg';
+  static const String $1F9D1_1F3FC_200D_2696_FE0F =
+      '1F9D1_1F3FC_200D_2696_FE0F.svg';
+  static const String $1F9D1_1F3FD_200D_2696_FE0F =
+      '1F9D1_1F3FD_200D_2696_FE0F.svg';
+  static const String $1F9D1_1F3FE_200D_2696_FE0F =
+      '1F9D1_1F3FE_200D_2696_FE0F.svg';
+  static const String $1F9D1_1F3FF_200D_2696_FE0F =
+      '1F9D1_1F3FF_200D_2696_FE0F.svg';
   static const String $1F468_200D_2696_FE0F = '1F468_200D_2696_FE0F.svg';
-  static const String $1F468_1F3FB_200D_2696_FE0F = '1F468_1F3FB_200D_2696_FE0F.svg';
-  static const String $1F468_1F3FC_200D_2696_FE0F = '1F468_1F3FC_200D_2696_FE0F.svg';
-  static const String $1F468_1F3FD_200D_2696_FE0F = '1F468_1F3FD_200D_2696_FE0F.svg';
-  static const String $1F468_1F3FE_200D_2696_FE0F = '1F468_1F3FE_200D_2696_FE0F.svg';
-  static const String $1F468_1F3FF_200D_2696_FE0F = '1F468_1F3FF_200D_2696_FE0F.svg';
+  static const String $1F468_1F3FB_200D_2696_FE0F =
+      '1F468_1F3FB_200D_2696_FE0F.svg';
+  static const String $1F468_1F3FC_200D_2696_FE0F =
+      '1F468_1F3FC_200D_2696_FE0F.svg';
+  static const String $1F468_1F3FD_200D_2696_FE0F =
+      '1F468_1F3FD_200D_2696_FE0F.svg';
+  static const String $1F468_1F3FE_200D_2696_FE0F =
+      '1F468_1F3FE_200D_2696_FE0F.svg';
+  static const String $1F468_1F3FF_200D_2696_FE0F =
+      '1F468_1F3FF_200D_2696_FE0F.svg';
   static const String $1F469_200D_2696_FE0F = '1F469_200D_2696_FE0F.svg';
-  static const String $1F469_1F3FB_200D_2696_FE0F = '1F469_1F3FB_200D_2696_FE0F.svg';
-  static const String $1F469_1F3FC_200D_2696_FE0F = '1F469_1F3FC_200D_2696_FE0F.svg';
-  static const String $1F469_1F3FD_200D_2696_FE0F = '1F469_1F3FD_200D_2696_FE0F.svg';
-  static const String $1F469_1F3FE_200D_2696_FE0F = '1F469_1F3FE_200D_2696_FE0F.svg';
-  static const String $1F469_1F3FF_200D_2696_FE0F = '1F469_1F3FF_200D_2696_FE0F.svg';
+  static const String $1F469_1F3FB_200D_2696_FE0F =
+      '1F469_1F3FB_200D_2696_FE0F.svg';
+  static const String $1F469_1F3FC_200D_2696_FE0F =
+      '1F469_1F3FC_200D_2696_FE0F.svg';
+  static const String $1F469_1F3FD_200D_2696_FE0F =
+      '1F469_1F3FD_200D_2696_FE0F.svg';
+  static const String $1F469_1F3FE_200D_2696_FE0F =
+      '1F469_1F3FE_200D_2696_FE0F.svg';
+  static const String $1F469_1F3FF_200D_2696_FE0F =
+      '1F469_1F3FF_200D_2696_FE0F.svg';
   static const String $1F9D1_200D_1F33E = '1F9D1_200D_1F33E.svg';
   static const String $1F9D1_1F3FB_200D_1F33E = '1F9D1_1F3FB_200D_1F33E.svg';
   static const String $1F9D1_1F3FC_200D_1F33E = '1F9D1_1F3FC_200D_1F33E.svg';
@@ -1131,23 +1302,38 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F469_1F3FE_200D_1F3A8 = '1F469_1F3FE_200D_1F3A8.svg';
   static const String $1F469_1F3FF_200D_1F3A8 = '1F469_1F3FF_200D_1F3A8.svg';
   static const String $1F9D1_200D_2708_FE0F = '1F9D1_200D_2708_FE0F.svg';
-  static const String $1F9D1_1F3FB_200D_2708_FE0F = '1F9D1_1F3FB_200D_2708_FE0F.svg';
-  static const String $1F9D1_1F3FC_200D_2708_FE0F = '1F9D1_1F3FC_200D_2708_FE0F.svg';
-  static const String $1F9D1_1F3FD_200D_2708_FE0F = '1F9D1_1F3FD_200D_2708_FE0F.svg';
-  static const String $1F9D1_1F3FE_200D_2708_FE0F = '1F9D1_1F3FE_200D_2708_FE0F.svg';
-  static const String $1F9D1_1F3FF_200D_2708_FE0F = '1F9D1_1F3FF_200D_2708_FE0F.svg';
+  static const String $1F9D1_1F3FB_200D_2708_FE0F =
+      '1F9D1_1F3FB_200D_2708_FE0F.svg';
+  static const String $1F9D1_1F3FC_200D_2708_FE0F =
+      '1F9D1_1F3FC_200D_2708_FE0F.svg';
+  static const String $1F9D1_1F3FD_200D_2708_FE0F =
+      '1F9D1_1F3FD_200D_2708_FE0F.svg';
+  static const String $1F9D1_1F3FE_200D_2708_FE0F =
+      '1F9D1_1F3FE_200D_2708_FE0F.svg';
+  static const String $1F9D1_1F3FF_200D_2708_FE0F =
+      '1F9D1_1F3FF_200D_2708_FE0F.svg';
   static const String $1F468_200D_2708_FE0F = '1F468_200D_2708_FE0F.svg';
-  static const String $1F468_1F3FB_200D_2708_FE0F = '1F468_1F3FB_200D_2708_FE0F.svg';
-  static const String $1F468_1F3FC_200D_2708_FE0F = '1F468_1F3FC_200D_2708_FE0F.svg';
-  static const String $1F468_1F3FD_200D_2708_FE0F = '1F468_1F3FD_200D_2708_FE0F.svg';
-  static const String $1F468_1F3FE_200D_2708_FE0F = '1F468_1F3FE_200D_2708_FE0F.svg';
-  static const String $1F468_1F3FF_200D_2708_FE0F = '1F468_1F3FF_200D_2708_FE0F.svg';
+  static const String $1F468_1F3FB_200D_2708_FE0F =
+      '1F468_1F3FB_200D_2708_FE0F.svg';
+  static const String $1F468_1F3FC_200D_2708_FE0F =
+      '1F468_1F3FC_200D_2708_FE0F.svg';
+  static const String $1F468_1F3FD_200D_2708_FE0F =
+      '1F468_1F3FD_200D_2708_FE0F.svg';
+  static const String $1F468_1F3FE_200D_2708_FE0F =
+      '1F468_1F3FE_200D_2708_FE0F.svg';
+  static const String $1F468_1F3FF_200D_2708_FE0F =
+      '1F468_1F3FF_200D_2708_FE0F.svg';
   static const String $1F469_200D_2708_FE0F = '1F469_200D_2708_FE0F.svg';
-  static const String $1F469_1F3FB_200D_2708_FE0F = '1F469_1F3FB_200D_2708_FE0F.svg';
-  static const String $1F469_1F3FC_200D_2708_FE0F = '1F469_1F3FC_200D_2708_FE0F.svg';
-  static const String $1F469_1F3FD_200D_2708_FE0F = '1F469_1F3FD_200D_2708_FE0F.svg';
-  static const String $1F469_1F3FE_200D_2708_FE0F = '1F469_1F3FE_200D_2708_FE0F.svg';
-  static const String $1F469_1F3FF_200D_2708_FE0F = '1F469_1F3FF_200D_2708_FE0F.svg';
+  static const String $1F469_1F3FB_200D_2708_FE0F =
+      '1F469_1F3FB_200D_2708_FE0F.svg';
+  static const String $1F469_1F3FC_200D_2708_FE0F =
+      '1F469_1F3FC_200D_2708_FE0F.svg';
+  static const String $1F469_1F3FD_200D_2708_FE0F =
+      '1F469_1F3FD_200D_2708_FE0F.svg';
+  static const String $1F469_1F3FE_200D_2708_FE0F =
+      '1F469_1F3FE_200D_2708_FE0F.svg';
+  static const String $1F469_1F3FF_200D_2708_FE0F =
+      '1F469_1F3FF_200D_2708_FE0F.svg';
   static const String $1F9D1_200D_1F680 = '1F9D1_200D_1F680.svg';
   static const String $1F9D1_1F3FB_200D_1F680 = '1F9D1_1F3FB_200D_1F680.svg';
   static const String $1F9D1_1F3FC_200D_1F680 = '1F9D1_1F3FC_200D_1F680.svg';
@@ -1191,35 +1377,57 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F46E_1F3FE = '1F46E_1F3FE.svg';
   static const String $1F46E_1F3FF = '1F46E_1F3FF.svg';
   static const String $1F46E_200D_2642_FE0F = '1F46E_200D_2642_FE0F.svg';
-  static const String $1F46E_1F3FB_200D_2642_FE0F = '1F46E_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F46E_1F3FC_200D_2642_FE0F = '1F46E_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F46E_1F3FD_200D_2642_FE0F = '1F46E_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F46E_1F3FE_200D_2642_FE0F = '1F46E_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F46E_1F3FF_200D_2642_FE0F = '1F46E_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F46E_1F3FB_200D_2642_FE0F =
+      '1F46E_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F46E_1F3FC_200D_2642_FE0F =
+      '1F46E_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F46E_1F3FD_200D_2642_FE0F =
+      '1F46E_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F46E_1F3FE_200D_2642_FE0F =
+      '1F46E_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F46E_1F3FF_200D_2642_FE0F =
+      '1F46E_1F3FF_200D_2642_FE0F.svg';
   static const String $1F46E_200D_2640_FE0F = '1F46E_200D_2640_FE0F.svg';
-  static const String $1F46E_1F3FB_200D_2640_FE0F = '1F46E_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F46E_1F3FC_200D_2640_FE0F = '1F46E_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F46E_1F3FD_200D_2640_FE0F = '1F46E_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F46E_1F3FE_200D_2640_FE0F = '1F46E_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F46E_1F3FF_200D_2640_FE0F = '1F46E_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F46E_1F3FB_200D_2640_FE0F =
+      '1F46E_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F46E_1F3FC_200D_2640_FE0F =
+      '1F46E_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F46E_1F3FD_200D_2640_FE0F =
+      '1F46E_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F46E_1F3FE_200D_2640_FE0F =
+      '1F46E_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F46E_1F3FF_200D_2640_FE0F =
+      '1F46E_1F3FF_200D_2640_FE0F.svg';
   static const String $1F575 = '1F575.svg';
   static const String $1F575_1F3FB = '1F575_1F3FB.svg';
   static const String $1F575_1F3FC = '1F575_1F3FC.svg';
   static const String $1F575_1F3FD = '1F575_1F3FD.svg';
   static const String $1F575_1F3FE = '1F575_1F3FE.svg';
   static const String $1F575_1F3FF = '1F575_1F3FF.svg';
-  static const String $1F575_FE0F_200D_2642_FE0F = '1F575_FE0F_200D_2642_FE0F.svg';
-  static const String $1F575_1F3FB_200D_2642_FE0F = '1F575_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F575_1F3FC_200D_2642_FE0F = '1F575_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F575_1F3FD_200D_2642_FE0F = '1F575_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F575_1F3FE_200D_2642_FE0F = '1F575_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F575_1F3FF_200D_2642_FE0F = '1F575_1F3FF_200D_2642_FE0F.svg';
-  static const String $1F575_FE0F_200D_2640_FE0F = '1F575_FE0F_200D_2640_FE0F.svg';
-  static const String $1F575_1F3FB_200D_2640_FE0F = '1F575_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F575_1F3FC_200D_2640_FE0F = '1F575_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F575_1F3FD_200D_2640_FE0F = '1F575_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F575_1F3FE_200D_2640_FE0F = '1F575_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F575_1F3FF_200D_2640_FE0F = '1F575_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F575_FE0F_200D_2642_FE0F =
+      '1F575_FE0F_200D_2642_FE0F.svg';
+  static const String $1F575_1F3FB_200D_2642_FE0F =
+      '1F575_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F575_1F3FC_200D_2642_FE0F =
+      '1F575_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F575_1F3FD_200D_2642_FE0F =
+      '1F575_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F575_1F3FE_200D_2642_FE0F =
+      '1F575_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F575_1F3FF_200D_2642_FE0F =
+      '1F575_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F575_FE0F_200D_2640_FE0F =
+      '1F575_FE0F_200D_2640_FE0F.svg';
+  static const String $1F575_1F3FB_200D_2640_FE0F =
+      '1F575_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F575_1F3FC_200D_2640_FE0F =
+      '1F575_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F575_1F3FD_200D_2640_FE0F =
+      '1F575_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F575_1F3FE_200D_2640_FE0F =
+      '1F575_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F575_1F3FF_200D_2640_FE0F =
+      '1F575_1F3FF_200D_2640_FE0F.svg';
   static const String $1F482 = '1F482.svg';
   static const String $1F482_1F3FB = '1F482_1F3FB.svg';
   static const String $1F482_1F3FC = '1F482_1F3FC.svg';
@@ -1227,17 +1435,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F482_1F3FE = '1F482_1F3FE.svg';
   static const String $1F482_1F3FF = '1F482_1F3FF.svg';
   static const String $1F482_200D_2642_FE0F = '1F482_200D_2642_FE0F.svg';
-  static const String $1F482_1F3FB_200D_2642_FE0F = '1F482_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F482_1F3FC_200D_2642_FE0F = '1F482_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F482_1F3FD_200D_2642_FE0F = '1F482_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F482_1F3FE_200D_2642_FE0F = '1F482_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F482_1F3FF_200D_2642_FE0F = '1F482_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F482_1F3FB_200D_2642_FE0F =
+      '1F482_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F482_1F3FC_200D_2642_FE0F =
+      '1F482_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F482_1F3FD_200D_2642_FE0F =
+      '1F482_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F482_1F3FE_200D_2642_FE0F =
+      '1F482_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F482_1F3FF_200D_2642_FE0F =
+      '1F482_1F3FF_200D_2642_FE0F.svg';
   static const String $1F482_200D_2640_FE0F = '1F482_200D_2640_FE0F.svg';
-  static const String $1F482_1F3FB_200D_2640_FE0F = '1F482_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F482_1F3FC_200D_2640_FE0F = '1F482_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F482_1F3FD_200D_2640_FE0F = '1F482_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F482_1F3FE_200D_2640_FE0F = '1F482_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F482_1F3FF_200D_2640_FE0F = '1F482_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F482_1F3FB_200D_2640_FE0F =
+      '1F482_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F482_1F3FC_200D_2640_FE0F =
+      '1F482_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F482_1F3FD_200D_2640_FE0F =
+      '1F482_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F482_1F3FE_200D_2640_FE0F =
+      '1F482_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F482_1F3FF_200D_2640_FE0F =
+      '1F482_1F3FF_200D_2640_FE0F.svg';
   static const String $1F977 = '1F977.svg';
   static const String $1F977_1F3FB = '1F977_1F3FB.svg';
   static const String $1F977_1F3FC = '1F977_1F3FC.svg';
@@ -1251,17 +1469,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F477_1F3FE = '1F477_1F3FE.svg';
   static const String $1F477_1F3FF = '1F477_1F3FF.svg';
   static const String $1F477_200D_2642_FE0F = '1F477_200D_2642_FE0F.svg';
-  static const String $1F477_1F3FB_200D_2642_FE0F = '1F477_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F477_1F3FC_200D_2642_FE0F = '1F477_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F477_1F3FD_200D_2642_FE0F = '1F477_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F477_1F3FE_200D_2642_FE0F = '1F477_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F477_1F3FF_200D_2642_FE0F = '1F477_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F477_1F3FB_200D_2642_FE0F =
+      '1F477_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F477_1F3FC_200D_2642_FE0F =
+      '1F477_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F477_1F3FD_200D_2642_FE0F =
+      '1F477_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F477_1F3FE_200D_2642_FE0F =
+      '1F477_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F477_1F3FF_200D_2642_FE0F =
+      '1F477_1F3FF_200D_2642_FE0F.svg';
   static const String $1F477_200D_2640_FE0F = '1F477_200D_2640_FE0F.svg';
-  static const String $1F477_1F3FB_200D_2640_FE0F = '1F477_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F477_1F3FC_200D_2640_FE0F = '1F477_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F477_1F3FD_200D_2640_FE0F = '1F477_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F477_1F3FE_200D_2640_FE0F = '1F477_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F477_1F3FF_200D_2640_FE0F = '1F477_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F477_1F3FB_200D_2640_FE0F =
+      '1F477_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F477_1F3FC_200D_2640_FE0F =
+      '1F477_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F477_1F3FD_200D_2640_FE0F =
+      '1F477_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F477_1F3FE_200D_2640_FE0F =
+      '1F477_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F477_1F3FF_200D_2640_FE0F =
+      '1F477_1F3FF_200D_2640_FE0F.svg';
   static const String $1FAC5 = '1FAC5.svg';
   static const String $1FAC5_1F3FB = '1FAC5_1F3FB.svg';
   static const String $1FAC5_1F3FC = '1FAC5_1F3FC.svg';
@@ -1287,17 +1515,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F473_1F3FE = '1F473_1F3FE.svg';
   static const String $1F473_1F3FF = '1F473_1F3FF.svg';
   static const String $1F473_200D_2642_FE0F = '1F473_200D_2642_FE0F.svg';
-  static const String $1F473_1F3FB_200D_2642_FE0F = '1F473_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F473_1F3FC_200D_2642_FE0F = '1F473_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F473_1F3FD_200D_2642_FE0F = '1F473_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F473_1F3FE_200D_2642_FE0F = '1F473_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F473_1F3FF_200D_2642_FE0F = '1F473_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F473_1F3FB_200D_2642_FE0F =
+      '1F473_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F473_1F3FC_200D_2642_FE0F =
+      '1F473_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F473_1F3FD_200D_2642_FE0F =
+      '1F473_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F473_1F3FE_200D_2642_FE0F =
+      '1F473_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F473_1F3FF_200D_2642_FE0F =
+      '1F473_1F3FF_200D_2642_FE0F.svg';
   static const String $1F473_200D_2640_FE0F = '1F473_200D_2640_FE0F.svg';
-  static const String $1F473_1F3FB_200D_2640_FE0F = '1F473_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F473_1F3FC_200D_2640_FE0F = '1F473_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F473_1F3FD_200D_2640_FE0F = '1F473_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F473_1F3FE_200D_2640_FE0F = '1F473_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F473_1F3FF_200D_2640_FE0F = '1F473_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F473_1F3FB_200D_2640_FE0F =
+      '1F473_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F473_1F3FC_200D_2640_FE0F =
+      '1F473_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F473_1F3FD_200D_2640_FE0F =
+      '1F473_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F473_1F3FE_200D_2640_FE0F =
+      '1F473_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F473_1F3FF_200D_2640_FE0F =
+      '1F473_1F3FF_200D_2640_FE0F.svg';
   static const String $1F472 = '1F472.svg';
   static const String $1F472_1F3FB = '1F472_1F3FB.svg';
   static const String $1F472_1F3FC = '1F472_1F3FC.svg';
@@ -1317,17 +1555,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F935_1F3FE = '1F935_1F3FE.svg';
   static const String $1F935_1F3FF = '1F935_1F3FF.svg';
   static const String $1F935_200D_2642_FE0F = '1F935_200D_2642_FE0F.svg';
-  static const String $1F935_1F3FB_200D_2642_FE0F = '1F935_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F935_1F3FC_200D_2642_FE0F = '1F935_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F935_1F3FD_200D_2642_FE0F = '1F935_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F935_1F3FE_200D_2642_FE0F = '1F935_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F935_1F3FF_200D_2642_FE0F = '1F935_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F935_1F3FB_200D_2642_FE0F =
+      '1F935_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F935_1F3FC_200D_2642_FE0F =
+      '1F935_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F935_1F3FD_200D_2642_FE0F =
+      '1F935_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F935_1F3FE_200D_2642_FE0F =
+      '1F935_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F935_1F3FF_200D_2642_FE0F =
+      '1F935_1F3FF_200D_2642_FE0F.svg';
   static const String $1F935_200D_2640_FE0F = '1F935_200D_2640_FE0F.svg';
-  static const String $1F935_1F3FB_200D_2640_FE0F = '1F935_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F935_1F3FC_200D_2640_FE0F = '1F935_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F935_1F3FD_200D_2640_FE0F = '1F935_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F935_1F3FE_200D_2640_FE0F = '1F935_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F935_1F3FF_200D_2640_FE0F = '1F935_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F935_1F3FB_200D_2640_FE0F =
+      '1F935_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F935_1F3FC_200D_2640_FE0F =
+      '1F935_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F935_1F3FD_200D_2640_FE0F =
+      '1F935_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F935_1F3FE_200D_2640_FE0F =
+      '1F935_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F935_1F3FF_200D_2640_FE0F =
+      '1F935_1F3FF_200D_2640_FE0F.svg';
   static const String $1F470 = '1F470.svg';
   static const String $1F470_1F3FB = '1F470_1F3FB.svg';
   static const String $1F470_1F3FC = '1F470_1F3FC.svg';
@@ -1335,17 +1583,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F470_1F3FE = '1F470_1F3FE.svg';
   static const String $1F470_1F3FF = '1F470_1F3FF.svg';
   static const String $1F470_200D_2642_FE0F = '1F470_200D_2642_FE0F.svg';
-  static const String $1F470_1F3FB_200D_2642_FE0F = '1F470_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F470_1F3FC_200D_2642_FE0F = '1F470_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F470_1F3FD_200D_2642_FE0F = '1F470_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F470_1F3FE_200D_2642_FE0F = '1F470_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F470_1F3FF_200D_2642_FE0F = '1F470_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F470_1F3FB_200D_2642_FE0F =
+      '1F470_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F470_1F3FC_200D_2642_FE0F =
+      '1F470_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F470_1F3FD_200D_2642_FE0F =
+      '1F470_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F470_1F3FE_200D_2642_FE0F =
+      '1F470_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F470_1F3FF_200D_2642_FE0F =
+      '1F470_1F3FF_200D_2642_FE0F.svg';
   static const String $1F470_200D_2640_FE0F = '1F470_200D_2640_FE0F.svg';
-  static const String $1F470_1F3FB_200D_2640_FE0F = '1F470_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F470_1F3FC_200D_2640_FE0F = '1F470_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F470_1F3FD_200D_2640_FE0F = '1F470_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F470_1F3FE_200D_2640_FE0F = '1F470_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F470_1F3FF_200D_2640_FE0F = '1F470_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F470_1F3FB_200D_2640_FE0F =
+      '1F470_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F470_1F3FC_200D_2640_FE0F =
+      '1F470_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F470_1F3FD_200D_2640_FE0F =
+      '1F470_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F470_1F3FE_200D_2640_FE0F =
+      '1F470_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F470_1F3FF_200D_2640_FE0F =
+      '1F470_1F3FF_200D_2640_FE0F.svg';
   static const String $1F930 = '1F930.svg';
   static const String $1F930_1F3FB = '1F930_1F3FB.svg';
   static const String $1F930_1F3FC = '1F930_1F3FC.svg';
@@ -1419,17 +1677,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9B8_1F3FE = '1F9B8_1F3FE.svg';
   static const String $1F9B8_1F3FF = '1F9B8_1F3FF.svg';
   static const String $1F9B8_200D_2642_FE0F = '1F9B8_200D_2642_FE0F.svg';
-  static const String $1F9B8_1F3FB_200D_2642_FE0F = '1F9B8_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9B8_1F3FC_200D_2642_FE0F = '1F9B8_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9B8_1F3FD_200D_2642_FE0F = '1F9B8_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9B8_1F3FE_200D_2642_FE0F = '1F9B8_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9B8_1F3FF_200D_2642_FE0F = '1F9B8_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9B8_1F3FB_200D_2642_FE0F =
+      '1F9B8_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9B8_1F3FC_200D_2642_FE0F =
+      '1F9B8_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9B8_1F3FD_200D_2642_FE0F =
+      '1F9B8_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9B8_1F3FE_200D_2642_FE0F =
+      '1F9B8_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9B8_1F3FF_200D_2642_FE0F =
+      '1F9B8_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9B8_200D_2640_FE0F = '1F9B8_200D_2640_FE0F.svg';
-  static const String $1F9B8_1F3FB_200D_2640_FE0F = '1F9B8_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9B8_1F3FC_200D_2640_FE0F = '1F9B8_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9B8_1F3FD_200D_2640_FE0F = '1F9B8_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9B8_1F3FE_200D_2640_FE0F = '1F9B8_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9B8_1F3FF_200D_2640_FE0F = '1F9B8_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9B8_1F3FB_200D_2640_FE0F =
+      '1F9B8_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9B8_1F3FC_200D_2640_FE0F =
+      '1F9B8_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9B8_1F3FD_200D_2640_FE0F =
+      '1F9B8_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9B8_1F3FE_200D_2640_FE0F =
+      '1F9B8_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9B8_1F3FF_200D_2640_FE0F =
+      '1F9B8_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9B9 = '1F9B9.svg';
   static const String $1F9B9_1F3FB = '1F9B9_1F3FB.svg';
   static const String $1F9B9_1F3FC = '1F9B9_1F3FC.svg';
@@ -1437,17 +1705,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9B9_1F3FE = '1F9B9_1F3FE.svg';
   static const String $1F9B9_1F3FF = '1F9B9_1F3FF.svg';
   static const String $1F9B9_200D_2642_FE0F = '1F9B9_200D_2642_FE0F.svg';
-  static const String $1F9B9_1F3FB_200D_2642_FE0F = '1F9B9_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9B9_1F3FC_200D_2642_FE0F = '1F9B9_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9B9_1F3FD_200D_2642_FE0F = '1F9B9_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9B9_1F3FE_200D_2642_FE0F = '1F9B9_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9B9_1F3FF_200D_2642_FE0F = '1F9B9_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9B9_1F3FB_200D_2642_FE0F =
+      '1F9B9_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9B9_1F3FC_200D_2642_FE0F =
+      '1F9B9_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9B9_1F3FD_200D_2642_FE0F =
+      '1F9B9_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9B9_1F3FE_200D_2642_FE0F =
+      '1F9B9_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9B9_1F3FF_200D_2642_FE0F =
+      '1F9B9_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9B9_200D_2640_FE0F = '1F9B9_200D_2640_FE0F.svg';
-  static const String $1F9B9_1F3FB_200D_2640_FE0F = '1F9B9_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9B9_1F3FC_200D_2640_FE0F = '1F9B9_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9B9_1F3FD_200D_2640_FE0F = '1F9B9_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9B9_1F3FE_200D_2640_FE0F = '1F9B9_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9B9_1F3FF_200D_2640_FE0F = '1F9B9_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9B9_1F3FB_200D_2640_FE0F =
+      '1F9B9_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9B9_1F3FC_200D_2640_FE0F =
+      '1F9B9_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9B9_1F3FD_200D_2640_FE0F =
+      '1F9B9_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9B9_1F3FE_200D_2640_FE0F =
+      '1F9B9_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9B9_1F3FF_200D_2640_FE0F =
+      '1F9B9_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9D9 = '1F9D9.svg';
   static const String $1F9D9_1F3FB = '1F9D9_1F3FB.svg';
   static const String $1F9D9_1F3FC = '1F9D9_1F3FC.svg';
@@ -1455,17 +1733,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D9_1F3FE = '1F9D9_1F3FE.svg';
   static const String $1F9D9_1F3FF = '1F9D9_1F3FF.svg';
   static const String $1F9D9_200D_2642_FE0F = '1F9D9_200D_2642_FE0F.svg';
-  static const String $1F9D9_1F3FB_200D_2642_FE0F = '1F9D9_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9D9_1F3FC_200D_2642_FE0F = '1F9D9_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9D9_1F3FD_200D_2642_FE0F = '1F9D9_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9D9_1F3FE_200D_2642_FE0F = '1F9D9_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9D9_1F3FF_200D_2642_FE0F = '1F9D9_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9D9_1F3FB_200D_2642_FE0F =
+      '1F9D9_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9D9_1F3FC_200D_2642_FE0F =
+      '1F9D9_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9D9_1F3FD_200D_2642_FE0F =
+      '1F9D9_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9D9_1F3FE_200D_2642_FE0F =
+      '1F9D9_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9D9_1F3FF_200D_2642_FE0F =
+      '1F9D9_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D9_200D_2640_FE0F = '1F9D9_200D_2640_FE0F.svg';
-  static const String $1F9D9_1F3FB_200D_2640_FE0F = '1F9D9_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9D9_1F3FC_200D_2640_FE0F = '1F9D9_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9D9_1F3FD_200D_2640_FE0F = '1F9D9_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9D9_1F3FE_200D_2640_FE0F = '1F9D9_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9D9_1F3FF_200D_2640_FE0F = '1F9D9_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9D9_1F3FB_200D_2640_FE0F =
+      '1F9D9_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9D9_1F3FC_200D_2640_FE0F =
+      '1F9D9_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9D9_1F3FD_200D_2640_FE0F =
+      '1F9D9_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9D9_1F3FE_200D_2640_FE0F =
+      '1F9D9_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9D9_1F3FF_200D_2640_FE0F =
+      '1F9D9_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9DA = '1F9DA.svg';
   static const String $1F9DA_1F3FB = '1F9DA_1F3FB.svg';
   static const String $1F9DA_1F3FC = '1F9DA_1F3FC.svg';
@@ -1473,17 +1761,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9DA_1F3FE = '1F9DA_1F3FE.svg';
   static const String $1F9DA_1F3FF = '1F9DA_1F3FF.svg';
   static const String $1F9DA_200D_2642_FE0F = '1F9DA_200D_2642_FE0F.svg';
-  static const String $1F9DA_1F3FB_200D_2642_FE0F = '1F9DA_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9DA_1F3FC_200D_2642_FE0F = '1F9DA_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9DA_1F3FD_200D_2642_FE0F = '1F9DA_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9DA_1F3FE_200D_2642_FE0F = '1F9DA_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9DA_1F3FF_200D_2642_FE0F = '1F9DA_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9DA_1F3FB_200D_2642_FE0F =
+      '1F9DA_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9DA_1F3FC_200D_2642_FE0F =
+      '1F9DA_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9DA_1F3FD_200D_2642_FE0F =
+      '1F9DA_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9DA_1F3FE_200D_2642_FE0F =
+      '1F9DA_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9DA_1F3FF_200D_2642_FE0F =
+      '1F9DA_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9DA_200D_2640_FE0F = '1F9DA_200D_2640_FE0F.svg';
-  static const String $1F9DA_1F3FB_200D_2640_FE0F = '1F9DA_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9DA_1F3FC_200D_2640_FE0F = '1F9DA_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9DA_1F3FD_200D_2640_FE0F = '1F9DA_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9DA_1F3FE_200D_2640_FE0F = '1F9DA_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9DA_1F3FF_200D_2640_FE0F = '1F9DA_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9DA_1F3FB_200D_2640_FE0F =
+      '1F9DA_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9DA_1F3FC_200D_2640_FE0F =
+      '1F9DA_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9DA_1F3FD_200D_2640_FE0F =
+      '1F9DA_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9DA_1F3FE_200D_2640_FE0F =
+      '1F9DA_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9DA_1F3FF_200D_2640_FE0F =
+      '1F9DA_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9DB = '1F9DB.svg';
   static const String $1F9DB_1F3FB = '1F9DB_1F3FB.svg';
   static const String $1F9DB_1F3FC = '1F9DB_1F3FC.svg';
@@ -1491,17 +1789,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9DB_1F3FE = '1F9DB_1F3FE.svg';
   static const String $1F9DB_1F3FF = '1F9DB_1F3FF.svg';
   static const String $1F9DB_200D_2642_FE0F = '1F9DB_200D_2642_FE0F.svg';
-  static const String $1F9DB_1F3FB_200D_2642_FE0F = '1F9DB_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9DB_1F3FC_200D_2642_FE0F = '1F9DB_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9DB_1F3FD_200D_2642_FE0F = '1F9DB_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9DB_1F3FE_200D_2642_FE0F = '1F9DB_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9DB_1F3FF_200D_2642_FE0F = '1F9DB_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9DB_1F3FB_200D_2642_FE0F =
+      '1F9DB_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9DB_1F3FC_200D_2642_FE0F =
+      '1F9DB_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9DB_1F3FD_200D_2642_FE0F =
+      '1F9DB_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9DB_1F3FE_200D_2642_FE0F =
+      '1F9DB_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9DB_1F3FF_200D_2642_FE0F =
+      '1F9DB_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9DB_200D_2640_FE0F = '1F9DB_200D_2640_FE0F.svg';
-  static const String $1F9DB_1F3FB_200D_2640_FE0F = '1F9DB_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9DB_1F3FC_200D_2640_FE0F = '1F9DB_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9DB_1F3FD_200D_2640_FE0F = '1F9DB_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9DB_1F3FE_200D_2640_FE0F = '1F9DB_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9DB_1F3FF_200D_2640_FE0F = '1F9DB_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9DB_1F3FB_200D_2640_FE0F =
+      '1F9DB_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9DB_1F3FC_200D_2640_FE0F =
+      '1F9DB_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9DB_1F3FD_200D_2640_FE0F =
+      '1F9DB_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9DB_1F3FE_200D_2640_FE0F =
+      '1F9DB_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9DB_1F3FF_200D_2640_FE0F =
+      '1F9DB_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9DC = '1F9DC.svg';
   static const String $1F9DC_1F3FB = '1F9DC_1F3FB.svg';
   static const String $1F9DC_1F3FC = '1F9DC_1F3FC.svg';
@@ -1509,17 +1817,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9DC_1F3FE = '1F9DC_1F3FE.svg';
   static const String $1F9DC_1F3FF = '1F9DC_1F3FF.svg';
   static const String $1F9DC_200D_2642_FE0F = '1F9DC_200D_2642_FE0F.svg';
-  static const String $1F9DC_1F3FB_200D_2642_FE0F = '1F9DC_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9DC_1F3FC_200D_2642_FE0F = '1F9DC_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9DC_1F3FD_200D_2642_FE0F = '1F9DC_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9DC_1F3FE_200D_2642_FE0F = '1F9DC_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9DC_1F3FF_200D_2642_FE0F = '1F9DC_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9DC_1F3FB_200D_2642_FE0F =
+      '1F9DC_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9DC_1F3FC_200D_2642_FE0F =
+      '1F9DC_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9DC_1F3FD_200D_2642_FE0F =
+      '1F9DC_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9DC_1F3FE_200D_2642_FE0F =
+      '1F9DC_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9DC_1F3FF_200D_2642_FE0F =
+      '1F9DC_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9DC_200D_2640_FE0F = '1F9DC_200D_2640_FE0F.svg';
-  static const String $1F9DC_1F3FB_200D_2640_FE0F = '1F9DC_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9DC_1F3FC_200D_2640_FE0F = '1F9DC_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9DC_1F3FD_200D_2640_FE0F = '1F9DC_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9DC_1F3FE_200D_2640_FE0F = '1F9DC_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9DC_1F3FF_200D_2640_FE0F = '1F9DC_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9DC_1F3FB_200D_2640_FE0F =
+      '1F9DC_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9DC_1F3FC_200D_2640_FE0F =
+      '1F9DC_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9DC_1F3FD_200D_2640_FE0F =
+      '1F9DC_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9DC_1F3FE_200D_2640_FE0F =
+      '1F9DC_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9DC_1F3FF_200D_2640_FE0F =
+      '1F9DC_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9DD = '1F9DD.svg';
   static const String $1F9DD_1F3FB = '1F9DD_1F3FB.svg';
   static const String $1F9DD_1F3FC = '1F9DD_1F3FC.svg';
@@ -1527,17 +1845,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9DD_1F3FE = '1F9DD_1F3FE.svg';
   static const String $1F9DD_1F3FF = '1F9DD_1F3FF.svg';
   static const String $1F9DD_200D_2642_FE0F = '1F9DD_200D_2642_FE0F.svg';
-  static const String $1F9DD_1F3FB_200D_2642_FE0F = '1F9DD_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9DD_1F3FC_200D_2642_FE0F = '1F9DD_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9DD_1F3FD_200D_2642_FE0F = '1F9DD_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9DD_1F3FE_200D_2642_FE0F = '1F9DD_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9DD_1F3FF_200D_2642_FE0F = '1F9DD_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9DD_1F3FB_200D_2642_FE0F =
+      '1F9DD_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9DD_1F3FC_200D_2642_FE0F =
+      '1F9DD_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9DD_1F3FD_200D_2642_FE0F =
+      '1F9DD_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9DD_1F3FE_200D_2642_FE0F =
+      '1F9DD_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9DD_1F3FF_200D_2642_FE0F =
+      '1F9DD_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9DD_200D_2640_FE0F = '1F9DD_200D_2640_FE0F.svg';
-  static const String $1F9DD_1F3FB_200D_2640_FE0F = '1F9DD_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9DD_1F3FC_200D_2640_FE0F = '1F9DD_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9DD_1F3FD_200D_2640_FE0F = '1F9DD_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9DD_1F3FE_200D_2640_FE0F = '1F9DD_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9DD_1F3FF_200D_2640_FE0F = '1F9DD_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9DD_1F3FB_200D_2640_FE0F =
+      '1F9DD_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9DD_1F3FC_200D_2640_FE0F =
+      '1F9DD_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9DD_1F3FD_200D_2640_FE0F =
+      '1F9DD_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9DD_1F3FE_200D_2640_FE0F =
+      '1F9DD_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9DD_1F3FF_200D_2640_FE0F =
+      '1F9DD_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9DE = '1F9DE.svg';
   static const String $1F9DE_200D_2642_FE0F = '1F9DE_200D_2642_FE0F.svg';
   static const String $1F9DE_200D_2640_FE0F = '1F9DE_200D_2640_FE0F.svg';
@@ -1552,17 +1880,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F486_1F3FE = '1F486_1F3FE.svg';
   static const String $1F486_1F3FF = '1F486_1F3FF.svg';
   static const String $1F486_200D_2642_FE0F = '1F486_200D_2642_FE0F.svg';
-  static const String $1F486_1F3FB_200D_2642_FE0F = '1F486_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F486_1F3FC_200D_2642_FE0F = '1F486_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F486_1F3FD_200D_2642_FE0F = '1F486_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F486_1F3FE_200D_2642_FE0F = '1F486_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F486_1F3FF_200D_2642_FE0F = '1F486_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F486_1F3FB_200D_2642_FE0F =
+      '1F486_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F486_1F3FC_200D_2642_FE0F =
+      '1F486_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F486_1F3FD_200D_2642_FE0F =
+      '1F486_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F486_1F3FE_200D_2642_FE0F =
+      '1F486_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F486_1F3FF_200D_2642_FE0F =
+      '1F486_1F3FF_200D_2642_FE0F.svg';
   static const String $1F486_200D_2640_FE0F = '1F486_200D_2640_FE0F.svg';
-  static const String $1F486_1F3FB_200D_2640_FE0F = '1F486_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F486_1F3FC_200D_2640_FE0F = '1F486_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F486_1F3FD_200D_2640_FE0F = '1F486_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F486_1F3FE_200D_2640_FE0F = '1F486_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F486_1F3FF_200D_2640_FE0F = '1F486_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F486_1F3FB_200D_2640_FE0F =
+      '1F486_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F486_1F3FC_200D_2640_FE0F =
+      '1F486_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F486_1F3FD_200D_2640_FE0F =
+      '1F486_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F486_1F3FE_200D_2640_FE0F =
+      '1F486_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F486_1F3FF_200D_2640_FE0F =
+      '1F486_1F3FF_200D_2640_FE0F.svg';
   static const String $1F487 = '1F487.svg';
   static const String $1F487_1F3FB = '1F487_1F3FB.svg';
   static const String $1F487_1F3FC = '1F487_1F3FC.svg';
@@ -1570,17 +1908,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F487_1F3FE = '1F487_1F3FE.svg';
   static const String $1F487_1F3FF = '1F487_1F3FF.svg';
   static const String $1F487_200D_2642_FE0F = '1F487_200D_2642_FE0F.svg';
-  static const String $1F487_1F3FB_200D_2642_FE0F = '1F487_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F487_1F3FC_200D_2642_FE0F = '1F487_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F487_1F3FD_200D_2642_FE0F = '1F487_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F487_1F3FE_200D_2642_FE0F = '1F487_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F487_1F3FF_200D_2642_FE0F = '1F487_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F487_1F3FB_200D_2642_FE0F =
+      '1F487_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F487_1F3FC_200D_2642_FE0F =
+      '1F487_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F487_1F3FD_200D_2642_FE0F =
+      '1F487_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F487_1F3FE_200D_2642_FE0F =
+      '1F487_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F487_1F3FF_200D_2642_FE0F =
+      '1F487_1F3FF_200D_2642_FE0F.svg';
   static const String $1F487_200D_2640_FE0F = '1F487_200D_2640_FE0F.svg';
-  static const String $1F487_1F3FB_200D_2640_FE0F = '1F487_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F487_1F3FC_200D_2640_FE0F = '1F487_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F487_1F3FD_200D_2640_FE0F = '1F487_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F487_1F3FE_200D_2640_FE0F = '1F487_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F487_1F3FF_200D_2640_FE0F = '1F487_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F487_1F3FB_200D_2640_FE0F =
+      '1F487_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F487_1F3FC_200D_2640_FE0F =
+      '1F487_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F487_1F3FD_200D_2640_FE0F =
+      '1F487_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F487_1F3FE_200D_2640_FE0F =
+      '1F487_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F487_1F3FF_200D_2640_FE0F =
+      '1F487_1F3FF_200D_2640_FE0F.svg';
   static const String $1F6B6 = '1F6B6.svg';
   static const String $1F6B6_1F3FB = '1F6B6_1F3FB.svg';
   static const String $1F6B6_1F3FC = '1F6B6_1F3FC.svg';
@@ -1588,17 +1936,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F6B6_1F3FE = '1F6B6_1F3FE.svg';
   static const String $1F6B6_1F3FF = '1F6B6_1F3FF.svg';
   static const String $1F6B6_200D_2642_FE0F = '1F6B6_200D_2642_FE0F.svg';
-  static const String $1F6B6_1F3FB_200D_2642_FE0F = '1F6B6_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F6B6_1F3FC_200D_2642_FE0F = '1F6B6_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F6B6_1F3FD_200D_2642_FE0F = '1F6B6_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F6B6_1F3FE_200D_2642_FE0F = '1F6B6_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F6B6_1F3FF_200D_2642_FE0F = '1F6B6_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F6B6_1F3FB_200D_2642_FE0F =
+      '1F6B6_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F6B6_1F3FC_200D_2642_FE0F =
+      '1F6B6_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F6B6_1F3FD_200D_2642_FE0F =
+      '1F6B6_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F6B6_1F3FE_200D_2642_FE0F =
+      '1F6B6_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F6B6_1F3FF_200D_2642_FE0F =
+      '1F6B6_1F3FF_200D_2642_FE0F.svg';
   static const String $1F6B6_200D_2640_FE0F = '1F6B6_200D_2640_FE0F.svg';
-  static const String $1F6B6_1F3FB_200D_2640_FE0F = '1F6B6_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F6B6_1F3FC_200D_2640_FE0F = '1F6B6_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F6B6_1F3FD_200D_2640_FE0F = '1F6B6_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F6B6_1F3FE_200D_2640_FE0F = '1F6B6_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F6B6_1F3FF_200D_2640_FE0F = '1F6B6_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F6B6_1F3FB_200D_2640_FE0F =
+      '1F6B6_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F6B6_1F3FC_200D_2640_FE0F =
+      '1F6B6_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F6B6_1F3FD_200D_2640_FE0F =
+      '1F6B6_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F6B6_1F3FE_200D_2640_FE0F =
+      '1F6B6_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F6B6_1F3FF_200D_2640_FE0F =
+      '1F6B6_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9CD = '1F9CD.svg';
   static const String $1F9CD_1F3FB = '1F9CD_1F3FB.svg';
   static const String $1F9CD_1F3FC = '1F9CD_1F3FC.svg';
@@ -1606,17 +1964,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9CD_1F3FE = '1F9CD_1F3FE.svg';
   static const String $1F9CD_1F3FF = '1F9CD_1F3FF.svg';
   static const String $1F9CD_200D_2642_FE0F = '1F9CD_200D_2642_FE0F.svg';
-  static const String $1F9CD_1F3FB_200D_2642_FE0F = '1F9CD_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9CD_1F3FC_200D_2642_FE0F = '1F9CD_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9CD_1F3FD_200D_2642_FE0F = '1F9CD_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9CD_1F3FE_200D_2642_FE0F = '1F9CD_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9CD_1F3FF_200D_2642_FE0F = '1F9CD_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9CD_1F3FB_200D_2642_FE0F =
+      '1F9CD_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9CD_1F3FC_200D_2642_FE0F =
+      '1F9CD_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9CD_1F3FD_200D_2642_FE0F =
+      '1F9CD_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9CD_1F3FE_200D_2642_FE0F =
+      '1F9CD_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9CD_1F3FF_200D_2642_FE0F =
+      '1F9CD_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9CD_200D_2640_FE0F = '1F9CD_200D_2640_FE0F.svg';
-  static const String $1F9CD_1F3FB_200D_2640_FE0F = '1F9CD_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9CD_1F3FC_200D_2640_FE0F = '1F9CD_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9CD_1F3FD_200D_2640_FE0F = '1F9CD_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9CD_1F3FE_200D_2640_FE0F = '1F9CD_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9CD_1F3FF_200D_2640_FE0F = '1F9CD_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9CD_1F3FB_200D_2640_FE0F =
+      '1F9CD_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9CD_1F3FC_200D_2640_FE0F =
+      '1F9CD_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9CD_1F3FD_200D_2640_FE0F =
+      '1F9CD_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9CD_1F3FE_200D_2640_FE0F =
+      '1F9CD_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9CD_1F3FF_200D_2640_FE0F =
+      '1F9CD_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9CE = '1F9CE.svg';
   static const String $1F9CE_1F3FB = '1F9CE_1F3FB.svg';
   static const String $1F9CE_1F3FC = '1F9CE_1F3FC.svg';
@@ -1624,17 +1992,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9CE_1F3FE = '1F9CE_1F3FE.svg';
   static const String $1F9CE_1F3FF = '1F9CE_1F3FF.svg';
   static const String $1F9CE_200D_2642_FE0F = '1F9CE_200D_2642_FE0F.svg';
-  static const String $1F9CE_1F3FB_200D_2642_FE0F = '1F9CE_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9CE_1F3FC_200D_2642_FE0F = '1F9CE_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9CE_1F3FD_200D_2642_FE0F = '1F9CE_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9CE_1F3FE_200D_2642_FE0F = '1F9CE_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9CE_1F3FF_200D_2642_FE0F = '1F9CE_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9CE_1F3FB_200D_2642_FE0F =
+      '1F9CE_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9CE_1F3FC_200D_2642_FE0F =
+      '1F9CE_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9CE_1F3FD_200D_2642_FE0F =
+      '1F9CE_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9CE_1F3FE_200D_2642_FE0F =
+      '1F9CE_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9CE_1F3FF_200D_2642_FE0F =
+      '1F9CE_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9CE_200D_2640_FE0F = '1F9CE_200D_2640_FE0F.svg';
-  static const String $1F9CE_1F3FB_200D_2640_FE0F = '1F9CE_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9CE_1F3FC_200D_2640_FE0F = '1F9CE_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9CE_1F3FD_200D_2640_FE0F = '1F9CE_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9CE_1F3FE_200D_2640_FE0F = '1F9CE_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9CE_1F3FF_200D_2640_FE0F = '1F9CE_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9CE_1F3FB_200D_2640_FE0F =
+      '1F9CE_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9CE_1F3FC_200D_2640_FE0F =
+      '1F9CE_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9CE_1F3FD_200D_2640_FE0F =
+      '1F9CE_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9CE_1F3FE_200D_2640_FE0F =
+      '1F9CE_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9CE_1F3FF_200D_2640_FE0F =
+      '1F9CE_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9D1_200D_1F9AF = '1F9D1_200D_1F9AF.svg';
   static const String $1F9D1_1F3FB_200D_1F9AF = '1F9D1_1F3FB_200D_1F9AF.svg';
   static const String $1F9D1_1F3FC_200D_1F9AF = '1F9D1_1F3FC_200D_1F9AF.svg';
@@ -1696,17 +2074,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F3C3_1F3FE = '1F3C3_1F3FE.svg';
   static const String $1F3C3_1F3FF = '1F3C3_1F3FF.svg';
   static const String $1F3C3_200D_2642_FE0F = '1F3C3_200D_2642_FE0F.svg';
-  static const String $1F3C3_1F3FB_200D_2642_FE0F = '1F3C3_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F3C3_1F3FC_200D_2642_FE0F = '1F3C3_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F3C3_1F3FD_200D_2642_FE0F = '1F3C3_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F3C3_1F3FE_200D_2642_FE0F = '1F3C3_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F3C3_1F3FF_200D_2642_FE0F = '1F3C3_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F3C3_1F3FB_200D_2642_FE0F =
+      '1F3C3_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F3C3_1F3FC_200D_2642_FE0F =
+      '1F3C3_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F3C3_1F3FD_200D_2642_FE0F =
+      '1F3C3_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F3C3_1F3FE_200D_2642_FE0F =
+      '1F3C3_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F3C3_1F3FF_200D_2642_FE0F =
+      '1F3C3_1F3FF_200D_2642_FE0F.svg';
   static const String $1F3C3_200D_2640_FE0F = '1F3C3_200D_2640_FE0F.svg';
-  static const String $1F3C3_1F3FB_200D_2640_FE0F = '1F3C3_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F3C3_1F3FC_200D_2640_FE0F = '1F3C3_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F3C3_1F3FD_200D_2640_FE0F = '1F3C3_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F3C3_1F3FE_200D_2640_FE0F = '1F3C3_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F3C3_1F3FF_200D_2640_FE0F = '1F3C3_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F3C3_1F3FB_200D_2640_FE0F =
+      '1F3C3_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F3C3_1F3FC_200D_2640_FE0F =
+      '1F3C3_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F3C3_1F3FD_200D_2640_FE0F =
+      '1F3C3_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F3C3_1F3FE_200D_2640_FE0F =
+      '1F3C3_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F3C3_1F3FF_200D_2640_FE0F =
+      '1F3C3_1F3FF_200D_2640_FE0F.svg';
   static const String $1F483 = '1F483.svg';
   static const String $1F483_1F3FB = '1F483_1F3FB.svg';
   static const String $1F483_1F3FC = '1F483_1F3FC.svg';
@@ -1735,17 +2123,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D6_1F3FE = '1F9D6_1F3FE.svg';
   static const String $1F9D6_1F3FF = '1F9D6_1F3FF.svg';
   static const String $1F9D6_200D_2642_FE0F = '1F9D6_200D_2642_FE0F.svg';
-  static const String $1F9D6_1F3FB_200D_2642_FE0F = '1F9D6_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9D6_1F3FC_200D_2642_FE0F = '1F9D6_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9D6_1F3FD_200D_2642_FE0F = '1F9D6_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9D6_1F3FE_200D_2642_FE0F = '1F9D6_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9D6_1F3FF_200D_2642_FE0F = '1F9D6_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9D6_1F3FB_200D_2642_FE0F =
+      '1F9D6_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9D6_1F3FC_200D_2642_FE0F =
+      '1F9D6_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9D6_1F3FD_200D_2642_FE0F =
+      '1F9D6_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9D6_1F3FE_200D_2642_FE0F =
+      '1F9D6_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9D6_1F3FF_200D_2642_FE0F =
+      '1F9D6_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D6_200D_2640_FE0F = '1F9D6_200D_2640_FE0F.svg';
-  static const String $1F9D6_1F3FB_200D_2640_FE0F = '1F9D6_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9D6_1F3FC_200D_2640_FE0F = '1F9D6_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9D6_1F3FD_200D_2640_FE0F = '1F9D6_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9D6_1F3FE_200D_2640_FE0F = '1F9D6_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9D6_1F3FF_200D_2640_FE0F = '1F9D6_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9D6_1F3FB_200D_2640_FE0F =
+      '1F9D6_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9D6_1F3FC_200D_2640_FE0F =
+      '1F9D6_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9D6_1F3FD_200D_2640_FE0F =
+      '1F9D6_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9D6_1F3FE_200D_2640_FE0F =
+      '1F9D6_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9D6_1F3FF_200D_2640_FE0F =
+      '1F9D6_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9D7 = '1F9D7.svg';
   static const String $1F9D7_1F3FB = '1F9D7_1F3FB.svg';
   static const String $1F9D7_1F3FC = '1F9D7_1F3FC.svg';
@@ -1753,17 +2151,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D7_1F3FE = '1F9D7_1F3FE.svg';
   static const String $1F9D7_1F3FF = '1F9D7_1F3FF.svg';
   static const String $1F9D7_200D_2642_FE0F = '1F9D7_200D_2642_FE0F.svg';
-  static const String $1F9D7_1F3FB_200D_2642_FE0F = '1F9D7_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9D7_1F3FC_200D_2642_FE0F = '1F9D7_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9D7_1F3FD_200D_2642_FE0F = '1F9D7_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9D7_1F3FE_200D_2642_FE0F = '1F9D7_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9D7_1F3FF_200D_2642_FE0F = '1F9D7_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9D7_1F3FB_200D_2642_FE0F =
+      '1F9D7_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9D7_1F3FC_200D_2642_FE0F =
+      '1F9D7_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9D7_1F3FD_200D_2642_FE0F =
+      '1F9D7_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9D7_1F3FE_200D_2642_FE0F =
+      '1F9D7_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9D7_1F3FF_200D_2642_FE0F =
+      '1F9D7_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D7_200D_2640_FE0F = '1F9D7_200D_2640_FE0F.svg';
-  static const String $1F9D7_1F3FB_200D_2640_FE0F = '1F9D7_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9D7_1F3FC_200D_2640_FE0F = '1F9D7_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9D7_1F3FD_200D_2640_FE0F = '1F9D7_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9D7_1F3FE_200D_2640_FE0F = '1F9D7_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9D7_1F3FF_200D_2640_FE0F = '1F9D7_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9D7_1F3FB_200D_2640_FE0F =
+      '1F9D7_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9D7_1F3FC_200D_2640_FE0F =
+      '1F9D7_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9D7_1F3FD_200D_2640_FE0F =
+      '1F9D7_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9D7_1F3FE_200D_2640_FE0F =
+      '1F9D7_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9D7_1F3FF_200D_2640_FE0F =
+      '1F9D7_1F3FF_200D_2640_FE0F.svg';
   static const String $1F93A = '1F93A.svg';
   static const String $1F3C7 = '1F3C7.svg';
   static const String $1F3C7_1F3FB = '1F3C7_1F3FB.svg';
@@ -1784,18 +2192,30 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F3CC_1F3FD = '1F3CC_1F3FD.svg';
   static const String $1F3CC_1F3FE = '1F3CC_1F3FE.svg';
   static const String $1F3CC_1F3FF = '1F3CC_1F3FF.svg';
-  static const String $1F3CC_FE0F_200D_2642_FE0F = '1F3CC_FE0F_200D_2642_FE0F.svg';
-  static const String $1F3CC_1F3FB_200D_2642_FE0F = '1F3CC_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F3CC_1F3FC_200D_2642_FE0F = '1F3CC_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F3CC_1F3FD_200D_2642_FE0F = '1F3CC_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F3CC_1F3FE_200D_2642_FE0F = '1F3CC_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F3CC_1F3FF_200D_2642_FE0F = '1F3CC_1F3FF_200D_2642_FE0F.svg';
-  static const String $1F3CC_FE0F_200D_2640_FE0F = '1F3CC_FE0F_200D_2640_FE0F.svg';
-  static const String $1F3CC_1F3FB_200D_2640_FE0F = '1F3CC_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F3CC_1F3FC_200D_2640_FE0F = '1F3CC_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F3CC_1F3FD_200D_2640_FE0F = '1F3CC_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F3CC_1F3FE_200D_2640_FE0F = '1F3CC_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F3CC_1F3FF_200D_2640_FE0F = '1F3CC_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F3CC_FE0F_200D_2642_FE0F =
+      '1F3CC_FE0F_200D_2642_FE0F.svg';
+  static const String $1F3CC_1F3FB_200D_2642_FE0F =
+      '1F3CC_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F3CC_1F3FC_200D_2642_FE0F =
+      '1F3CC_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F3CC_1F3FD_200D_2642_FE0F =
+      '1F3CC_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F3CC_1F3FE_200D_2642_FE0F =
+      '1F3CC_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F3CC_1F3FF_200D_2642_FE0F =
+      '1F3CC_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F3CC_FE0F_200D_2640_FE0F =
+      '1F3CC_FE0F_200D_2640_FE0F.svg';
+  static const String $1F3CC_1F3FB_200D_2640_FE0F =
+      '1F3CC_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F3CC_1F3FC_200D_2640_FE0F =
+      '1F3CC_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F3CC_1F3FD_200D_2640_FE0F =
+      '1F3CC_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F3CC_1F3FE_200D_2640_FE0F =
+      '1F3CC_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F3CC_1F3FF_200D_2640_FE0F =
+      '1F3CC_1F3FF_200D_2640_FE0F.svg';
   static const String $1F3C4 = '1F3C4.svg';
   static const String $1F3C4_1F3FB = '1F3C4_1F3FB.svg';
   static const String $1F3C4_1F3FC = '1F3C4_1F3FC.svg';
@@ -1803,17 +2223,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F3C4_1F3FE = '1F3C4_1F3FE.svg';
   static const String $1F3C4_1F3FF = '1F3C4_1F3FF.svg';
   static const String $1F3C4_200D_2642_FE0F = '1F3C4_200D_2642_FE0F.svg';
-  static const String $1F3C4_1F3FB_200D_2642_FE0F = '1F3C4_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F3C4_1F3FC_200D_2642_FE0F = '1F3C4_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F3C4_1F3FD_200D_2642_FE0F = '1F3C4_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F3C4_1F3FE_200D_2642_FE0F = '1F3C4_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F3C4_1F3FF_200D_2642_FE0F = '1F3C4_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F3C4_1F3FB_200D_2642_FE0F =
+      '1F3C4_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F3C4_1F3FC_200D_2642_FE0F =
+      '1F3C4_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F3C4_1F3FD_200D_2642_FE0F =
+      '1F3C4_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F3C4_1F3FE_200D_2642_FE0F =
+      '1F3C4_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F3C4_1F3FF_200D_2642_FE0F =
+      '1F3C4_1F3FF_200D_2642_FE0F.svg';
   static const String $1F3C4_200D_2640_FE0F = '1F3C4_200D_2640_FE0F.svg';
-  static const String $1F3C4_1F3FB_200D_2640_FE0F = '1F3C4_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F3C4_1F3FC_200D_2640_FE0F = '1F3C4_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F3C4_1F3FD_200D_2640_FE0F = '1F3C4_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F3C4_1F3FE_200D_2640_FE0F = '1F3C4_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F3C4_1F3FF_200D_2640_FE0F = '1F3C4_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F3C4_1F3FB_200D_2640_FE0F =
+      '1F3C4_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F3C4_1F3FC_200D_2640_FE0F =
+      '1F3C4_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F3C4_1F3FD_200D_2640_FE0F =
+      '1F3C4_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F3C4_1F3FE_200D_2640_FE0F =
+      '1F3C4_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F3C4_1F3FF_200D_2640_FE0F =
+      '1F3C4_1F3FF_200D_2640_FE0F.svg';
   static const String $1F6A3 = '1F6A3.svg';
   static const String $1F6A3_1F3FB = '1F6A3_1F3FB.svg';
   static const String $1F6A3_1F3FC = '1F6A3_1F3FC.svg';
@@ -1821,17 +2251,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F6A3_1F3FE = '1F6A3_1F3FE.svg';
   static const String $1F6A3_1F3FF = '1F6A3_1F3FF.svg';
   static const String $1F6A3_200D_2642_FE0F = '1F6A3_200D_2642_FE0F.svg';
-  static const String $1F6A3_1F3FB_200D_2642_FE0F = '1F6A3_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F6A3_1F3FC_200D_2642_FE0F = '1F6A3_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F6A3_1F3FD_200D_2642_FE0F = '1F6A3_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F6A3_1F3FE_200D_2642_FE0F = '1F6A3_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F6A3_1F3FF_200D_2642_FE0F = '1F6A3_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F6A3_1F3FB_200D_2642_FE0F =
+      '1F6A3_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F6A3_1F3FC_200D_2642_FE0F =
+      '1F6A3_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F6A3_1F3FD_200D_2642_FE0F =
+      '1F6A3_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F6A3_1F3FE_200D_2642_FE0F =
+      '1F6A3_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F6A3_1F3FF_200D_2642_FE0F =
+      '1F6A3_1F3FF_200D_2642_FE0F.svg';
   static const String $1F6A3_200D_2640_FE0F = '1F6A3_200D_2640_FE0F.svg';
-  static const String $1F6A3_1F3FB_200D_2640_FE0F = '1F6A3_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F6A3_1F3FC_200D_2640_FE0F = '1F6A3_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F6A3_1F3FD_200D_2640_FE0F = '1F6A3_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F6A3_1F3FE_200D_2640_FE0F = '1F6A3_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F6A3_1F3FF_200D_2640_FE0F = '1F6A3_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F6A3_1F3FB_200D_2640_FE0F =
+      '1F6A3_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F6A3_1F3FC_200D_2640_FE0F =
+      '1F6A3_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F6A3_1F3FD_200D_2640_FE0F =
+      '1F6A3_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F6A3_1F3FE_200D_2640_FE0F =
+      '1F6A3_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F6A3_1F3FF_200D_2640_FE0F =
+      '1F6A3_1F3FF_200D_2640_FE0F.svg';
   static const String $1F3CA = '1F3CA.svg';
   static const String $1F3CA_1F3FB = '1F3CA_1F3FB.svg';
   static const String $1F3CA_1F3FC = '1F3CA_1F3FC.svg';
@@ -1839,53 +2279,87 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F3CA_1F3FE = '1F3CA_1F3FE.svg';
   static const String $1F3CA_1F3FF = '1F3CA_1F3FF.svg';
   static const String $1F3CA_200D_2642_FE0F = '1F3CA_200D_2642_FE0F.svg';
-  static const String $1F3CA_1F3FB_200D_2642_FE0F = '1F3CA_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F3CA_1F3FC_200D_2642_FE0F = '1F3CA_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F3CA_1F3FD_200D_2642_FE0F = '1F3CA_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F3CA_1F3FE_200D_2642_FE0F = '1F3CA_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F3CA_1F3FF_200D_2642_FE0F = '1F3CA_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F3CA_1F3FB_200D_2642_FE0F =
+      '1F3CA_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F3CA_1F3FC_200D_2642_FE0F =
+      '1F3CA_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F3CA_1F3FD_200D_2642_FE0F =
+      '1F3CA_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F3CA_1F3FE_200D_2642_FE0F =
+      '1F3CA_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F3CA_1F3FF_200D_2642_FE0F =
+      '1F3CA_1F3FF_200D_2642_FE0F.svg';
   static const String $1F3CA_200D_2640_FE0F = '1F3CA_200D_2640_FE0F.svg';
-  static const String $1F3CA_1F3FB_200D_2640_FE0F = '1F3CA_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F3CA_1F3FC_200D_2640_FE0F = '1F3CA_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F3CA_1F3FD_200D_2640_FE0F = '1F3CA_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F3CA_1F3FE_200D_2640_FE0F = '1F3CA_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F3CA_1F3FF_200D_2640_FE0F = '1F3CA_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F3CA_1F3FB_200D_2640_FE0F =
+      '1F3CA_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F3CA_1F3FC_200D_2640_FE0F =
+      '1F3CA_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F3CA_1F3FD_200D_2640_FE0F =
+      '1F3CA_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F3CA_1F3FE_200D_2640_FE0F =
+      '1F3CA_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F3CA_1F3FF_200D_2640_FE0F =
+      '1F3CA_1F3FF_200D_2640_FE0F.svg';
   static const String $26F9 = '26F9.svg';
   static const String $26F9_1F3FB = '26F9_1F3FB.svg';
   static const String $26F9_1F3FC = '26F9_1F3FC.svg';
   static const String $26F9_1F3FD = '26F9_1F3FD.svg';
   static const String $26F9_1F3FE = '26F9_1F3FE.svg';
   static const String $26F9_1F3FF = '26F9_1F3FF.svg';
-  static const String $26F9_FE0F_200D_2642_FE0F = '26F9_FE0F_200D_2642_FE0F.svg';
-  static const String $26F9_1F3FB_200D_2642_FE0F = '26F9_1F3FB_200D_2642_FE0F.svg';
-  static const String $26F9_1F3FC_200D_2642_FE0F = '26F9_1F3FC_200D_2642_FE0F.svg';
-  static const String $26F9_1F3FD_200D_2642_FE0F = '26F9_1F3FD_200D_2642_FE0F.svg';
-  static const String $26F9_1F3FE_200D_2642_FE0F = '26F9_1F3FE_200D_2642_FE0F.svg';
-  static const String $26F9_1F3FF_200D_2642_FE0F = '26F9_1F3FF_200D_2642_FE0F.svg';
-  static const String $26F9_FE0F_200D_2640_FE0F = '26F9_FE0F_200D_2640_FE0F.svg';
-  static const String $26F9_1F3FB_200D_2640_FE0F = '26F9_1F3FB_200D_2640_FE0F.svg';
-  static const String $26F9_1F3FC_200D_2640_FE0F = '26F9_1F3FC_200D_2640_FE0F.svg';
-  static const String $26F9_1F3FD_200D_2640_FE0F = '26F9_1F3FD_200D_2640_FE0F.svg';
-  static const String $26F9_1F3FE_200D_2640_FE0F = '26F9_1F3FE_200D_2640_FE0F.svg';
-  static const String $26F9_1F3FF_200D_2640_FE0F = '26F9_1F3FF_200D_2640_FE0F.svg';
+  static const String $26F9_FE0F_200D_2642_FE0F =
+      '26F9_FE0F_200D_2642_FE0F.svg';
+  static const String $26F9_1F3FB_200D_2642_FE0F =
+      '26F9_1F3FB_200D_2642_FE0F.svg';
+  static const String $26F9_1F3FC_200D_2642_FE0F =
+      '26F9_1F3FC_200D_2642_FE0F.svg';
+  static const String $26F9_1F3FD_200D_2642_FE0F =
+      '26F9_1F3FD_200D_2642_FE0F.svg';
+  static const String $26F9_1F3FE_200D_2642_FE0F =
+      '26F9_1F3FE_200D_2642_FE0F.svg';
+  static const String $26F9_1F3FF_200D_2642_FE0F =
+      '26F9_1F3FF_200D_2642_FE0F.svg';
+  static const String $26F9_FE0F_200D_2640_FE0F =
+      '26F9_FE0F_200D_2640_FE0F.svg';
+  static const String $26F9_1F3FB_200D_2640_FE0F =
+      '26F9_1F3FB_200D_2640_FE0F.svg';
+  static const String $26F9_1F3FC_200D_2640_FE0F =
+      '26F9_1F3FC_200D_2640_FE0F.svg';
+  static const String $26F9_1F3FD_200D_2640_FE0F =
+      '26F9_1F3FD_200D_2640_FE0F.svg';
+  static const String $26F9_1F3FE_200D_2640_FE0F =
+      '26F9_1F3FE_200D_2640_FE0F.svg';
+  static const String $26F9_1F3FF_200D_2640_FE0F =
+      '26F9_1F3FF_200D_2640_FE0F.svg';
   static const String $1F3CB = '1F3CB.svg';
   static const String $1F3CB_1F3FB = '1F3CB_1F3FB.svg';
   static const String $1F3CB_1F3FC = '1F3CB_1F3FC.svg';
   static const String $1F3CB_1F3FD = '1F3CB_1F3FD.svg';
   static const String $1F3CB_1F3FE = '1F3CB_1F3FE.svg';
   static const String $1F3CB_1F3FF = '1F3CB_1F3FF.svg';
-  static const String $1F3CB_FE0F_200D_2642_FE0F = '1F3CB_FE0F_200D_2642_FE0F.svg';
-  static const String $1F3CB_1F3FB_200D_2642_FE0F = '1F3CB_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F3CB_1F3FC_200D_2642_FE0F = '1F3CB_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F3CB_1F3FD_200D_2642_FE0F = '1F3CB_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F3CB_1F3FE_200D_2642_FE0F = '1F3CB_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F3CB_1F3FF_200D_2642_FE0F = '1F3CB_1F3FF_200D_2642_FE0F.svg';
-  static const String $1F3CB_FE0F_200D_2640_FE0F = '1F3CB_FE0F_200D_2640_FE0F.svg';
-  static const String $1F3CB_1F3FB_200D_2640_FE0F = '1F3CB_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F3CB_1F3FC_200D_2640_FE0F = '1F3CB_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F3CB_1F3FD_200D_2640_FE0F = '1F3CB_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F3CB_1F3FE_200D_2640_FE0F = '1F3CB_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F3CB_1F3FF_200D_2640_FE0F = '1F3CB_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F3CB_FE0F_200D_2642_FE0F =
+      '1F3CB_FE0F_200D_2642_FE0F.svg';
+  static const String $1F3CB_1F3FB_200D_2642_FE0F =
+      '1F3CB_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F3CB_1F3FC_200D_2642_FE0F =
+      '1F3CB_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F3CB_1F3FD_200D_2642_FE0F =
+      '1F3CB_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F3CB_1F3FE_200D_2642_FE0F =
+      '1F3CB_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F3CB_1F3FF_200D_2642_FE0F =
+      '1F3CB_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F3CB_FE0F_200D_2640_FE0F =
+      '1F3CB_FE0F_200D_2640_FE0F.svg';
+  static const String $1F3CB_1F3FB_200D_2640_FE0F =
+      '1F3CB_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F3CB_1F3FC_200D_2640_FE0F =
+      '1F3CB_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F3CB_1F3FD_200D_2640_FE0F =
+      '1F3CB_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F3CB_1F3FE_200D_2640_FE0F =
+      '1F3CB_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F3CB_1F3FF_200D_2640_FE0F =
+      '1F3CB_1F3FF_200D_2640_FE0F.svg';
   static const String $1F6B4 = '1F6B4.svg';
   static const String $1F6B4_1F3FB = '1F6B4_1F3FB.svg';
   static const String $1F6B4_1F3FC = '1F6B4_1F3FC.svg';
@@ -1893,17 +2367,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F6B4_1F3FE = '1F6B4_1F3FE.svg';
   static const String $1F6B4_1F3FF = '1F6B4_1F3FF.svg';
   static const String $1F6B4_200D_2642_FE0F = '1F6B4_200D_2642_FE0F.svg';
-  static const String $1F6B4_1F3FB_200D_2642_FE0F = '1F6B4_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F6B4_1F3FC_200D_2642_FE0F = '1F6B4_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F6B4_1F3FD_200D_2642_FE0F = '1F6B4_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F6B4_1F3FE_200D_2642_FE0F = '1F6B4_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F6B4_1F3FF_200D_2642_FE0F = '1F6B4_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F6B4_1F3FB_200D_2642_FE0F =
+      '1F6B4_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F6B4_1F3FC_200D_2642_FE0F =
+      '1F6B4_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F6B4_1F3FD_200D_2642_FE0F =
+      '1F6B4_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F6B4_1F3FE_200D_2642_FE0F =
+      '1F6B4_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F6B4_1F3FF_200D_2642_FE0F =
+      '1F6B4_1F3FF_200D_2642_FE0F.svg';
   static const String $1F6B4_200D_2640_FE0F = '1F6B4_200D_2640_FE0F.svg';
-  static const String $1F6B4_1F3FB_200D_2640_FE0F = '1F6B4_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F6B4_1F3FC_200D_2640_FE0F = '1F6B4_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F6B4_1F3FD_200D_2640_FE0F = '1F6B4_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F6B4_1F3FE_200D_2640_FE0F = '1F6B4_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F6B4_1F3FF_200D_2640_FE0F = '1F6B4_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F6B4_1F3FB_200D_2640_FE0F =
+      '1F6B4_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F6B4_1F3FC_200D_2640_FE0F =
+      '1F6B4_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F6B4_1F3FD_200D_2640_FE0F =
+      '1F6B4_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F6B4_1F3FE_200D_2640_FE0F =
+      '1F6B4_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F6B4_1F3FF_200D_2640_FE0F =
+      '1F6B4_1F3FF_200D_2640_FE0F.svg';
   static const String $1F6B5 = '1F6B5.svg';
   static const String $1F6B5_1F3FB = '1F6B5_1F3FB.svg';
   static const String $1F6B5_1F3FC = '1F6B5_1F3FC.svg';
@@ -1911,17 +2395,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F6B5_1F3FE = '1F6B5_1F3FE.svg';
   static const String $1F6B5_1F3FF = '1F6B5_1F3FF.svg';
   static const String $1F6B5_200D_2642_FE0F = '1F6B5_200D_2642_FE0F.svg';
-  static const String $1F6B5_1F3FB_200D_2642_FE0F = '1F6B5_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F6B5_1F3FC_200D_2642_FE0F = '1F6B5_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F6B5_1F3FD_200D_2642_FE0F = '1F6B5_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F6B5_1F3FE_200D_2642_FE0F = '1F6B5_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F6B5_1F3FF_200D_2642_FE0F = '1F6B5_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F6B5_1F3FB_200D_2642_FE0F =
+      '1F6B5_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F6B5_1F3FC_200D_2642_FE0F =
+      '1F6B5_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F6B5_1F3FD_200D_2642_FE0F =
+      '1F6B5_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F6B5_1F3FE_200D_2642_FE0F =
+      '1F6B5_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F6B5_1F3FF_200D_2642_FE0F =
+      '1F6B5_1F3FF_200D_2642_FE0F.svg';
   static const String $1F6B5_200D_2640_FE0F = '1F6B5_200D_2640_FE0F.svg';
-  static const String $1F6B5_1F3FB_200D_2640_FE0F = '1F6B5_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F6B5_1F3FC_200D_2640_FE0F = '1F6B5_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F6B5_1F3FD_200D_2640_FE0F = '1F6B5_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F6B5_1F3FE_200D_2640_FE0F = '1F6B5_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F6B5_1F3FF_200D_2640_FE0F = '1F6B5_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F6B5_1F3FB_200D_2640_FE0F =
+      '1F6B5_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F6B5_1F3FC_200D_2640_FE0F =
+      '1F6B5_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F6B5_1F3FD_200D_2640_FE0F =
+      '1F6B5_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F6B5_1F3FE_200D_2640_FE0F =
+      '1F6B5_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F6B5_1F3FF_200D_2640_FE0F =
+      '1F6B5_1F3FF_200D_2640_FE0F.svg';
   static const String $1F938 = '1F938.svg';
   static const String $1F938_1F3FB = '1F938_1F3FB.svg';
   static const String $1F938_1F3FC = '1F938_1F3FC.svg';
@@ -1929,17 +2423,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F938_1F3FE = '1F938_1F3FE.svg';
   static const String $1F938_1F3FF = '1F938_1F3FF.svg';
   static const String $1F938_200D_2642_FE0F = '1F938_200D_2642_FE0F.svg';
-  static const String $1F938_1F3FB_200D_2642_FE0F = '1F938_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F938_1F3FC_200D_2642_FE0F = '1F938_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F938_1F3FD_200D_2642_FE0F = '1F938_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F938_1F3FE_200D_2642_FE0F = '1F938_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F938_1F3FF_200D_2642_FE0F = '1F938_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F938_1F3FB_200D_2642_FE0F =
+      '1F938_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F938_1F3FC_200D_2642_FE0F =
+      '1F938_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F938_1F3FD_200D_2642_FE0F =
+      '1F938_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F938_1F3FE_200D_2642_FE0F =
+      '1F938_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F938_1F3FF_200D_2642_FE0F =
+      '1F938_1F3FF_200D_2642_FE0F.svg';
   static const String $1F938_200D_2640_FE0F = '1F938_200D_2640_FE0F.svg';
-  static const String $1F938_1F3FB_200D_2640_FE0F = '1F938_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F938_1F3FC_200D_2640_FE0F = '1F938_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F938_1F3FD_200D_2640_FE0F = '1F938_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F938_1F3FE_200D_2640_FE0F = '1F938_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F938_1F3FF_200D_2640_FE0F = '1F938_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F938_1F3FB_200D_2640_FE0F =
+      '1F938_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F938_1F3FC_200D_2640_FE0F =
+      '1F938_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F938_1F3FD_200D_2640_FE0F =
+      '1F938_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F938_1F3FE_200D_2640_FE0F =
+      '1F938_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F938_1F3FF_200D_2640_FE0F =
+      '1F938_1F3FF_200D_2640_FE0F.svg';
   static const String $1F93C = '1F93C.svg';
   static const String $1F93C_200D_2642_FE0F = '1F93C_200D_2642_FE0F.svg';
   static const String $1F93C_200D_2640_FE0F = '1F93C_200D_2640_FE0F.svg';
@@ -1950,17 +2454,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F93D_1F3FE = '1F93D_1F3FE.svg';
   static const String $1F93D_1F3FF = '1F93D_1F3FF.svg';
   static const String $1F93D_200D_2642_FE0F = '1F93D_200D_2642_FE0F.svg';
-  static const String $1F93D_1F3FB_200D_2642_FE0F = '1F93D_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F93D_1F3FC_200D_2642_FE0F = '1F93D_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F93D_1F3FD_200D_2642_FE0F = '1F93D_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F93D_1F3FE_200D_2642_FE0F = '1F93D_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F93D_1F3FF_200D_2642_FE0F = '1F93D_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F93D_1F3FB_200D_2642_FE0F =
+      '1F93D_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F93D_1F3FC_200D_2642_FE0F =
+      '1F93D_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F93D_1F3FD_200D_2642_FE0F =
+      '1F93D_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F93D_1F3FE_200D_2642_FE0F =
+      '1F93D_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F93D_1F3FF_200D_2642_FE0F =
+      '1F93D_1F3FF_200D_2642_FE0F.svg';
   static const String $1F93D_200D_2640_FE0F = '1F93D_200D_2640_FE0F.svg';
-  static const String $1F93D_1F3FB_200D_2640_FE0F = '1F93D_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F93D_1F3FC_200D_2640_FE0F = '1F93D_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F93D_1F3FD_200D_2640_FE0F = '1F93D_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F93D_1F3FE_200D_2640_FE0F = '1F93D_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F93D_1F3FF_200D_2640_FE0F = '1F93D_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F93D_1F3FB_200D_2640_FE0F =
+      '1F93D_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F93D_1F3FC_200D_2640_FE0F =
+      '1F93D_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F93D_1F3FD_200D_2640_FE0F =
+      '1F93D_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F93D_1F3FE_200D_2640_FE0F =
+      '1F93D_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F93D_1F3FF_200D_2640_FE0F =
+      '1F93D_1F3FF_200D_2640_FE0F.svg';
   static const String $1F93E = '1F93E.svg';
   static const String $1F93E_1F3FB = '1F93E_1F3FB.svg';
   static const String $1F93E_1F3FC = '1F93E_1F3FC.svg';
@@ -1968,17 +2482,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F93E_1F3FE = '1F93E_1F3FE.svg';
   static const String $1F93E_1F3FF = '1F93E_1F3FF.svg';
   static const String $1F93E_200D_2642_FE0F = '1F93E_200D_2642_FE0F.svg';
-  static const String $1F93E_1F3FB_200D_2642_FE0F = '1F93E_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F93E_1F3FC_200D_2642_FE0F = '1F93E_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F93E_1F3FD_200D_2642_FE0F = '1F93E_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F93E_1F3FE_200D_2642_FE0F = '1F93E_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F93E_1F3FF_200D_2642_FE0F = '1F93E_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F93E_1F3FB_200D_2642_FE0F =
+      '1F93E_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F93E_1F3FC_200D_2642_FE0F =
+      '1F93E_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F93E_1F3FD_200D_2642_FE0F =
+      '1F93E_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F93E_1F3FE_200D_2642_FE0F =
+      '1F93E_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F93E_1F3FF_200D_2642_FE0F =
+      '1F93E_1F3FF_200D_2642_FE0F.svg';
   static const String $1F93E_200D_2640_FE0F = '1F93E_200D_2640_FE0F.svg';
-  static const String $1F93E_1F3FB_200D_2640_FE0F = '1F93E_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F93E_1F3FC_200D_2640_FE0F = '1F93E_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F93E_1F3FD_200D_2640_FE0F = '1F93E_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F93E_1F3FE_200D_2640_FE0F = '1F93E_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F93E_1F3FF_200D_2640_FE0F = '1F93E_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F93E_1F3FB_200D_2640_FE0F =
+      '1F93E_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F93E_1F3FC_200D_2640_FE0F =
+      '1F93E_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F93E_1F3FD_200D_2640_FE0F =
+      '1F93E_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F93E_1F3FE_200D_2640_FE0F =
+      '1F93E_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F93E_1F3FF_200D_2640_FE0F =
+      '1F93E_1F3FF_200D_2640_FE0F.svg';
   static const String $1F939 = '1F939.svg';
   static const String $1F939_1F3FB = '1F939_1F3FB.svg';
   static const String $1F939_1F3FC = '1F939_1F3FC.svg';
@@ -1986,17 +2510,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F939_1F3FE = '1F939_1F3FE.svg';
   static const String $1F939_1F3FF = '1F939_1F3FF.svg';
   static const String $1F939_200D_2642_FE0F = '1F939_200D_2642_FE0F.svg';
-  static const String $1F939_1F3FB_200D_2642_FE0F = '1F939_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F939_1F3FC_200D_2642_FE0F = '1F939_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F939_1F3FD_200D_2642_FE0F = '1F939_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F939_1F3FE_200D_2642_FE0F = '1F939_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F939_1F3FF_200D_2642_FE0F = '1F939_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F939_1F3FB_200D_2642_FE0F =
+      '1F939_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F939_1F3FC_200D_2642_FE0F =
+      '1F939_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F939_1F3FD_200D_2642_FE0F =
+      '1F939_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F939_1F3FE_200D_2642_FE0F =
+      '1F939_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F939_1F3FF_200D_2642_FE0F =
+      '1F939_1F3FF_200D_2642_FE0F.svg';
   static const String $1F939_200D_2640_FE0F = '1F939_200D_2640_FE0F.svg';
-  static const String $1F939_1F3FB_200D_2640_FE0F = '1F939_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F939_1F3FC_200D_2640_FE0F = '1F939_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F939_1F3FD_200D_2640_FE0F = '1F939_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F939_1F3FE_200D_2640_FE0F = '1F939_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F939_1F3FF_200D_2640_FE0F = '1F939_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F939_1F3FB_200D_2640_FE0F =
+      '1F939_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F939_1F3FC_200D_2640_FE0F =
+      '1F939_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F939_1F3FD_200D_2640_FE0F =
+      '1F939_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F939_1F3FE_200D_2640_FE0F =
+      '1F939_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F939_1F3FF_200D_2640_FE0F =
+      '1F939_1F3FF_200D_2640_FE0F.svg';
   static const String $1F9D8 = '1F9D8.svg';
   static const String $1F9D8_1F3FB = '1F9D8_1F3FB.svg';
   static const String $1F9D8_1F3FC = '1F9D8_1F3FC.svg';
@@ -2004,17 +2538,27 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F9D8_1F3FE = '1F9D8_1F3FE.svg';
   static const String $1F9D8_1F3FF = '1F9D8_1F3FF.svg';
   static const String $1F9D8_200D_2642_FE0F = '1F9D8_200D_2642_FE0F.svg';
-  static const String $1F9D8_1F3FB_200D_2642_FE0F = '1F9D8_1F3FB_200D_2642_FE0F.svg';
-  static const String $1F9D8_1F3FC_200D_2642_FE0F = '1F9D8_1F3FC_200D_2642_FE0F.svg';
-  static const String $1F9D8_1F3FD_200D_2642_FE0F = '1F9D8_1F3FD_200D_2642_FE0F.svg';
-  static const String $1F9D8_1F3FE_200D_2642_FE0F = '1F9D8_1F3FE_200D_2642_FE0F.svg';
-  static const String $1F9D8_1F3FF_200D_2642_FE0F = '1F9D8_1F3FF_200D_2642_FE0F.svg';
+  static const String $1F9D8_1F3FB_200D_2642_FE0F =
+      '1F9D8_1F3FB_200D_2642_FE0F.svg';
+  static const String $1F9D8_1F3FC_200D_2642_FE0F =
+      '1F9D8_1F3FC_200D_2642_FE0F.svg';
+  static const String $1F9D8_1F3FD_200D_2642_FE0F =
+      '1F9D8_1F3FD_200D_2642_FE0F.svg';
+  static const String $1F9D8_1F3FE_200D_2642_FE0F =
+      '1F9D8_1F3FE_200D_2642_FE0F.svg';
+  static const String $1F9D8_1F3FF_200D_2642_FE0F =
+      '1F9D8_1F3FF_200D_2642_FE0F.svg';
   static const String $1F9D8_200D_2640_FE0F = '1F9D8_200D_2640_FE0F.svg';
-  static const String $1F9D8_1F3FB_200D_2640_FE0F = '1F9D8_1F3FB_200D_2640_FE0F.svg';
-  static const String $1F9D8_1F3FC_200D_2640_FE0F = '1F9D8_1F3FC_200D_2640_FE0F.svg';
-  static const String $1F9D8_1F3FD_200D_2640_FE0F = '1F9D8_1F3FD_200D_2640_FE0F.svg';
-  static const String $1F9D8_1F3FE_200D_2640_FE0F = '1F9D8_1F3FE_200D_2640_FE0F.svg';
-  static const String $1F9D8_1F3FF_200D_2640_FE0F = '1F9D8_1F3FF_200D_2640_FE0F.svg';
+  static const String $1F9D8_1F3FB_200D_2640_FE0F =
+      '1F9D8_1F3FB_200D_2640_FE0F.svg';
+  static const String $1F9D8_1F3FC_200D_2640_FE0F =
+      '1F9D8_1F3FC_200D_2640_FE0F.svg';
+  static const String $1F9D8_1F3FD_200D_2640_FE0F =
+      '1F9D8_1F3FD_200D_2640_FE0F.svg';
+  static const String $1F9D8_1F3FE_200D_2640_FE0F =
+      '1F9D8_1F3FE_200D_2640_FE0F.svg';
+  static const String $1F9D8_1F3FF_200D_2640_FE0F =
+      '1F9D8_1F3FF_200D_2640_FE0F.svg';
   static const String $1F6C0 = '1F6C0.svg';
   static const String $1F6C0_1F3FB = '1F6C0_1F3FB.svg';
   static const String $1F6C0_1F3FC = '1F6C0_1F3FC.svg';
@@ -2027,109 +2571,195 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F6CC_1F3FD = '1F6CC_1F3FD.svg';
   static const String $1F6CC_1F3FE = '1F6CC_1F3FE.svg';
   static const String $1F6CC_1F3FF = '1F6CC_1F3FF.svg';
-  static const String $1F9D1_200D_1F91D_200D_1F9D1 = '1F9D1_200D_1F91D_200D_1F9D1.svg';
-  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FB = '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FC = '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FD = '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FE = '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FF = '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FB = '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FC = '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FD = '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FE = '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FF = '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FB = '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FC = '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FD = '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FE = '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FF = '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FB = '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FC = '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FD = '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FE = '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FF = '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FB = '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FC = '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FD = '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FE = '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FF = '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_200D_1F91D_200D_1F9D1 =
+      '1F9D1_200D_1F91D_200D_1F9D1.svg';
+  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FB_200D_1F91D_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FC_200D_1F91D_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FD_200D_1F91D_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FE_200D_1F91D_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FF_200D_1F91D_200D_1F9D1_1F3FF.svg';
   static const String $1F46D = '1F46D.svg';
   static const String $1F46D_1F3FB = '1F46D_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FC = '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FD = '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FE = '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FF = '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FB = '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FC =
+      '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FD =
+      '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FE =
+      '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F469_1F3FF =
+      '1F469_1F3FB_200D_1F91D_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FB =
+      '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FB.svg';
   static const String $1F46D_1F3FC = '1F46D_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FD = '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FE = '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FF = '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FB = '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FC = '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FD =
+      '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FE =
+      '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F469_1F3FF =
+      '1F469_1F3FC_200D_1F91D_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FB =
+      '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FC =
+      '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FC.svg';
   static const String $1F46D_1F3FD = '1F46D_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FE = '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FF = '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FB = '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FC = '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FD = '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FE =
+      '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F469_1F3FF =
+      '1F469_1F3FD_200D_1F91D_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FB =
+      '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FC =
+      '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FD =
+      '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FD.svg';
   static const String $1F46D_1F3FE = '1F46D_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FF = '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FB = '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FC = '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FD = '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FE = '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F469_1F3FF =
+      '1F469_1F3FE_200D_1F91D_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FB =
+      '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FC =
+      '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FD =
+      '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F469_1F3FE =
+      '1F469_1F3FF_200D_1F91D_200D_1F469_1F3FE.svg';
   static const String $1F46D_1F3FF = '1F46D_1F3FF.svg';
   static const String $1F46B = '1F46B.svg';
   static const String $1F46B_1F3FB = '1F46B_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FC = '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FD = '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FE = '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FF = '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FB = '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FC =
+      '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FD =
+      '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FE =
+      '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_1F91D_200D_1F468_1F3FF =
+      '1F469_1F3FB_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FB =
+      '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FB.svg';
   static const String $1F46B_1F3FC = '1F46B_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FD = '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FE = '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FF = '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FB = '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FC = '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FD =
+      '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FE =
+      '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_1F91D_200D_1F468_1F3FF =
+      '1F469_1F3FC_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FB =
+      '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FC =
+      '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FC.svg';
   static const String $1F46B_1F3FD = '1F46B_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FE = '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FF = '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FB = '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FC = '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FD = '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FE =
+      '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_1F91D_200D_1F468_1F3FF =
+      '1F469_1F3FD_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FB =
+      '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FC =
+      '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FD =
+      '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FD.svg';
   static const String $1F46B_1F3FE = '1F46B_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FF = '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FB = '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FC = '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FD = '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FE = '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_1F91D_200D_1F468_1F3FF =
+      '1F469_1F3FE_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FB =
+      '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FC =
+      '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FD =
+      '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_1F91D_200D_1F468_1F3FE =
+      '1F469_1F3FF_200D_1F91D_200D_1F468_1F3FE.svg';
   static const String $1F46B_1F3FF = '1F46B_1F3FF.svg';
   static const String $1F46C = '1F46C.svg';
   static const String $1F46C_1F3FB = '1F46C_1F3FB.svg';
-  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FC = '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FD = '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FE = '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FF = '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FB = '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FC =
+      '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FD =
+      '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FE =
+      '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FB_200D_1F91D_200D_1F468_1F3FF =
+      '1F468_1F3FB_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FB =
+      '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FB.svg';
   static const String $1F46C_1F3FC = '1F46C_1F3FC.svg';
-  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FD = '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FE = '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FF = '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FB = '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FC = '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FD =
+      '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FE =
+      '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FC_200D_1F91D_200D_1F468_1F3FF =
+      '1F468_1F3FC_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FB =
+      '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FC =
+      '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FC.svg';
   static const String $1F46C_1F3FD = '1F46C_1F3FD.svg';
-  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FE = '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FF = '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FB = '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FC = '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FD = '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FE =
+      '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FD_200D_1F91D_200D_1F468_1F3FF =
+      '1F468_1F3FD_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FB =
+      '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FC =
+      '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FD =
+      '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FD.svg';
   static const String $1F46C_1F3FE = '1F46C_1F3FE.svg';
-  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FF = '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FB = '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FC = '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FD = '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FE = '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FE_200D_1F91D_200D_1F468_1F3FF =
+      '1F468_1F3FE_200D_1F91D_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FB =
+      '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FC =
+      '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FD =
+      '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FF_200D_1F91D_200D_1F468_1F3FE =
+      '1F468_1F3FF_200D_1F91D_200D_1F468_1F3FE.svg';
   static const String $1F46C_1F3FF = '1F46C_1F3FF.svg';
   static const String $1F48F = '1F48F.svg';
   static const String $1F48F_1F3FB = '1F48F_1F3FB.svg';
@@ -2137,234 +2767,451 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F48F_1F3FD = '1F48F_1F3FD.svg';
   static const String $1F48F_1F3FE = '1F48F_1F3FE.svg';
   static const String $1F48F_1F3FF = '1F48F_1F3FF.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
-  static const String $1F469_200D_2764_FE0F_200D_1F48B_200D_1F468 = '1F469_200D_2764_FE0F_200D_1F48B_200D_1F468.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F468_200D_2764_FE0F_200D_1F48B_200D_1F468 = '1F468_200D_2764_FE0F_200D_1F48B_200D_1F468.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB = '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC = '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD = '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE = '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF = '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
-  static const String $1F469_200D_2764_FE0F_200D_1F48B_200D_1F469 = '1F469_200D_2764_FE0F_200D_1F48B_200D_1F469.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF = '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF = '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF = '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF = '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF = '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F9D1_1F3FE.svg';
+  static const String $1F469_200D_2764_FE0F_200D_1F48B_200D_1F468 =
+      '1F469_200D_2764_FE0F_200D_1F48B_200D_1F468.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F468_200D_2764_FE0F_200D_1F48B_200D_1F468 =
+      '1F468_200D_2764_FE0F_200D_1F48B_200D_1F468.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F468_1F3FF.svg';
+  static const String $1F469_200D_2764_FE0F_200D_1F48B_200D_1F469 =
+      '1F469_200D_2764_FE0F_200D_1F48B_200D_1F469.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F48B_200D_1F469_1F3FF.svg';
   static const String $1F491 = '1F491.svg';
   static const String $1F491_1F3FB = '1F491_1F3FB.svg';
   static const String $1F491_1F3FC = '1F491_1F3FC.svg';
   static const String $1F491_1F3FD = '1F491_1F3FD.svg';
   static const String $1F491_1F3FE = '1F491_1F3FE.svg';
   static const String $1F491_1F3FF = '1F491_1F3FF.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FC = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FD = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FE = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FF = '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FB = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FD = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FE = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FF = '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FB = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FC = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FE = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
-  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FF = '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FB = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FC = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FD = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FF = '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FB = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FC = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FD = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
-  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FE = '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
-  static const String $1F469_200D_2764_FE0F_200D_1F468 = '1F469_200D_2764_FE0F_200D_1F468.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB = '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC = '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD = '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE = '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF = '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB = '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC = '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD = '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE = '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF = '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB = '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC = '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD = '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE = '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF = '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB = '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC = '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD = '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE = '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF = '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB = '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC = '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD = '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE = '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF = '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F468_200D_2764_FE0F_200D_1F468 = '1F468_200D_2764_FE0F_200D_1F468.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB = '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC = '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD = '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE = '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF = '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB = '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC = '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD = '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE = '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF = '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB = '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC = '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD = '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE = '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF = '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB = '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC = '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD = '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE = '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF = '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB = '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC = '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD = '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE = '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE.svg';
-  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF = '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF.svg';
-  static const String $1F469_200D_2764_FE0F_200D_1F469 = '1F469_200D_2764_FE0F_200D_1F469.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FB = '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FC = '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FD = '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FE = '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FF = '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FB = '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FC = '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FD = '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FE = '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FF = '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FB = '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FC = '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FD = '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FE = '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FF = '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FB = '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FC = '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FD = '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FE = '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FF = '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FF.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FB = '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FB.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FC = '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FC.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FD = '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FD.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FE = '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FE.svg';
-  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FF = '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FF.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FB_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FC_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
+  static const String $1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FD_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FF =
+      '1F9D1_1F3FE_200D_2764_FE0F_200D_1F9D1_1F3FF.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FB =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FB.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FC =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FC.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FD =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FD.svg';
+  static const String $1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FE =
+      '1F9D1_1F3FF_200D_2764_FE0F_200D_1F9D1_1F3FE.svg';
+  static const String $1F469_200D_2764_FE0F_200D_1F468 =
+      '1F469_200D_2764_FE0F_200D_1F468.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F468_200D_2764_FE0F_200D_1F468 =
+      '1F468_200D_2764_FE0F_200D_1F468.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F468_1F3FB_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F468_1F3FC_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F468_1F3FD_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F468_1F3FE_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FB.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FC.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FD.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FE.svg';
+  static const String $1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF =
+      '1F468_1F3FF_200D_2764_FE0F_200D_1F468_1F3FF.svg';
+  static const String $1F469_200D_2764_FE0F_200D_1F469 =
+      '1F469_200D_2764_FE0F_200D_1F469.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FB =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FC =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FD =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FE =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FF =
+      '1F469_1F3FB_200D_2764_FE0F_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FB =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FC =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FD =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FE =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FF =
+      '1F469_1F3FC_200D_2764_FE0F_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FB =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FC =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FD =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FE =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FF =
+      '1F469_1F3FD_200D_2764_FE0F_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FB =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FC =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FD =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FE =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FF =
+      '1F469_1F3FE_200D_2764_FE0F_200D_1F469_1F3FF.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FB =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FB.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FC =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FC.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FD =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FD.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FE =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FE.svg';
+  static const String $1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FF =
+      '1F469_1F3FF_200D_2764_FE0F_200D_1F469_1F3FF.svg';
   static const String $1F46A = '1F46A.svg';
-  static const String $1F468_200D_1F469_200D_1F466 = '1F468_200D_1F469_200D_1F466.svg';
-  static const String $1F468_200D_1F469_200D_1F467 = '1F468_200D_1F469_200D_1F467.svg';
-  static const String $1F468_200D_1F469_200D_1F467_200D_1F466 = '1F468_200D_1F469_200D_1F467_200D_1F466.svg';
-  static const String $1F468_200D_1F469_200D_1F466_200D_1F466 = '1F468_200D_1F469_200D_1F466_200D_1F466.svg';
-  static const String $1F468_200D_1F469_200D_1F467_200D_1F467 = '1F468_200D_1F469_200D_1F467_200D_1F467.svg';
-  static const String $1F468_200D_1F468_200D_1F466 = '1F468_200D_1F468_200D_1F466.svg';
-  static const String $1F468_200D_1F468_200D_1F467 = '1F468_200D_1F468_200D_1F467.svg';
-  static const String $1F468_200D_1F468_200D_1F467_200D_1F466 = '1F468_200D_1F468_200D_1F467_200D_1F466.svg';
-  static const String $1F468_200D_1F468_200D_1F466_200D_1F466 = '1F468_200D_1F468_200D_1F466_200D_1F466.svg';
-  static const String $1F468_200D_1F468_200D_1F467_200D_1F467 = '1F468_200D_1F468_200D_1F467_200D_1F467.svg';
-  static const String $1F469_200D_1F469_200D_1F466 = '1F469_200D_1F469_200D_1F466.svg';
-  static const String $1F469_200D_1F469_200D_1F467 = '1F469_200D_1F469_200D_1F467.svg';
-  static const String $1F469_200D_1F469_200D_1F467_200D_1F466 = '1F469_200D_1F469_200D_1F467_200D_1F466.svg';
-  static const String $1F469_200D_1F469_200D_1F466_200D_1F466 = '1F469_200D_1F469_200D_1F466_200D_1F466.svg';
-  static const String $1F469_200D_1F469_200D_1F467_200D_1F467 = '1F469_200D_1F469_200D_1F467_200D_1F467.svg';
+  static const String $1F468_200D_1F469_200D_1F466 =
+      '1F468_200D_1F469_200D_1F466.svg';
+  static const String $1F468_200D_1F469_200D_1F467 =
+      '1F468_200D_1F469_200D_1F467.svg';
+  static const String $1F468_200D_1F469_200D_1F467_200D_1F466 =
+      '1F468_200D_1F469_200D_1F467_200D_1F466.svg';
+  static const String $1F468_200D_1F469_200D_1F466_200D_1F466 =
+      '1F468_200D_1F469_200D_1F466_200D_1F466.svg';
+  static const String $1F468_200D_1F469_200D_1F467_200D_1F467 =
+      '1F468_200D_1F469_200D_1F467_200D_1F467.svg';
+  static const String $1F468_200D_1F468_200D_1F466 =
+      '1F468_200D_1F468_200D_1F466.svg';
+  static const String $1F468_200D_1F468_200D_1F467 =
+      '1F468_200D_1F468_200D_1F467.svg';
+  static const String $1F468_200D_1F468_200D_1F467_200D_1F466 =
+      '1F468_200D_1F468_200D_1F467_200D_1F466.svg';
+  static const String $1F468_200D_1F468_200D_1F466_200D_1F466 =
+      '1F468_200D_1F468_200D_1F466_200D_1F466.svg';
+  static const String $1F468_200D_1F468_200D_1F467_200D_1F467 =
+      '1F468_200D_1F468_200D_1F467_200D_1F467.svg';
+  static const String $1F469_200D_1F469_200D_1F466 =
+      '1F469_200D_1F469_200D_1F466.svg';
+  static const String $1F469_200D_1F469_200D_1F467 =
+      '1F469_200D_1F469_200D_1F467.svg';
+  static const String $1F469_200D_1F469_200D_1F467_200D_1F466 =
+      '1F469_200D_1F469_200D_1F467_200D_1F466.svg';
+  static const String $1F469_200D_1F469_200D_1F466_200D_1F466 =
+      '1F469_200D_1F469_200D_1F466_200D_1F466.svg';
+  static const String $1F469_200D_1F469_200D_1F467_200D_1F467 =
+      '1F469_200D_1F469_200D_1F467_200D_1F467.svg';
   static const String $1F468_200D_1F466 = '1F468_200D_1F466.svg';
-  static const String $1F468_200D_1F466_200D_1F466 = '1F468_200D_1F466_200D_1F466.svg';
+  static const String $1F468_200D_1F466_200D_1F466 =
+      '1F468_200D_1F466_200D_1F466.svg';
   static const String $1F468_200D_1F467 = '1F468_200D_1F467.svg';
-  static const String $1F468_200D_1F467_200D_1F466 = '1F468_200D_1F467_200D_1F466.svg';
-  static const String $1F468_200D_1F467_200D_1F467 = '1F468_200D_1F467_200D_1F467.svg';
+  static const String $1F468_200D_1F467_200D_1F466 =
+      '1F468_200D_1F467_200D_1F466.svg';
+  static const String $1F468_200D_1F467_200D_1F467 =
+      '1F468_200D_1F467_200D_1F467.svg';
   static const String $1F469_200D_1F466 = '1F469_200D_1F466.svg';
-  static const String $1F469_200D_1F466_200D_1F466 = '1F469_200D_1F466_200D_1F466.svg';
+  static const String $1F469_200D_1F466_200D_1F466 =
+      '1F469_200D_1F466_200D_1F466.svg';
   static const String $1F469_200D_1F467 = '1F469_200D_1F467.svg';
-  static const String $1F469_200D_1F467_200D_1F466 = '1F469_200D_1F467_200D_1F466.svg';
-  static const String $1F469_200D_1F467_200D_1F467 = '1F469_200D_1F467_200D_1F467.svg';
+  static const String $1F469_200D_1F467_200D_1F466 =
+      '1F469_200D_1F467_200D_1F466.svg';
+  static const String $1F469_200D_1F467_200D_1F467 =
+      '1F469_200D_1F467_200D_1F467.svg';
   static const String $1F5E3 = '1F5E3.svg';
   static const String $1F464 = '1F464.svg';
   static const String $1F465 = '1F465.svg';
@@ -3441,7 +4288,8 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F3F4 = '1F3F4.svg';
   static const String $1F3F3 = '1F3F3.svg';
   static const String $1F3F3_FE0F_200D_1F308 = '1F3F3_FE0F_200D_1F308.svg';
-  static const String $1F3F3_FE0F_200D_26A7_FE0F = '1F3F3_FE0F_200D_26A7_FE0F.svg';
+  static const String $1F3F3_FE0F_200D_26A7_FE0F =
+      '1F3F3_FE0F_200D_26A7_FE0F.svg';
   static const String $1F3F4_200D_2620_FE0F = '1F3F4_200D_2620_FE0F.svg';
   static const String $1F1E6_1F1E8 = '1F1E6_1F1E8.svg';
   static const String $1F1E6_1F1E9 = '1F1E6_1F1E9.svg';
@@ -3701,9 +4549,12 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1F1FF_1F1E6 = '1F1FF_1F1E6.svg';
   static const String $1F1FF_1F1F2 = '1F1FF_1F1F2.svg';
   static const String $1F1FF_1F1FC = '1F1FF_1F1FC.svg';
-  static const String $1F3F4_E0067_E0062_E0065_E006E_E0067_E007F = '1F3F4_E0067_E0062_E0065_E006E_E0067_E007F.svg';
-  static const String $1F3F4_E0067_E0062_E0073_E0063_E0074_E007F = '1F3F4_E0067_E0062_E0073_E0063_E0074_E007F.svg';
-  static const String $1F3F4_E0067_E0062_E0077_E006C_E0073_E007F = '1F3F4_E0067_E0062_E0077_E006C_E0073_E007F.svg';
+  static const String $1F3F4_E0067_E0062_E0065_E006E_E0067_E007F =
+      '1F3F4_E0067_E0062_E0065_E006E_E0067_E007F.svg';
+  static const String $1F3F4_E0067_E0062_E0073_E0063_E0074_E007F =
+      '1F3F4_E0067_E0062_E0073_E0063_E0074_E007F.svg';
+  static const String $1F3F4_E0067_E0062_E0077_E006C_E0073_E007F =
+      '1F3F4_E0067_E0062_E0077_E006C_E0073_E007F.svg';
   static const String E000 = 'E000.svg';
   static const String E001 = 'E001.svg';
   static const String E002 = 'E002.svg';
@@ -3830,23 +4681,28 @@ class OpenmojiBlack extends StatelessWidget {
   static const String E0B4 = 'E0B4.svg';
   static const String $1F1E6_1F1F6_1F48E = '1F1E6_1F1F6_1F48E.svg';
   static const String $1F3F3_FE0F = '1F3F3_FE0F.svg';
-  static const String $1F3F3_FE0F_200D_1F4CC_200D_2699_FE0F = '1F3F3_FE0F_200D_1F4CC_200D_2699_FE0F.svg';
+  static const String $1F3F3_FE0F_200D_1F4CC_200D_2699_FE0F =
+      '1F3F3_FE0F_200D_1F4CC_200D_2699_FE0F.svg';
   static const String $1F3F3_FE0F_200D_1F7E5 = '1F3F3_FE0F_200D_1F7E5.svg';
   static const String $1F3F3_FE0F_200D_1F7E6 = '1F3F3_FE0F_200D_1F7E6.svg';
-  static const String $1F3F3_FE0F_200D_1F7E6_200D_1F30C = '1F3F3_FE0F_200D_1F7E6_200D_1F30C.svg';
+  static const String $1F3F3_FE0F_200D_1F7E6_200D_1F30C =
+      '1F3F3_FE0F_200D_1F7E6_200D_1F30C.svg';
   static const String $1F3F3_FE0F_200D_1F7E7 = '1F3F3_FE0F_200D_1F7E7.svg';
   static const String $1F3F3_FE0F_200D_1F7E8 = '1F3F3_FE0F_200D_1F7E8.svg';
   static const String $1F3F3_FE0F_200D_1F7E9 = '1F3F3_FE0F_200D_1F7E9.svg';
-  static const String $1F3F3_FE0F_200D_1F7E9_200D_2B50_200D_1F7E9 = '1F3F3_FE0F_200D_1F7E9_200D_2B50_200D_1F7E9.svg';
+  static const String $1F3F3_FE0F_200D_1F7E9_200D_2B50_200D_1F7E9 =
+      '1F3F3_FE0F_200D_1F7E9_200D_2B50_200D_1F7E9.svg';
   static const String $1F3F3_FE0F_200D_1F7EA = '1F3F3_FE0F_200D_1F7EA.svg';
   static const String $1F3F3_FE0F_200D_1F7EB = '1F3F3_FE0F_200D_1F7EB.svg';
-  static const String $1F3F4_FE0F_200D_1F170_FE0F = '1F3F4_FE0F_200D_1F170_FE0F.svg';
+  static const String $1F3F4_FE0F_200D_1F170_FE0F =
+      '1F3F4_FE0F_200D_1F170_FE0F.svg';
   static const String $2691_FE0F_200D_1F7E5 = '2691_FE0F_200D_1F7E5.svg';
   static const String $2691_FE0F_200D_1F7E6 = '2691_FE0F_200D_1F7E6.svg';
   static const String $2691_FE0F_200D_1F7E7 = '2691_FE0F_200D_1F7E7.svg';
   static const String $2691_FE0F_200D_1F7E8 = '2691_FE0F_200D_1F7E8.svg';
   static const String $2691_FE0F_200D_1F7E9 = '2691_FE0F_200D_1F7E9.svg';
-  static const String $2691_FE0F_200D_1F7E9_200D_2605_FE0F = '2691_FE0F_200D_1F7E9_200D_2605_FE0F.svg';
+  static const String $2691_FE0F_200D_1F7E9_200D_2605_FE0F =
+      '2691_FE0F_200D_1F7E9_200D_2605_FE0F.svg';
   static const String $2691_FE0F_200D_1F7EA = '2691_FE0F_200D_1F7EA.svg';
   static const String $2691_FE0F_200D_1F7EB = '2691_FE0F_200D_1F7EB.svg';
   static const String E0C0 = 'E0C0.svg';
@@ -3964,7 +4820,8 @@ class OpenmojiBlack extends StatelessWidget {
   static const String E380 = 'E380.svg';
   static const String E381 = 'E381.svg';
   static const String $25C9_FE0F_200D_1F534 = '25C9_FE0F_200D_1F534.svg';
-  static const String $25C9_FE0F_200D_1F534_200D_25AE_FE0F = '25C9_FE0F_200D_1F534_200D_25AE_FE0F.svg';
+  static const String $25C9_FE0F_200D_1F534_200D_25AE_FE0F =
+      '25C9_FE0F_200D_1F534_200D_25AE_FE0F.svg';
   static const String E1C0 = 'E1C0.svg';
   static const String E1C1 = 'E1C1.svg';
   static const String E1C2 = 'E1C2.svg';
@@ -4054,15 +4911,24 @@ class OpenmojiBlack extends StatelessWidget {
   static const String $1FAD9_200D_1F7E9 = '1FAD9_200D_1F7E9.svg';
   static const String $1FAD9_200D_1F7EA = '1FAD9_200D_1F7EA.svg';
   static const String $1FAD9_200D_1F7EB = '1FAD9_200D_1F7EB.svg';
-  static const String $1F3F4_E0063_E0061_E0071_E0063_E007F = '1F3F4_E0063_E0061_E0071_E0063_E007F.svg';
-  static const String $1F3F4_E0064_E0065_E0062_E0065_E007F = '1F3F4_E0064_E0065_E0062_E0065_E007F.svg';
-  static const String $1F3F4_E0064_E0065_E0062_E0079_E007F = '1F3F4_E0064_E0065_E0062_E0079_E007F.svg';
-  static const String $1F3F4_E0065_E0073_E0061_E0073_E007F = '1F3F4_E0065_E0073_E0061_E0073_E007F.svg';
-  static const String $1F3F4_E0065_E0073_E0063_E0074_E007F = '1F3F4_E0065_E0073_E0063_E0074_E007F.svg';
-  static const String $1F3F4_E0065_E0073_E0070_E0076_E007F = '1F3F4_E0065_E0073_E0070_E0076_E007F.svg';
-  static const String $1F3F4_E0066_E0072_E0062_E0072_E0065_E007F = '1F3F4_E0066_E0072_E0062_E0072_E0065_E007F.svg';
-  static const String $1F3F4_E0075_E0073_E0063_E0061_E007F = '1F3F4_E0075_E0073_E0063_E0061_E007F.svg';
-  static const String $1F3F4_E0075_E0073_E0074_E0078_E007F = '1F3F4_E0075_E0073_E0074_E0078_E007F.svg';
+  static const String $1F3F4_E0063_E0061_E0071_E0063_E007F =
+      '1F3F4_E0063_E0061_E0071_E0063_E007F.svg';
+  static const String $1F3F4_E0064_E0065_E0062_E0065_E007F =
+      '1F3F4_E0064_E0065_E0062_E0065_E007F.svg';
+  static const String $1F3F4_E0064_E0065_E0062_E0079_E007F =
+      '1F3F4_E0064_E0065_E0062_E0079_E007F.svg';
+  static const String $1F3F4_E0065_E0073_E0061_E0073_E007F =
+      '1F3F4_E0065_E0073_E0061_E0073_E007F.svg';
+  static const String $1F3F4_E0065_E0073_E0063_E0074_E007F =
+      '1F3F4_E0065_E0073_E0063_E0074_E007F.svg';
+  static const String $1F3F4_E0065_E0073_E0070_E0076_E007F =
+      '1F3F4_E0065_E0073_E0070_E0076_E007F.svg';
+  static const String $1F3F4_E0066_E0072_E0062_E0072_E0065_E007F =
+      '1F3F4_E0066_E0072_E0062_E0072_E0065_E007F.svg';
+  static const String $1F3F4_E0075_E0073_E0063_E0061_E007F =
+      '1F3F4_E0075_E0073_E0063_E0061_E007F.svg';
+  static const String $1F3F4_E0075_E0073_E0074_E0078_E007F =
+      '1F3F4_E0075_E0073_E0074_E0078_E007F.svg';
   static const String $1F10D = '1F10D.svg';
   static const String $1F10E = '1F10E.svg';
   static const String $1F10F = '1F10F.svg';

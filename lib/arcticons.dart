@@ -87,7 +87,8 @@ class Arcticons extends StatelessWidget {
   static const String a2 = 'a2.svg';
   static const String a2048 = 'a2048.svg';
   static const String a2050 = 'a2050.svg';
-  static const String a30_day_fitness_challenge = 'a30_day_fitness_challenge.svg';
+  static const String a30_day_fitness_challenge =
+      'a30_day_fitness_challenge.svg';
   static const String a3c_all_in_one_toolbox = 'a3c_all_in_one_toolbox.svg';
   static const String a3ctaskmanager = 'a3ctaskmanager.svg';
   static const String a3d_calculator = 'a3d_calculator.svg';
@@ -126,8 +127,10 @@ class Arcticons extends StatelessWidget {
   static const String activitywatch = 'activitywatch.svg';
   static const String adaptivebrightnesstile = 'adaptivebrightnesstile.svg';
   static const String adaway = 'adaway.svg';
-  static const String adblock_for_samsung_internet = 'adblock_for_samsung_internet.svg';
-  static const String adblock_plus_fur_samsung_internet = 'adblock_plus_fur_samsung_internet.svg';
+  static const String adblock_for_samsung_internet =
+      'adblock_for_samsung_internet.svg';
+  static const String adblock_plus_fur_samsung_internet =
+      'adblock_plus_fur_samsung_internet.svg';
   static const String adblockbrowser = 'adblockbrowser.svg';
   static const String adbmanager = 'adbmanager.svg';
   static const String adguard = 'adguard.svg';
@@ -265,7 +268,8 @@ class Arcticons extends StatelessWidget {
   static const String anydo = 'anydo.svg';
   static const String anymex = 'anymex.svg';
   static const String anythingtopip = 'anythingtopip.svg';
-  static const String anyun_continuing_education = 'anyun_continuing_education.svg';
+  static const String anyun_continuing_education =
+      'anyun_continuing_education.svg';
   static const String anywhere = 'anywhere.svg';
   static const String ap_news = 'ap_news.svg';
   static const String apex = 'apex.svg';
@@ -510,7 +514,8 @@ class Arcticons extends StatelessWidget {
   static const String blemonitor = 'blemonitor.svg';
   static const String blitz = 'blitz.svg';
   static const String blitzerde = 'blitzerde.svg';
-  static const String blitzortung_lightning_monitor = 'blitzortung_lightning_monitor.svg';
+  static const String blitzortung_lightning_monitor =
+      'blitzortung_lightning_monitor.svg';
   static const String blizzardauthenticator = 'blizzardauthenticator.svg';
   static const String blockchain = 'blockchain.svg';
   static const String blocker = 'blocker.svg';
@@ -612,7 +617,8 @@ class Arcticons extends StatelessWidget {
   static const String calctastic = 'calctastic.svg';
   static const String calculator = 'calculator.svg';
   static const String calculatorplusplus = 'calculatorplusplus.svg';
-  static const String calculatorpluspluswindowed = 'calculatorpluspluswindowed.svg';
+  static const String calculatorpluspluswindowed =
+      'calculatorpluspluswindowed.svg';
   static const String calef = 'calef.svg';
   static const String calendar_1 = 'calendar_1.svg';
   static const String calendar_10 = 'calendar_10.svg';
@@ -753,7 +759,8 @@ class Arcticons extends StatelessWidget {
   static const String chogue = 'chogue.svg';
   static const String chordanalyser = 'chordanalyser.svg';
   static const String chromiumautoupdater = 'chromiumautoupdater.svg';
-  static const String chronicle_audiobook_player = 'chronicle_audiobook_player.svg';
+  static const String chronicle_audiobook_player =
+      'chronicle_audiobook_player.svg';
   static const String chrono_trigger = 'chrono_trigger.svg';
   static const String chronus = 'chronus.svg';
   static const String chubbyclick = 'chubbyclick.svg';
@@ -897,7 +904,8 @@ class Arcticons extends StatelessWidget {
   static const String cryten = 'cryten.svg';
   static const String csoundforandroid = 'csoundforandroid.svg';
   static const String ctemplar = 'ctemplar.svg';
-  static const String ctrl_c_programming_idle_game = 'ctrl_c_programming_idle_game.svg';
+  static const String ctrl_c_programming_idle_game =
+      'ctrl_c_programming_idle_game.svg';
   static const String cube_escape = 'cube_escape.svg';
   static const String cuppa = 'cuppa.svg';
   static const String curiositystream = 'curiositystream.svg';
@@ -975,7 +983,8 @@ class Arcticons extends StatelessWidget {
   static const String democracy = 'democracy.svg';
   static const String denik_n = 'denik_n.svg';
   static const String der_spiegel = 'der_spiegel.svg';
-  static const String descomplica_faculdade_digital = 'descomplica_faculdade_digital.svg';
+  static const String descomplica_faculdade_digital =
+      'descomplica_faculdade_digital.svg';
   static const String desjardins = 'desjardins.svg';
   static const String deskclock = 'deskclock.svg';
   static const String desmos_scientific = 'desmos_scientific.svg';
@@ -1230,7 +1239,8 @@ class Arcticons extends StatelessWidget {
   static const String familylink = 'familylink.svg';
   static const String fancade = 'fancade.svg';
   static const String fanfiction_net = 'fanfiction_net.svg';
-  static const String fast_brightness_control_widget = 'fast_brightness_control_widget.svg';
+  static const String fast_brightness_control_widget =
+      'fast_brightness_control_widget.svg';
   static const String fast_n_fitness = 'fast_n_fitness.svg';
   static const String fast_shopping = 'fast_shopping.svg';
   static const String fast = 'fast.svg';
@@ -1273,8 +1283,10 @@ class Arcticons extends StatelessWidget {
   static const String fidelity = 'fidelity.svg';
   static const String fidibo = 'fidibo.svg';
   static const String field_guide_ingress = 'field_guide_ingress.svg';
-  static const String fiftheditioncharactersheet = 'fiftheditioncharactersheet.svg';
-  static const String fiitjee_recorded_lectures = 'fiitjee_recorded_lectures.svg';
+  static const String fiftheditioncharactersheet =
+      'fiftheditioncharactersheet.svg';
+  static const String fiitjee_recorded_lectures =
+      'fiitjee_recorded_lectures.svg';
   static const String fildo = 'fildo.svg';
   static const String file_commander = 'file_commander.svg';
   static const String file = 'file.svg';
@@ -1606,7 +1618,8 @@ class Arcticons extends StatelessWidget {
   static const String gstrings = 'gstrings.svg';
   static const String guardian = 'guardian.svg';
   static const String guerrillamail = 'guerrillamail.svg';
-  static const String guide_for_rainbow_six_siege = 'guide_for_rainbow_six_siege.svg';
+  static const String guide_for_rainbow_six_siege =
+      'guide_for_rainbow_six_siege.svg';
   static const String guilded = 'guilded.svg';
   static const String guilty_force = 'guilty_force.svg';
   static const String guitartuna = 'guitartuna.svg';
@@ -1659,7 +1672,8 @@ class Arcticons extends StatelessWidget {
   static const String hide_my_applist = 'hide_my_applist.svg';
   static const String hidedroid = 'hidedroid.svg';
   static const String hidemevpn = 'hidemevpn.svg';
-  static const String hieduscientificcalculator = 'hieduscientificcalculator.svg';
+  static const String hieduscientificcalculator =
+      'hieduscientificcalculator.svg';
   static const String hiit = 'hiit.svg';
   static const String hikar = 'hikar.svg';
   static const String hikconnect = 'hikconnect.svg';
@@ -1805,7 +1819,8 @@ class Arcticons extends StatelessWidget {
   static const String intellect = 'intellect.svg';
   static const String intentintercept = 'intentintercept.svg';
   static const String intercepter_ng = 'intercepter_ng.svg';
-  static const String internet_speed_meter_lite = 'internet_speed_meter_lite.svg';
+  static const String internet_speed_meter_lite =
+      'internet_speed_meter_lite.svg';
   static const String interval_timer = 'interval_timer.svg';
   static const String intra = 'intra.svg';
   static const String intti = 'intti.svg';
@@ -1852,7 +1867,8 @@ class Arcticons extends StatelessWidget {
   static const String jakdojade = 'jakdojade.svg';
   static const String jamendo = 'jamendo.svg';
   static const String jamesdsp = 'jamesdsp.svg';
-  static const String japanese_vaccination_certificate = 'japanese_vaccination_certificate.svg';
+  static const String japanese_vaccination_certificate =
+      'japanese_vaccination_certificate.svg';
   static const String jasensei = 'jasensei.svg';
   static const String jazzcash = 'jazzcash.svg';
   static const String jazzworld = 'jazzworld.svg';
@@ -2282,7 +2298,8 @@ class Arcticons extends StatelessWidget {
   static const String meinblau = 'meinblau.svg';
   static const String meinesv = 'meinesv.svg';
   static const String meinheidelberg = 'meinheidelberg.svg';
-  static const String meipian_photo_album_maker = 'meipian_photo_album_maker.svg';
+  static const String meipian_photo_album_maker =
+      'meipian_photo_album_maker.svg';
   static const String mekorama = 'mekorama.svg';
   static const String melonds = 'melonds.svg';
   static const String melvoridle = 'melvoridle.svg';
@@ -2330,7 +2347,8 @@ class Arcticons extends StatelessWidget {
   static const String microsoft_edge_canary = 'microsoft_edge_canary.svg';
   static const String microsoft_edge_dev = 'microsoft_edge_dev.svg';
   static const String microsoft_translator = 'microsoft_translator.svg';
-  static const String microsoftauthenticator_alt = 'microsoftauthenticator_alt.svg';
+  static const String microsoftauthenticator_alt =
+      'microsoftauthenticator_alt.svg';
   static const String microsoftauthenticator = 'microsoftauthenticator.svg';
   static const String microsoftbing = 'microsoftbing.svg';
   static const String microsoftedge = 'microsoftedge.svg';
@@ -2393,8 +2411,10 @@ class Arcticons extends StatelessWidget {
   static const String mlmanager = 'mlmanager.svg';
   static const String mnml = 'mnml.svg';
   static const String mobilbank = 'mobilbank.svg';
-  static const String mobile_legends_bang_bang_alt_2 = 'mobile_legends_bang_bang_alt_2.svg';
-  static const String mobile_legends_bang_bang_alt = 'mobile_legends_bang_bang_alt.svg';
+  static const String mobile_legends_bang_bang_alt_2 =
+      'mobile_legends_bang_bang_alt_2.svg';
+  static const String mobile_legends_bang_bang_alt =
+      'mobile_legends_bang_bang_alt.svg';
   static const String mobile_legends_bang_bang = 'mobile_legends_bang_bang.svg';
   static const String mobile_print = 'mobile_print.svg';
   static const String mobilempk = 'mobilempk.svg';
@@ -2584,7 +2604,8 @@ class Arcticons extends StatelessWidget {
   static const String netguard = 'netguard.svg';
   static const String nethack = 'nethack.svg';
   static const String nethunter = 'nethunter.svg';
-  static const String netiq_advanced_authentication = 'netiq_advanced_authentication.svg';
+  static const String netiq_advanced_authentication =
+      'netiq_advanced_authentication.svg';
   static const String netmonitor = 'netmonitor.svg';
   static const String netto = 'netto.svg';
   static const String network_speed = 'network_speed.svg';
@@ -2823,7 +2844,8 @@ class Arcticons extends StatelessWidget {
   static const String osm_go = 'osm_go.svg';
   static const String osmand = 'osmand.svg';
   static const String osmandtelegram = 'osmandtelegram.svg';
-  static const String osmdashboardforopentracks = 'osmdashboardforopentracks.svg';
+  static const String osmdashboardforopentracks =
+      'osmdashboardforopentracks.svg';
   static const String osmin = 'osmin.svg';
   static const String osmonitor = 'osmonitor.svg';
   static const String osmtracker = 'osmtracker.svg';
@@ -2933,7 +2955,8 @@ class Arcticons extends StatelessWidget {
   static const String phimpme = 'phimpme.svg';
   static const String phone_manager = 'phone_manager.svg';
   static const String phone = 'phone.svg';
-  static const String phoneaccountabusedetector = 'phoneaccountabusedetector.svg';
+  static const String phoneaccountabusedetector =
+      'phoneaccountabusedetector.svg';
   static const String phonepe = 'phonepe.svg';
   static const String phonesaver = 'phonesaver.svg';
   static const String phonetrack = 'phonetrack.svg';
@@ -3617,7 +3640,8 @@ class Arcticons extends StatelessWidget {
   static const String stremio = 'stremio.svg';
   static const String stride_health = 'stride_health.svg';
   static const String stronglifts = 'stronglifts.svg';
-  static const String studierendenwerkheidelberg = 'studierendenwerkheidelberg.svg';
+  static const String studierendenwerkheidelberg =
+      'studierendenwerkheidelberg.svg';
   static const String studo = 'studo.svg';
   static const String studyplus = 'studyplus.svg';
   static const String studysmarter = 'studysmarter.svg';
@@ -3700,7 +3724,8 @@ class Arcticons extends StatelessWidget {
   static const String tailscale = 'tailscale.svg';
   static const String taimi = 'taimi.svg';
   static const String talalarmo = 'talalarmo.svg';
-  static const String tallahassee_police_department = 'tallahassee_police_department.svg';
+  static const String tallahassee_police_department =
+      'tallahassee_police_department.svg';
   static const String tan = 'tan.svg';
   static const String tandem = 'tandem.svg';
   static const String tanglemaster3d = 'tanglemaster3d.svg';
@@ -4092,7 +4117,8 @@ class Arcticons extends StatelessWidget {
   static const String wallabagger = 'wallabagger.svg';
   static const String wallet = 'wallet.svg';
   static const String walletcount = 'walletcount.svg';
-  static const String wallpaperchangerforreddit = 'wallpaperchangerforreddit.svg';
+  static const String wallpaperchangerforreddit =
+      'wallpaperchangerforreddit.svg';
   static const String wallpaperengine = 'wallpaperengine.svg';
   static const String wallpapers = 'wallpapers.svg';
   static const String wallth = 'wallth.svg';
@@ -4197,7 +4223,8 @@ class Arcticons extends StatelessWidget {
   static const String worldexplorers = 'worldexplorers.svg';
   static const String wormhole_william = 'wormhole_william.svg';
   static const String worterbuch = 'worterbuch.svg';
-  static const String wot_compendium_unofficial = 'wot_compendium_unofficial.svg';
+  static const String wot_compendium_unofficial =
+      'wot_compendium_unofficial.svg';
   static const String wovietv = 'wovietv.svg';
   static const String wpgen = 'wpgen.svg';
   static const String wpsoffice = 'wpsoffice.svg';

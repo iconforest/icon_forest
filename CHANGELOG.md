@@ -1,22 +1,6 @@
-## 1.0.8
+## 1.0.10
 
-- Fix README.md QR code images
-
-## 1.0.7
-
-- Fix README.md QR code images
-
-## 1.0.6
-
-- Fix README.md images
-
-## 1.0.5
-
-- Add documentation comment
-
-## 1.0.4
-
-- Format dart code
+- Minor enhancements on documentation
 
 ## 1.0.3
 

@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 /// Donicons icon pack (225 icons)
 class _DonIcons extends IconData {
-  const _DonIcons(int codePoint) : super(codePoint, fontFamily: 'don_icons', fontPackage: 'icon_forest');
+  const _DonIcons(int codePoint)
+      : super(codePoint, fontFamily: 'don_icons', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point

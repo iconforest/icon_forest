@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// flat_icons_flutter (Arrow) icon pack (159 icons)
 class _FlatIconsFlutterArrows extends IconData {
-  const _FlatIconsFlutterArrows(int codePoint) : super(codePoint, fontFamily: 'flat_icons_arrows', fontPackage: 'icon_forest');
+  const _FlatIconsFlutterArrows(int codePoint)
+      : super(codePoint,
+            fontFamily: 'flat_icons_arrows', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point
@@ -46,7 +48,8 @@ class FlatIconsArrows {
   static const IconData con_diagonal_8_a = _FlatIconsFlutterArrows(0xf124);
   static const IconData con_diagonal_9_a = _FlatIconsFlutterArrows(0xf125);
   static const IconData con_diagonal_arrow_a = _FlatIconsFlutterArrows(0xf126);
-  static const IconData con_diagonal_arrow_1_a = _FlatIconsFlutterArrows(0xf127);
+  static const IconData con_diagonal_arrow_1_a =
+      _FlatIconsFlutterArrows(0xf127);
   static const IconData con_divide_a = _FlatIconsFlutterArrows(0xf128);
   static const IconData con_down_arrow_a = _FlatIconsFlutterArrows(0xf129);
   static const IconData con_down_arrow_1_a = _FlatIconsFlutterArrows(0xf12a);
@@ -85,7 +88,8 @@ class FlatIconsArrows {
   static const IconData con_focus_1_a = _FlatIconsFlutterArrows(0xf14b);
   static const IconData con_forward_a = _FlatIconsFlutterArrows(0xf14c);
   static const IconData con_forward_1_a = _FlatIconsFlutterArrows(0xf14d);
-  static const IconData con_horizontal_arrows_a = _FlatIconsFlutterArrows(0xf14e);
+  static const IconData con_horizontal_arrows_a =
+      _FlatIconsFlutterArrows(0xf14e);
   static const IconData con_import_a = _FlatIconsFlutterArrows(0xf150);
   static const IconData con_left_arrow_a = _FlatIconsFlutterArrows(0xf151);
   static const IconData con_left_arrow_1_a = _FlatIconsFlutterArrows(0xf152);

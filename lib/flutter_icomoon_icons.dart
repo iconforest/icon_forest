@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 /// icomoon_icons icon pack (489 icons)
 class _FlutterIcoMoonIcons extends IconData {
-  const _FlutterIcoMoonIcons(int codePoint) : super(codePoint, fontFamily: 'flutter_icomoon_icons', fontPackage: 'icon_forest');
+  const _FlutterIcoMoonIcons(int codePoint)
+      : super(codePoint, fontFamily: 'flutter_icomoon_icons', fontPackage: 'iconforest_flutter_icomoon_icons');
 }
 
 /// constants link to font code point

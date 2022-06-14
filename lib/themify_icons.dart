@@ -218,7 +218,8 @@ class ThemifyIcons extends StatelessWidget {
   static const String layers = 'layers.svg';
   static const String layout_accordion_list = 'layout_accordion_list.svg';
   static const String layout_accordion_merged = 'layout_accordion_merged.svg';
-  static const String layout_accordion_separated = 'layout_accordion_separated.svg';
+  static const String layout_accordion_separated =
+      'layout_accordion_separated.svg';
   static const String layout_column2_alt = 'layout_column2_alt.svg';
   static const String layout_column2 = 'layout_column2.svg';
   static const String layout_column3_alt = 'layout_column3_alt.svg';
@@ -246,7 +247,8 @@ class ThemifyIcons extends StatelessWidget {
   static const String layout_media_center = 'layout_media_center.svg';
   static const String layout_media_left_alt = 'layout_media_left_alt.svg';
   static const String layout_media_left = 'layout_media_left.svg';
-  static const String layout_media_overlay_alt_2 = 'layout_media_overlay_alt_2.svg';
+  static const String layout_media_overlay_alt_2 =
+      'layout_media_overlay_alt_2.svg';
   static const String layout_media_overlay_alt = 'layout_media_overlay_alt.svg';
   static const String layout_media_overlay = 'layout_media_overlay.svg';
   static const String layout_media_right_alt = 'layout_media_right_alt.svg';

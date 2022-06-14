@@ -3,9 +3,9 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import 'icon_forest.dart';
 
-/// App crypto icons (30 icons)
+/// Icon park icons (2437 icons)
 ///
-/// - build svg for app_crypto_icons icon libraries
+/// - build svg for icon_park icon libraries
 /// - constants link to svg icon resources
 class IconPark extends StatelessWidget {
   final String assetName;
@@ -115,7 +115,8 @@ class IconPark extends StatelessWidget {
   static const String alarm_clock = 'alarm_clock.svg';
   static const String align_bottom = 'align_bottom.svg';
   static const String align_bottom_two = 'align_bottom_two.svg';
-  static const String align_horizontal_center_two = 'align_horizontal_center_two.svg';
+  static const String align_horizontal_center_two =
+      'align_horizontal_center_two.svg';
   static const String align_horizontally = 'align_horizontally.svg';
   static const String align_left = 'align_left.svg';
   static const String align_left_one = 'align_left_one.svg';
@@ -139,13 +140,16 @@ class IconPark extends StatelessWidget {
   static const String align_text_top_one = 'align_text_top_one.svg';
   static const String align_top = 'align_top.svg';
   static const String align_top_two = 'align_top_two.svg';
-  static const String align_vertical_center_two = 'align_vertical_center_two.svg';
+  static const String align_vertical_center_two =
+      'align_vertical_center_two.svg';
   static const String align_vertically = 'align_vertically.svg';
   static const String alignment_bottom_center = 'alignment_bottom_center.svg';
   static const String alignment_bottom_left = 'alignment_bottom_left.svg';
   static const String alignment_bottom_right = 'alignment_bottom_right.svg';
-  static const String alignment_horizontal_bottom = 'alignment_horizontal_bottom.svg';
-  static const String alignment_horizontal_center = 'alignment_horizontal_center.svg';
+  static const String alignment_horizontal_bottom =
+      'alignment_horizontal_bottom.svg';
+  static const String alignment_horizontal_center =
+      'alignment_horizontal_center.svg';
   static const String alignment_horizontal_top = 'alignment_horizontal_top.svg';
   static const String alignment_left_bottom = 'alignment_left_bottom.svg';
   static const String alignment_left_center = 'alignment_left_center.svg';
@@ -156,7 +160,8 @@ class IconPark extends StatelessWidget {
   static const String alignment_top_center = 'alignment_top_center.svg';
   static const String alignment_top_left = 'alignment_top_left.svg';
   static const String alignment_top_right = 'alignment_top_right.svg';
-  static const String alignment_vertical_center = 'alignment_vertical_center.svg';
+  static const String alignment_vertical_center =
+      'alignment_vertical_center.svg';
   static const String alignment_vertical_left = 'alignment_vertical_left.svg';
   static const String alignment_vertical_right = 'alignment_vertical_right.svg';
   static const String alipay = 'alipay.svg';
@@ -703,7 +708,8 @@ class IconPark extends StatelessWidget {
   static const String digital_watches = 'digital_watches.svg';
   static const String direction = 'direction.svg';
   static const String direction_adjustment = 'direction_adjustment.svg';
-  static const String direction_adjustment_three = 'direction_adjustment_three.svg';
+  static const String direction_adjustment_three =
+      'direction_adjustment_three.svg';
   static const String direction_adjustment_two = 'direction_adjustment_two.svg';
   static const String disappointed_face = 'disappointed_face.svg';
   static const String discovery_index = 'discovery_index.svg';
@@ -715,9 +721,11 @@ class IconPark extends StatelessWidget {
   static const String display = 'display.svg';
   static const String distortion = 'distortion.svg';
   static const String distraught_face = 'distraught_face.svg';
-  static const String distribute_horizontal_spacing = 'distribute_horizontal_spacing.svg';
+  static const String distribute_horizontal_spacing =
+      'distribute_horizontal_spacing.svg';
   static const String distribute_horizontally = 'distribute_horizontally.svg';
-  static const String distribute_vertical_spacing = 'distribute_vertical_spacing.svg';
+  static const String distribute_vertical_spacing =
+      'distribute_vertical_spacing.svg';
   static const String distribute_vertically = 'distribute_vertically.svg';
   static const String dividing_line = 'dividing_line.svg';
   static const String diving = 'diving.svg';
@@ -871,7 +879,8 @@ class IconPark extends StatelessWidget {
   static const String f_zero_key = 'f_zero_key.svg';
   static const String face_powder = 'face_powder.svg';
   static const String face_recognition = 'face_recognition.svg';
-  static const String face_with_smiling_open_eyes = 'face_with_smiling_open_eyes.svg';
+  static const String face_with_smiling_open_eyes =
+      'face_with_smiling_open_eyes.svg';
   static const String face_without_mouth = 'face_without_mouth.svg';
   static const String facebook = 'facebook.svg';
   static const String facebook_one = 'facebook_one.svg';
@@ -1051,14 +1060,16 @@ class IconPark extends StatelessWidget {
   static const String four_key = 'four_key.svg';
   static const String four_leaves = 'four_leaves.svg';
   static const String four_point_connection = 'four_point_connection.svg';
-  static const String four_round_point_connection = 'four_round_point_connection.svg';
+  static const String four_round_point_connection =
+      'four_round_point_connection.svg';
   static const String foursquare = 'foursquare.svg';
   static const String freeze_column = 'freeze_column.svg';
   static const String freeze_line = 'freeze_line.svg';
   static const String freezing_line_column = 'freezing_line_column.svg';
   static const String french_fries = 'french_fries.svg';
   static const String friends_circle = 'friends_circle.svg';
-  static const String frowning_face_whit_open_mouth = 'frowning_face_whit_open_mouth.svg';
+  static const String frowning_face_whit_open_mouth =
+      'frowning_face_whit_open_mouth.svg';
   static const String full_dress_longuette = 'full_dress_longuette.svg';
   static const String full_screen = 'full_screen.svg';
   static const String full_screen_one = 'full_screen_one.svg';
@@ -1131,10 +1142,14 @@ class IconPark extends StatelessWidget {
   static const String grid_two = 'grid_two.svg';
   static const String grimacing_face = 'grimacing_face.svg';
   static const String grinning_face = 'grinning_face.svg';
-  static const String grinning_face_with_open_mouth = 'grinning_face_with_open_mouth.svg';
-  static const String grinning_face_with_squinting_eyes = 'grinning_face_with_squinting_eyes.svg';
-  static const String grinning_face_with_tightly_closed_eyes = 'grinning_face_with_tightly_closed_eyes.svg';
-  static const String grinning_face_with_tightly_closed_eyes_open_mouth = 'grinning_face_with_tightly_closed_eyes_open_mouth.svg';
+  static const String grinning_face_with_open_mouth =
+      'grinning_face_with_open_mouth.svg';
+  static const String grinning_face_with_squinting_eyes =
+      'grinning_face_with_squinting_eyes.svg';
+  static const String grinning_face_with_tightly_closed_eyes =
+      'grinning_face_with_tightly_closed_eyes.svg';
+  static const String grinning_face_with_tightly_closed_eyes_open_mouth =
+      'grinning_face_with_tightly_closed_eyes_open_mouth.svg';
   static const String group = 'group.svg';
   static const String guide_board = 'guide_board.svg';
   static const String gymnastics = 'gymnastics.svg';
@@ -1228,7 +1243,8 @@ class IconPark extends StatelessWidget {
   static const String homestay = 'homestay.svg';
   static const String honey = 'honey.svg';
   static const String honey_one = 'honey_one.svg';
-  static const String horizontal_spacing_between_items = 'horizontal_spacing_between_items.svg';
+  static const String horizontal_spacing_between_items =
+      'horizontal_spacing_between_items.svg';
   static const String horizontal_tidy_up = 'horizontal_tidy_up.svg';
   static const String horizontally_centered = 'horizontally_centered.svg';
   static const String hospital = 'hospital.svg';
@@ -1282,7 +1298,8 @@ class IconPark extends StatelessWidget {
   static const String injection = 'injection.svg';
   static const String inline = 'inline.svg';
   static const String inner_shadow_bottom_left = 'inner_shadow_bottom_left.svg';
-  static const String inner_shadow_bottom_right = 'inner_shadow_bottom_right.svg';
+  static const String inner_shadow_bottom_right =
+      'inner_shadow_bottom_right.svg';
   static const String inner_shadow_down = 'inner_shadow_down.svg';
   static const String inner_shadow_left = 'inner_shadow_left.svg';
   static const String inner_shadow_right = 'inner_shadow_right.svg';
@@ -1431,7 +1448,8 @@ class IconPark extends StatelessWidget {
   static const String loop_once = 'loop_once.svg';
   static const String lotion = 'lotion.svg';
   static const String loudly_crying_face = 'loudly_crying_face.svg';
-  static const String loudly_crying_face_whit_open_mouth = 'loudly_crying_face_whit_open_mouth.svg';
+  static const String loudly_crying_face_whit_open_mouth =
+      'loudly_crying_face_whit_open_mouth.svg';
   static const String luggage = 'luggage.svg';
   static const String luminous = 'luminous.svg';
   static const String lung = 'lung.svg';
@@ -1859,8 +1877,10 @@ class IconPark extends StatelessWidget {
   static const String rectangle_small = 'rectangle_small.svg';
   static const String rectangle_tear = 'rectangle_tear.svg';
   static const String rectangle_x = 'rectangle_x.svg';
-  static const String rectangular_circular_connection = 'rectangular_circular_connection.svg';
-  static const String rectangular_circular_separation = 'rectangular_circular_separation.svg';
+  static const String rectangular_circular_connection =
+      'rectangular_circular_connection.svg';
+  static const String rectangular_circular_separation =
+      'rectangular_circular_separation.svg';
   static const String rectangular_vertebra = 'rectangular_vertebra.svg';
   static const String recycle_bin = 'recycle_bin.svg';
   static const String recycling = 'recycling.svg';
@@ -2078,14 +2098,16 @@ class IconPark extends StatelessWidget {
   static const String slide_two = 'slide_two.svg';
   static const String sliding_horizontal = 'sliding_horizontal.svg';
   static const String sliding_vertical = 'sliding_vertical.svg';
-  static const String slightly_frowning_face_whit_open_mouth = 'slightly_frowning_face_whit_open_mouth.svg';
+  static const String slightly_frowning_face_whit_open_mouth =
+      'slightly_frowning_face_whit_open_mouth.svg';
   static const String slightly_smiling_face = 'slightly_smiling_face.svg';
   static const String slippers = 'slippers.svg';
   static const String slippers_one = 'slippers_one.svg';
   static const String sly_face_whit_smile = 'sly_face_whit_smile.svg';
   static const String smart_optimization = 'smart_optimization.svg';
   static const String smiling_face = 'smiling_face.svg';
-  static const String smiling_face_with_squinting_eyes = 'smiling_face_with_squinting_eyes.svg';
+  static const String smiling_face_with_squinting_eyes =
+      'smiling_face_with_squinting_eyes.svg';
   static const String snacks = 'snacks.svg';
   static const String snow = 'snow.svg';
   static const String snowflake = 'snowflake.svg';
@@ -2167,8 +2189,10 @@ class IconPark extends StatelessWidget {
   static const String sunny = 'sunny.svg';
   static const String sunrise = 'sunrise.svg';
   static const String sunshade = 'sunshade.svg';
-  static const String surprised_face_with_open_big_mouth = 'surprised_face_with_open_big_mouth.svg';
-  static const String surprised_face_with_open_mouth = 'surprised_face_with_open_mouth.svg';
+  static const String surprised_face_with_open_big_mouth =
+      'surprised_face_with_open_big_mouth.svg';
+  static const String surprised_face_with_open_mouth =
+      'surprised_face_with_open_mouth.svg';
   static const String surveillance_cameras = 'surveillance_cameras.svg';
   static const String surveillance_cameras_one = 'surveillance_cameras_one.svg';
   static const String surveillance_cameras_two = 'surveillance_cameras_two.svg';
@@ -2295,7 +2319,8 @@ class IconPark extends StatelessWidget {
   static const String toxins = 'toxins.svg';
   static const String trace = 'trace.svg';
   static const String trademark = 'trademark.svg';
-  static const String traditional_chinese_medicine = 'traditional_chinese_medicine.svg';
+  static const String traditional_chinese_medicine =
+      'traditional_chinese_medicine.svg';
   static const String transaction = 'transaction.svg';
   static const String transaction_order = 'transaction_order.svg';
   static const String transfer = 'transfer.svg';
@@ -2389,12 +2414,14 @@ class IconPark extends StatelessWidget {
   static const String user = 'user.svg';
   static const String user_business = 'user_business.svg';
   static const String user_positioning = 'user_positioning.svg';
-  static const String user_to_user_transmission = 'user_to_user_transmission.svg';
+  static const String user_to_user_transmission =
+      'user_to_user_transmission.svg';
   static const String uterus = 'uterus.svg';
   static const String vacuum_cleaner = 'vacuum_cleaner.svg';
   static const String vegetable_basket = 'vegetable_basket.svg';
   static const String vegetables = 'vegetables.svg';
-  static const String vertical_spacing_between_items = 'vertical_spacing_between_items.svg';
+  static const String vertical_spacing_between_items =
+      'vertical_spacing_between_items.svg';
   static const String vertical_tidy_up = 'vertical_tidy_up.svg';
   static const String vertical_timeline = 'vertical_timeline.svg';
   static const String vertically_centered = 'vertically_centered.svg';
@@ -2481,7 +2508,8 @@ class IconPark extends StatelessWidget {
   static const String windows = 'windows.svg';
   static const String wingsuit_flying = 'wingsuit_flying.svg';
   static const String winking_face = 'winking_face.svg';
-  static const String winking_face_with_open_eyes = 'winking_face_with_open_eyes.svg';
+  static const String winking_face_with_open_eyes =
+      'winking_face_with_open_eyes.svg';
   static const String woman = 'woman.svg';
   static const String women_coat = 'women_coat.svg';
   static const String woolen_hat = 'woolen_hat.svg';

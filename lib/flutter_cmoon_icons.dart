@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 /// flat_cmoon_icons icon pack (2898 icons)
 class _FlutterCmoonIcons extends IconData {
-  const _FlutterCmoonIcons(int codePoint) : super(codePoint, fontFamily: 'flutter_cmoon_icons', fontPackage: 'icon_forest');
+  const _FlutterCmoonIcons(int codePoint)
+      : super(codePoint,
+            fontFamily: 'flutter_cmoon_icons', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point
@@ -301,7 +303,8 @@ class FlutterCmoonIcons {
   static const IconData icon_codio = _FlutterCmoonIcons(0xea23);
   static const IconData icon_coffeescript = _FlutterCmoonIcons(0xea24);
   static const IconData icon_coinbase = _FlutterCmoonIcons(0xea25);
-  static const IconData icon_commonworkflowlanguage = _FlutterCmoonIcons(0xea26);
+  static const IconData icon_commonworkflowlanguage =
+      _FlutterCmoonIcons(0xea26);
   static const IconData icon_composer = _FlutterCmoonIcons(0xea27);
   static const IconData icon_compropago = _FlutterCmoonIcons(0xea28);
   static const IconData icon_conda_forge = _FlutterCmoonIcons(0xea29);
@@ -1060,7 +1063,8 @@ class FlutterCmoonIcons {
   static const IconData icon_xsplit = _FlutterCmoonIcons(0xed1a);
   static const IconData icon_yahoo1 = _FlutterCmoonIcons(0xed1b);
   static const IconData icon_yamahacorporation = _FlutterCmoonIcons(0xed1c);
-  static const IconData icon_yamahamotorcorporation = _FlutterCmoonIcons(0xed1d);
+  static const IconData icon_yamahamotorcorporation =
+      _FlutterCmoonIcons(0xed1d);
   static const IconData icon_yammer = _FlutterCmoonIcons(0xed1e);
   static const IconData icon_yandex = _FlutterCmoonIcons(0xed1f);
   static const IconData icon_yarn = _FlutterCmoonIcons(0xed20);
@@ -1520,7 +1524,8 @@ class FlutterCmoonIcons {
   static const IconData icon_cloud_sun_snowflakes = _FlutterCmoonIcons(0xeee6);
   static const IconData icon_cloud_sun_snowflakes1 = _FlutterCmoonIcons(0xeee7);
   static const IconData icon_cloud_moon_snowflakes = _FlutterCmoonIcons(0xeee8);
-  static const IconData icon_cloud_moon_snowflakes1 = _FlutterCmoonIcons(0xeee9);
+  static const IconData icon_cloud_moon_snowflakes1 =
+      _FlutterCmoonIcons(0xeee9);
   static const IconData icon_clouds = _FlutterCmoonIcons(0xeeea);
   static const IconData icon_clouds1 = _FlutterCmoonIcons(0xeeeb);
   static const IconData icon_cloud_add = _FlutterCmoonIcons(0xeeec);
@@ -1621,8 +1626,10 @@ class FlutterCmoonIcons {
   static const IconData icon_thermometer_quarter1 = _FlutterCmoonIcons(0xef4b);
   static const IconData icon_thermometer_half = _FlutterCmoonIcons(0xef4c);
   static const IconData icon_thermometer_half1 = _FlutterCmoonIcons(0xef4d);
-  static const IconData icon_thermometer_three_quarters = _FlutterCmoonIcons(0xef4e);
-  static const IconData icon_thermometer_three_quarters1 = _FlutterCmoonIcons(0xef4f);
+  static const IconData icon_thermometer_three_quarters =
+      _FlutterCmoonIcons(0xef4e);
+  static const IconData icon_thermometer_three_quarters1 =
+      _FlutterCmoonIcons(0xef4f);
   static const IconData icon_thermometer_full = _FlutterCmoonIcons(0xef50);
   static const IconData icon_thermometer_full1 = _FlutterCmoonIcons(0xef51);
   static const IconData icon_lightning = _FlutterCmoonIcons(0xef52);
@@ -1666,13 +1673,17 @@ class FlutterCmoonIcons {
   static const IconData icon_smiling_face2 = _FlutterCmoonIcons(0xef78);
   static const IconData icon_smiling_face3 = _FlutterCmoonIcons(0xef79);
   static const IconData icon_smiling_face_eyebrows = _FlutterCmoonIcons(0xef7a);
-  static const IconData icon_smiling_face_eyebrows1 = _FlutterCmoonIcons(0xef7b);
-  static const IconData icon_grinning_face_eyebrows = _FlutterCmoonIcons(0xef7c);
-  static const IconData icon_grinning_face_eyebrows1 = _FlutterCmoonIcons(0xef7d);
+  static const IconData icon_smiling_face_eyebrows1 =
+      _FlutterCmoonIcons(0xef7b);
+  static const IconData icon_grinning_face_eyebrows =
+      _FlutterCmoonIcons(0xef7c);
+  static const IconData icon_grinning_face_eyebrows1 =
+      _FlutterCmoonIcons(0xef7d);
   static const IconData icon_sad_face_eyebrows = _FlutterCmoonIcons(0xef7e);
   static const IconData icon_sad_face_eyebrows1 = _FlutterCmoonIcons(0xef7f);
   static const IconData icon_neutral_face_eyebrows = _FlutterCmoonIcons(0xef80);
-  static const IconData icon_neutral_face_eyebrows1 = _FlutterCmoonIcons(0xef81);
+  static const IconData icon_neutral_face_eyebrows1 =
+      _FlutterCmoonIcons(0xef81);
   static const IconData icon_angry_face = _FlutterCmoonIcons(0xef82);
   static const IconData icon_angry_face1 = _FlutterCmoonIcons(0xef83);
   static const IconData icon_worried_face = _FlutterCmoonIcons(0xef84);
@@ -1685,16 +1696,24 @@ class FlutterCmoonIcons {
   static const IconData icon_grinning_face1 = _FlutterCmoonIcons(0xef8b);
   static const IconData icon_sad_face4 = _FlutterCmoonIcons(0xef8c);
   static const IconData icon_sad_face5 = _FlutterCmoonIcons(0xef8d);
-  static const IconData icon_grinning_face_eyebrows2 = _FlutterCmoonIcons(0xef8e);
-  static const IconData icon_grinning_face_eyebrows3 = _FlutterCmoonIcons(0xef8f);
-  static const IconData icon_fake_grinning_face_eyebrows = _FlutterCmoonIcons(0xef90);
-  static const IconData icon_fake_grinning_face_eyebrows1 = _FlutterCmoonIcons(0xef91);
+  static const IconData icon_grinning_face_eyebrows2 =
+      _FlutterCmoonIcons(0xef8e);
+  static const IconData icon_grinning_face_eyebrows3 =
+      _FlutterCmoonIcons(0xef8f);
+  static const IconData icon_fake_grinning_face_eyebrows =
+      _FlutterCmoonIcons(0xef90);
+  static const IconData icon_fake_grinning_face_eyebrows1 =
+      _FlutterCmoonIcons(0xef91);
   static const IconData icon_worried_face_eyebrows = _FlutterCmoonIcons(0xef92);
-  static const IconData icon_worried_face_eyebrows1 = _FlutterCmoonIcons(0xef93);
+  static const IconData icon_worried_face_eyebrows1 =
+      _FlutterCmoonIcons(0xef93);
   static const IconData icon_face_stuck_out_tongue = _FlutterCmoonIcons(0xef94);
-  static const IconData icon_face_stuck_out_tongue1 = _FlutterCmoonIcons(0xef95);
-  static const IconData icon_face_stuck_out_tongue2 = _FlutterCmoonIcons(0xef96);
-  static const IconData icon_face_stuck_out_tongue3 = _FlutterCmoonIcons(0xef97);
+  static const IconData icon_face_stuck_out_tongue1 =
+      _FlutterCmoonIcons(0xef95);
+  static const IconData icon_face_stuck_out_tongue2 =
+      _FlutterCmoonIcons(0xef96);
+  static const IconData icon_face_stuck_out_tongue3 =
+      _FlutterCmoonIcons(0xef97);
   static const IconData icon_kissing_face = _FlutterCmoonIcons(0xef98);
   static const IconData icon_kissing_face1 = _FlutterCmoonIcons(0xef99);
   static const IconData icon_grinning_face_teeth = _FlutterCmoonIcons(0xef9a);
@@ -1705,32 +1724,52 @@ class FlutterCmoonIcons {
   static const IconData icon_worried_face_teeth1 = _FlutterCmoonIcons(0xef9f);
   static const IconData icon_grinning_face_teeth2 = _FlutterCmoonIcons(0xefa0);
   static const IconData icon_grinning_face_teeth3 = _FlutterCmoonIcons(0xefa1);
-  static const IconData icon_face_open_mouth_eyebrows = _FlutterCmoonIcons(0xefa2);
-  static const IconData icon_face_open_mouth_eyebrows1 = _FlutterCmoonIcons(0xefa3);
-  static const IconData icon_face_open_mouth_eyebrows2 = _FlutterCmoonIcons(0xefa4);
-  static const IconData icon_face_open_mouth_eyebrows3 = _FlutterCmoonIcons(0xefa5);
-  static const IconData icon_angry_face_open_mouth_eyebrows = _FlutterCmoonIcons(0xefa6);
-  static const IconData icon_angry_face_open_mouth_eyebrows1 = _FlutterCmoonIcons(0xefa7);
-  static const IconData icon_unamused_face_tightly_closed_eyes = _FlutterCmoonIcons(0xefa8);
-  static const IconData icon_unamused_face_tightly_closed_eyes1 = _FlutterCmoonIcons(0xefa9);
-  static const IconData icon_sad_face__tightly_closed_eyes = _FlutterCmoonIcons(0xefaa);
-  static const IconData icon_sad_face__tightly_closed_eyes1 = _FlutterCmoonIcons(0xefab);
+  static const IconData icon_face_open_mouth_eyebrows =
+      _FlutterCmoonIcons(0xefa2);
+  static const IconData icon_face_open_mouth_eyebrows1 =
+      _FlutterCmoonIcons(0xefa3);
+  static const IconData icon_face_open_mouth_eyebrows2 =
+      _FlutterCmoonIcons(0xefa4);
+  static const IconData icon_face_open_mouth_eyebrows3 =
+      _FlutterCmoonIcons(0xefa5);
+  static const IconData icon_angry_face_open_mouth_eyebrows =
+      _FlutterCmoonIcons(0xefa6);
+  static const IconData icon_angry_face_open_mouth_eyebrows1 =
+      _FlutterCmoonIcons(0xefa7);
+  static const IconData icon_unamused_face_tightly_closed_eyes =
+      _FlutterCmoonIcons(0xefa8);
+  static const IconData icon_unamused_face_tightly_closed_eyes1 =
+      _FlutterCmoonIcons(0xefa9);
+  static const IconData icon_sad_face__tightly_closed_eyes =
+      _FlutterCmoonIcons(0xefaa);
+  static const IconData icon_sad_face__tightly_closed_eyes1 =
+      _FlutterCmoonIcons(0xefab);
   static const IconData icon_kissing_face2 = _FlutterCmoonIcons(0xefac);
   static const IconData icon_kissing_face3 = _FlutterCmoonIcons(0xefad);
   static const IconData icon_face_closed_meyes = _FlutterCmoonIcons(0xefae);
   static const IconData icon_face_closed_meyes1 = _FlutterCmoonIcons(0xefaf);
   static const IconData icon_amused_face = _FlutterCmoonIcons(0xefb0);
   static const IconData icon_amused_face1 = _FlutterCmoonIcons(0xefb1);
-  static const IconData icon_amused_face_closed_eyes = _FlutterCmoonIcons(0xefb2);
-  static const IconData icon_amused_face_closed_eyes1 = _FlutterCmoonIcons(0xefb3);
-  static const IconData icon_amused_face_closed_eyes2 = _FlutterCmoonIcons(0xefb4);
-  static const IconData icon_amused_face_closed_eyes3 = _FlutterCmoonIcons(0xefb5);
-  static const IconData icon_face_closed_eyes_open_mouth = _FlutterCmoonIcons(0xefb6);
-  static const IconData icon_face_closed_eyes_open_mouth1 = _FlutterCmoonIcons(0xefb7);
-  static const IconData icon_face_closed_eyes_open_mouth2 = _FlutterCmoonIcons(0xefb8);
-  static const IconData icon_face_closed_eyes_open_mouth3 = _FlutterCmoonIcons(0xefb9);
-  static const IconData icon_face_closed_eyes_open_mouth4 = _FlutterCmoonIcons(0xefba);
-  static const IconData icon_face_closed_eyes_open_mouth5 = _FlutterCmoonIcons(0xefbb);
+  static const IconData icon_amused_face_closed_eyes =
+      _FlutterCmoonIcons(0xefb2);
+  static const IconData icon_amused_face_closed_eyes1 =
+      _FlutterCmoonIcons(0xefb3);
+  static const IconData icon_amused_face_closed_eyes2 =
+      _FlutterCmoonIcons(0xefb4);
+  static const IconData icon_amused_face_closed_eyes3 =
+      _FlutterCmoonIcons(0xefb5);
+  static const IconData icon_face_closed_eyes_open_mouth =
+      _FlutterCmoonIcons(0xefb6);
+  static const IconData icon_face_closed_eyes_open_mouth1 =
+      _FlutterCmoonIcons(0xefb7);
+  static const IconData icon_face_closed_eyes_open_mouth2 =
+      _FlutterCmoonIcons(0xefb8);
+  static const IconData icon_face_closed_eyes_open_mouth3 =
+      _FlutterCmoonIcons(0xefb9);
+  static const IconData icon_face_closed_eyes_open_mouth4 =
+      _FlutterCmoonIcons(0xefba);
+  static const IconData icon_face_closed_eyes_open_mouth5 =
+      _FlutterCmoonIcons(0xefbb);
   static const IconData icon_laughing_face4 = _FlutterCmoonIcons(0xefbc);
   static const IconData icon_laughing_face5 = _FlutterCmoonIcons(0xefbd);
   static const IconData icon_smiling_face4 = _FlutterCmoonIcons(0xefbe);
@@ -1759,8 +1798,10 @@ class FlutterCmoonIcons {
   static const IconData icon_face_glasses1 = _FlutterCmoonIcons(0xefd5);
   static const IconData icon_face_sunglasses = _FlutterCmoonIcons(0xefd6);
   static const IconData icon_face_sunglasses1 = _FlutterCmoonIcons(0xefd7);
-  static const IconData icon_smirking_face_sunglasses = _FlutterCmoonIcons(0xefd8);
-  static const IconData icon_smirking_face_sunglasses1 = _FlutterCmoonIcons(0xefd9);
+  static const IconData icon_smirking_face_sunglasses =
+      _FlutterCmoonIcons(0xefd8);
+  static const IconData icon_smirking_face_sunglasses1 =
+      _FlutterCmoonIcons(0xefd9);
   static const IconData icon_middle_finger = _FlutterCmoonIcons(0xefda);
   static const IconData icon_middle_finger1 = _FlutterCmoonIcons(0xefdb);
   static const IconData icon_rock_n_roll = _FlutterCmoonIcons(0xefdc);
@@ -1775,36 +1816,52 @@ class FlutterCmoonIcons {
   static const IconData icon_thumb_up3 = _FlutterCmoonIcons(0xefe5);
   static const IconData icon_thumb_down2 = _FlutterCmoonIcons(0xefe6);
   static const IconData icon_thumb_down3 = _FlutterCmoonIcons(0xefe7);
-  static const IconData icon_two_fingers_swipe_left = _FlutterCmoonIcons(0xefe8);
-  static const IconData icon_two_fingers_swipe_left1 = _FlutterCmoonIcons(0xefe9);
-  static const IconData icon_two_fingers_swipe_right = _FlutterCmoonIcons(0xefea);
-  static const IconData icon_two_fingers_swipe_right1 = _FlutterCmoonIcons(0xefeb);
+  static const IconData icon_two_fingers_swipe_left =
+      _FlutterCmoonIcons(0xefe8);
+  static const IconData icon_two_fingers_swipe_left1 =
+      _FlutterCmoonIcons(0xefe9);
+  static const IconData icon_two_fingers_swipe_right =
+      _FlutterCmoonIcons(0xefea);
+  static const IconData icon_two_fingers_swipe_right1 =
+      _FlutterCmoonIcons(0xefeb);
   static const IconData icon_two_fingers_swipe_up = _FlutterCmoonIcons(0xefec);
   static const IconData icon_two_fingers_swipe_up1 = _FlutterCmoonIcons(0xefed);
-  static const IconData icon_two_fingers_swipe_down = _FlutterCmoonIcons(0xefee);
-  static const IconData icon_two_fingers_swipe_down1 = _FlutterCmoonIcons(0xefef);
+  static const IconData icon_two_fingers_swipe_down =
+      _FlutterCmoonIcons(0xefee);
+  static const IconData icon_two_fingers_swipe_down1 =
+      _FlutterCmoonIcons(0xefef);
   static const IconData icon_two_fingers = _FlutterCmoonIcons(0xeff0);
   static const IconData icon_two_fingers1 = _FlutterCmoonIcons(0xeff1);
-  static const IconData icon_three_fingers_double_tap = _FlutterCmoonIcons(0xeff2);
-  static const IconData icon_three_fingers_double_tap1 = _FlutterCmoonIcons(0xeff3);
-  static const IconData icon_two_fingers_resize_out = _FlutterCmoonIcons(0xeff4);
-  static const IconData icon_two_fingers_resize_out1 = _FlutterCmoonIcons(0xeff5);
+  static const IconData icon_three_fingers_double_tap =
+      _FlutterCmoonIcons(0xeff2);
+  static const IconData icon_three_fingers_double_tap1 =
+      _FlutterCmoonIcons(0xeff3);
+  static const IconData icon_two_fingers_resize_out =
+      _FlutterCmoonIcons(0xeff4);
+  static const IconData icon_two_fingers_resize_out1 =
+      _FlutterCmoonIcons(0xeff5);
   static const IconData icon_two_fingers_resize_in = _FlutterCmoonIcons(0xeff6);
-  static const IconData icon_two_fingers_resize_in1 = _FlutterCmoonIcons(0xeff7);
+  static const IconData icon_two_fingers_resize_in1 =
+      _FlutterCmoonIcons(0xeff7);
   static const IconData icon_two_fingers_rotate = _FlutterCmoonIcons(0xeff8);
   static const IconData icon_two_fingers_rotate1 = _FlutterCmoonIcons(0xeff9);
   static const IconData icon_one_finger_swipe_left = _FlutterCmoonIcons(0xeffa);
-  static const IconData icon_one_finger_swipe_left1 = _FlutterCmoonIcons(0xeffb);
-  static const IconData icon_one_finger_swipe_right = _FlutterCmoonIcons(0xeffc);
-  static const IconData icon_one_finger_swipe_right1 = _FlutterCmoonIcons(0xeffd);
+  static const IconData icon_one_finger_swipe_left1 =
+      _FlutterCmoonIcons(0xeffb);
+  static const IconData icon_one_finger_swipe_right =
+      _FlutterCmoonIcons(0xeffc);
+  static const IconData icon_one_finger_swipe_right1 =
+      _FlutterCmoonIcons(0xeffd);
   static const IconData icon_one_finger_swipe_up = _FlutterCmoonIcons(0xeffe);
   static const IconData icon_one_finger_swipe_up1 = _FlutterCmoonIcons(0xefff);
   static const IconData icon_one_finger_swipe_down = _FlutterCmoonIcons(0xf000);
-  static const IconData icon_one_finger_swipe_down1 = _FlutterCmoonIcons(0xf001);
+  static const IconData icon_one_finger_swipe_down1 =
+      _FlutterCmoonIcons(0xf001);
   static const IconData icon_one_finger = _FlutterCmoonIcons(0xf002);
   static const IconData icon_one_finger1 = _FlutterCmoonIcons(0xf003);
   static const IconData icon_one_finger_double_tap = _FlutterCmoonIcons(0xf004);
-  static const IconData icon_one_finger_double_tap1 = _FlutterCmoonIcons(0xf005);
+  static const IconData icon_one_finger_double_tap1 =
+      _FlutterCmoonIcons(0xf005);
   static const IconData icon_one_finger_tap = _FlutterCmoonIcons(0xf006);
   static const IconData icon_one_finger_tap1 = _FlutterCmoonIcons(0xf007);
   static const IconData icon_one_finger_tap_hold = _FlutterCmoonIcons(0xf008);
@@ -1813,50 +1870,78 @@ class FlutterCmoonIcons {
   static const IconData icon_thumb_finger_tap1 = _FlutterCmoonIcons(0xf00b);
   static const IconData icon_one_finger_click = _FlutterCmoonIcons(0xf00c);
   static const IconData icon_one_finger_click1 = _FlutterCmoonIcons(0xf00d);
-  static const IconData icon_three_fingers_swipe_left = _FlutterCmoonIcons(0xf00e);
-  static const IconData icon_three_fingers_swipe_left1 = _FlutterCmoonIcons(0xf00f);
-  static const IconData icon_three_fingers_swipe_right = _FlutterCmoonIcons(0xf010);
-  static const IconData icon_three_fingers_swipe_right1 = _FlutterCmoonIcons(0xf011);
-  static const IconData icon_three_fingers_swipe_up = _FlutterCmoonIcons(0xf012);
-  static const IconData icon_three_fingers_swipe_up1 = _FlutterCmoonIcons(0xf013);
-  static const IconData icon_three_fingers_swipe_down = _FlutterCmoonIcons(0xf014);
-  static const IconData icon_three_fingers_swipe_down1 = _FlutterCmoonIcons(0xf015);
+  static const IconData icon_three_fingers_swipe_left =
+      _FlutterCmoonIcons(0xf00e);
+  static const IconData icon_three_fingers_swipe_left1 =
+      _FlutterCmoonIcons(0xf00f);
+  static const IconData icon_three_fingers_swipe_right =
+      _FlutterCmoonIcons(0xf010);
+  static const IconData icon_three_fingers_swipe_right1 =
+      _FlutterCmoonIcons(0xf011);
+  static const IconData icon_three_fingers_swipe_up =
+      _FlutterCmoonIcons(0xf012);
+  static const IconData icon_three_fingers_swipe_up1 =
+      _FlutterCmoonIcons(0xf013);
+  static const IconData icon_three_fingers_swipe_down =
+      _FlutterCmoonIcons(0xf014);
+  static const IconData icon_three_fingers_swipe_down1 =
+      _FlutterCmoonIcons(0xf015);
   static const IconData icon_three_fingers = _FlutterCmoonIcons(0xf016);
   static const IconData icon_three_fingers1 = _FlutterCmoonIcons(0xf017);
-  static const IconData icon_three_fingers_double_tap2 = _FlutterCmoonIcons(0xf018);
-  static const IconData icon_three_fingers_double_tap3 = _FlutterCmoonIcons(0xf019);
+  static const IconData icon_three_fingers_double_tap2 =
+      _FlutterCmoonIcons(0xf018);
+  static const IconData icon_three_fingers_double_tap3 =
+      _FlutterCmoonIcons(0xf019);
   static const IconData icon_two_fingers_swipe_up2 = _FlutterCmoonIcons(0xf01a);
   static const IconData icon_two_fingers_swipe_up3 = _FlutterCmoonIcons(0xf01b);
-  static const IconData icon_one_finger_double_tap2 = _FlutterCmoonIcons(0xf01c);
-  static const IconData icon_one_finger_double_tap3 = _FlutterCmoonIcons(0xf01d);
-  static const IconData icon_two_fingers_swipe_down2 = _FlutterCmoonIcons(0xf01e);
-  static const IconData icon_two_fingers_swipe_down3 = _FlutterCmoonIcons(0xf01f);
-  static const IconData icon_two_fingers_swipe_right2 = _FlutterCmoonIcons(0xf020);
-  static const IconData icon_two_fingers_swipe_right3 = _FlutterCmoonIcons(0xf021);
-  static const IconData icon_two_fingers_swipe_left2 = _FlutterCmoonIcons(0xf022);
-  static const IconData icon_two_fingers_swipe_left3 = _FlutterCmoonIcons(0xf023);
+  static const IconData icon_one_finger_double_tap2 =
+      _FlutterCmoonIcons(0xf01c);
+  static const IconData icon_one_finger_double_tap3 =
+      _FlutterCmoonIcons(0xf01d);
+  static const IconData icon_two_fingers_swipe_down2 =
+      _FlutterCmoonIcons(0xf01e);
+  static const IconData icon_two_fingers_swipe_down3 =
+      _FlutterCmoonIcons(0xf01f);
+  static const IconData icon_two_fingers_swipe_right2 =
+      _FlutterCmoonIcons(0xf020);
+  static const IconData icon_two_fingers_swipe_right3 =
+      _FlutterCmoonIcons(0xf021);
+  static const IconData icon_two_fingers_swipe_left2 =
+      _FlutterCmoonIcons(0xf022);
+  static const IconData icon_two_fingers_swipe_left3 =
+      _FlutterCmoonIcons(0xf023);
   static const IconData icon_one_finger_tap2 = _FlutterCmoonIcons(0xf024);
   static const IconData icon_one_finger_tap3 = _FlutterCmoonIcons(0xf025);
   static const IconData icon_one_finger_tap_hold2 = _FlutterCmoonIcons(0xf026);
   static const IconData icon_one_finger_tap_hold3 = _FlutterCmoonIcons(0xf027);
   static const IconData icon_one_finger_click2 = _FlutterCmoonIcons(0xf028);
   static const IconData icon_one_finger_click3 = _FlutterCmoonIcons(0xf029);
-  static const IconData icon_one_finger_swipe_horizontally = _FlutterCmoonIcons(0xf02a);
-  static const IconData icon_one_finger_swipe_horizontally1 = _FlutterCmoonIcons(0xf02b);
+  static const IconData icon_one_finger_swipe_horizontally =
+      _FlutterCmoonIcons(0xf02a);
+  static const IconData icon_one_finger_swipe_horizontally1 =
+      _FlutterCmoonIcons(0xf02b);
   static const IconData icon_one_finger_swipe = _FlutterCmoonIcons(0xf02c);
   static const IconData icon_one_finger_swipe1 = _FlutterCmoonIcons(0xf02d);
-  static const IconData icon_two_fingers_double_tap = _FlutterCmoonIcons(0xf02e);
-  static const IconData icon_two_fingers_double_tap1 = _FlutterCmoonIcons(0xf02f);
+  static const IconData icon_two_fingers_double_tap =
+      _FlutterCmoonIcons(0xf02e);
+  static const IconData icon_two_fingers_double_tap1 =
+      _FlutterCmoonIcons(0xf02f);
   static const IconData icon_two_fingers_tap = _FlutterCmoonIcons(0xf030);
   static const IconData icon_two_fingers_tap1 = _FlutterCmoonIcons(0xf031);
-  static const IconData icon_one_finger_swipe_left2 = _FlutterCmoonIcons(0xf032);
-  static const IconData icon_one_finger_swipe_left3 = _FlutterCmoonIcons(0xf033);
-  static const IconData icon_one_finger_swipe_right2 = _FlutterCmoonIcons(0xf034);
-  static const IconData icon_one_finger_swipe_right3 = _FlutterCmoonIcons(0xf035);
+  static const IconData icon_one_finger_swipe_left2 =
+      _FlutterCmoonIcons(0xf032);
+  static const IconData icon_one_finger_swipe_left3 =
+      _FlutterCmoonIcons(0xf033);
+  static const IconData icon_one_finger_swipe_right2 =
+      _FlutterCmoonIcons(0xf034);
+  static const IconData icon_one_finger_swipe_right3 =
+      _FlutterCmoonIcons(0xf035);
   static const IconData icon_one_finger_swipe_up2 = _FlutterCmoonIcons(0xf036);
   static const IconData icon_one_finger_swipe_up3 = _FlutterCmoonIcons(0xf037);
-  static const IconData icon_one_finger_swipe_down2 = _FlutterCmoonIcons(0xf038);
-  static const IconData icon_one_finger_swipe_down3 = _FlutterCmoonIcons(0xf039);
+  static const IconData icon_one_finger_swipe_down2 =
+      _FlutterCmoonIcons(0xf038);
+  static const IconData icon_one_finger_swipe_down3 =
+      _FlutterCmoonIcons(0xf039);
   static const IconData icon_file_numbers = _FlutterCmoonIcons(0xf03a);
   static const IconData icon_file_numbers1 = _FlutterCmoonIcons(0xf03b);
   static const IconData icon_file_pages = _FlutterCmoonIcons(0xf03c);
@@ -1988,7 +2073,8 @@ class FlutterCmoonIcons {
   static const IconData icon_file_gif = _FlutterCmoonIcons(0xf0ba);
   static const IconData icon_file_gif1 = _FlutterCmoonIcons(0xf0bb);
   static const IconData icon_document_file_numbers = _FlutterCmoonIcons(0xf0bc);
-  static const IconData icon_document_file_numbers1 = _FlutterCmoonIcons(0xf0bd);
+  static const IconData icon_document_file_numbers1 =
+      _FlutterCmoonIcons(0xf0bd);
   static const IconData icon_document_file_pages = _FlutterCmoonIcons(0xf0be);
   static const IconData icon_document_file_pages1 = _FlutterCmoonIcons(0xf0bf);
   static const IconData icon_document_file_app = _FlutterCmoonIcons(0xf0c0);
@@ -2196,7 +2282,8 @@ class FlutterCmoonIcons {
   static const IconData icon_cheveron_left = _FlutterCmoonIcons(0xf18a);
   static const IconData icon_cheveron_outline_down = _FlutterCmoonIcons(0xf18b);
   static const IconData icon_cheveron_outline_left = _FlutterCmoonIcons(0xf18c);
-  static const IconData icon_cheveron_outline_right = _FlutterCmoonIcons(0xf18d);
+  static const IconData icon_cheveron_outline_right =
+      _FlutterCmoonIcons(0xf18d);
   static const IconData icon_cheveron_outline_up = _FlutterCmoonIcons(0xf18e);
   static const IconData icon_cheveron_right = _FlutterCmoonIcons(0xf18f);
   static const IconData icon_cheveron_up = _FlutterCmoonIcons(0xf190);
@@ -2223,8 +2310,10 @@ class FlutterCmoonIcons {
   static const IconData icon_directions = _FlutterCmoonIcons(0xf1a5);
   static const IconData icon_document2 = _FlutterCmoonIcons(0xf1a6);
   static const IconData icon_document_add2 = _FlutterCmoonIcons(0xf1a7);
-  static const IconData icon_dots_horizontal_double = _FlutterCmoonIcons(0xf1a8);
-  static const IconData icon_dots_horizontal_triple = _FlutterCmoonIcons(0xf1a9);
+  static const IconData icon_dots_horizontal_double =
+      _FlutterCmoonIcons(0xf1a8);
+  static const IconData icon_dots_horizontal_triple =
+      _FlutterCmoonIcons(0xf1a9);
   static const IconData icon_download4 = _FlutterCmoonIcons(0xf1aa);
   static const IconData icon_duplicate = _FlutterCmoonIcons(0xf1ab);
   static const IconData icon_edit_copy = _FlutterCmoonIcons(0xf1ac);

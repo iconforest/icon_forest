@@ -95,7 +95,8 @@ class Ionicons extends StatelessWidget {
   static const String alert_outline = 'alert_outline.svg';
   static const String alert_sharp = 'alert_sharp.svg';
   static const String alert = 'alert.svg';
-  static const String american_football_outline = 'american_football_outline.svg';
+  static const String american_football_outline =
+      'american_football_outline.svg';
   static const String american_football_sharp = 'american_football_sharp.svg';
   static const String american_football = 'american_football.svg';
   static const String analytics_outline = 'analytics_outline.svg';
@@ -110,31 +111,37 @@ class Ionicons extends StatelessWidget {
   static const String archive_outline = 'archive_outline.svg';
   static const String archive_sharp = 'archive_sharp.svg';
   static const String archive = 'archive.svg';
-  static const String arrow_back_circle_outline = 'arrow_back_circle_outline.svg';
+  static const String arrow_back_circle_outline =
+      'arrow_back_circle_outline.svg';
   static const String arrow_back_circle_sharp = 'arrow_back_circle_sharp.svg';
   static const String arrow_back_circle = 'arrow_back_circle.svg';
   static const String arrow_back_outline = 'arrow_back_outline.svg';
   static const String arrow_back_sharp = 'arrow_back_sharp.svg';
   static const String arrow_back = 'arrow_back.svg';
-  static const String arrow_down_circle_outline = 'arrow_down_circle_outline.svg';
+  static const String arrow_down_circle_outline =
+      'arrow_down_circle_outline.svg';
   static const String arrow_down_circle_sharp = 'arrow_down_circle_sharp.svg';
   static const String arrow_down_circle = 'arrow_down_circle.svg';
   static const String arrow_down_outline = 'arrow_down_outline.svg';
   static const String arrow_down_sharp = 'arrow_down_sharp.svg';
   static const String arrow_down = 'arrow_down.svg';
-  static const String arrow_forward_circle_outline = 'arrow_forward_circle_outline.svg';
-  static const String arrow_forward_circle_sharp = 'arrow_forward_circle_sharp.svg';
+  static const String arrow_forward_circle_outline =
+      'arrow_forward_circle_outline.svg';
+  static const String arrow_forward_circle_sharp =
+      'arrow_forward_circle_sharp.svg';
   static const String arrow_forward_circle = 'arrow_forward_circle.svg';
   static const String arrow_forward_outline = 'arrow_forward_outline.svg';
   static const String arrow_forward_sharp = 'arrow_forward_sharp.svg';
   static const String arrow_forward = 'arrow_forward.svg';
-  static const String arrow_redo_circle_outline = 'arrow_redo_circle_outline.svg';
+  static const String arrow_redo_circle_outline =
+      'arrow_redo_circle_outline.svg';
   static const String arrow_redo_circle_sharp = 'arrow_redo_circle_sharp.svg';
   static const String arrow_redo_circle = 'arrow_redo_circle.svg';
   static const String arrow_redo_outline = 'arrow_redo_outline.svg';
   static const String arrow_redo_sharp = 'arrow_redo_sharp.svg';
   static const String arrow_redo = 'arrow_redo.svg';
-  static const String arrow_undo_circle_outline = 'arrow_undo_circle_outline.svg';
+  static const String arrow_undo_circle_outline =
+      'arrow_undo_circle_outline.svg';
   static const String arrow_undo_circle_sharp = 'arrow_undo_circle_sharp.svg';
   static const String arrow_undo_circle = 'arrow_undo_circle.svg';
   static const String arrow_undo_outline = 'arrow_undo_outline.svg';
@@ -305,20 +312,24 @@ class Ionicons extends StatelessWidget {
   static const String card_outline = 'card_outline.svg';
   static const String card_sharp = 'card_sharp.svg';
   static const String card = 'card.svg';
-  static const String caret_back_circle_outline = 'caret_back_circle_outline.svg';
+  static const String caret_back_circle_outline =
+      'caret_back_circle_outline.svg';
   static const String caret_back_circle_sharp = 'caret_back_circle_sharp.svg';
   static const String caret_back_circle = 'caret_back_circle.svg';
   static const String caret_back_outline = 'caret_back_outline.svg';
   static const String caret_back_sharp = 'caret_back_sharp.svg';
   static const String caret_back = 'caret_back.svg';
-  static const String caret_down_circle_outline = 'caret_down_circle_outline.svg';
+  static const String caret_down_circle_outline =
+      'caret_down_circle_outline.svg';
   static const String caret_down_circle_sharp = 'caret_down_circle_sharp.svg';
   static const String caret_down_circle = 'caret_down_circle.svg';
   static const String caret_down_outline = 'caret_down_outline.svg';
   static const String caret_down_sharp = 'caret_down_sharp.svg';
   static const String caret_down = 'caret_down.svg';
-  static const String caret_forward_circle_outline = 'caret_forward_circle_outline.svg';
-  static const String caret_forward_circle_sharp = 'caret_forward_circle_sharp.svg';
+  static const String caret_forward_circle_outline =
+      'caret_forward_circle_outline.svg';
+  static const String caret_forward_circle_sharp =
+      'caret_forward_circle_sharp.svg';
   static const String caret_forward_circle = 'caret_forward_circle.svg';
   static const String caret_forward_outline = 'caret_forward_outline.svg';
   static const String caret_forward_sharp = 'caret_forward_sharp.svg';
@@ -344,8 +355,10 @@ class Ionicons extends StatelessWidget {
   static const String chatbox_outline = 'chatbox_outline.svg';
   static const String chatbox_sharp = 'chatbox_sharp.svg';
   static const String chatbox = 'chatbox.svg';
-  static const String chatbubble_ellipses_outline = 'chatbubble_ellipses_outline.svg';
-  static const String chatbubble_ellipses_sharp = 'chatbubble_ellipses_sharp.svg';
+  static const String chatbubble_ellipses_outline =
+      'chatbubble_ellipses_outline.svg';
+  static const String chatbubble_ellipses_sharp =
+      'chatbubble_ellipses_sharp.svg';
   static const String chatbubble_ellipses = 'chatbubble_ellipses.svg';
   static const String chatbubble_outline = 'chatbubble_outline.svg';
   static const String chatbubble_sharp = 'chatbubble_sharp.svg';
@@ -359,8 +372,10 @@ class Ionicons extends StatelessWidget {
   static const String checkmark_circle_outline = 'checkmark_circle_outline.svg';
   static const String checkmark_circle_sharp = 'checkmark_circle_sharp.svg';
   static const String checkmark_circle = 'checkmark_circle.svg';
-  static const String checkmark_done_circle_outline = 'checkmark_done_circle_outline.svg';
-  static const String checkmark_done_circle_sharp = 'checkmark_done_circle_sharp.svg';
+  static const String checkmark_done_circle_outline =
+      'checkmark_done_circle_outline.svg';
+  static const String checkmark_done_circle_sharp =
+      'checkmark_done_circle_sharp.svg';
   static const String checkmark_done_circle = 'checkmark_done_circle.svg';
   static const String checkmark_done_outline = 'checkmark_done_outline.svg';
   static const String checkmark_done_sharp = 'checkmark_done_sharp.svg';
@@ -368,25 +383,32 @@ class Ionicons extends StatelessWidget {
   static const String checkmark_outline = 'checkmark_outline.svg';
   static const String checkmark_sharp = 'checkmark_sharp.svg';
   static const String checkmark = 'checkmark.svg';
-  static const String chevron_back_circle_outline = 'chevron_back_circle_outline.svg';
-  static const String chevron_back_circle_sharp = 'chevron_back_circle_sharp.svg';
+  static const String chevron_back_circle_outline =
+      'chevron_back_circle_outline.svg';
+  static const String chevron_back_circle_sharp =
+      'chevron_back_circle_sharp.svg';
   static const String chevron_back_circle = 'chevron_back_circle.svg';
   static const String chevron_back_outline = 'chevron_back_outline.svg';
   static const String chevron_back_sharp = 'chevron_back_sharp.svg';
   static const String chevron_back = 'chevron_back.svg';
-  static const String chevron_down_circle_outline = 'chevron_down_circle_outline.svg';
-  static const String chevron_down_circle_sharp = 'chevron_down_circle_sharp.svg';
+  static const String chevron_down_circle_outline =
+      'chevron_down_circle_outline.svg';
+  static const String chevron_down_circle_sharp =
+      'chevron_down_circle_sharp.svg';
   static const String chevron_down_circle = 'chevron_down_circle.svg';
   static const String chevron_down_outline = 'chevron_down_outline.svg';
   static const String chevron_down_sharp = 'chevron_down_sharp.svg';
   static const String chevron_down = 'chevron_down.svg';
-  static const String chevron_forward_circle_outline = 'chevron_forward_circle_outline.svg';
-  static const String chevron_forward_circle_sharp = 'chevron_forward_circle_sharp.svg';
+  static const String chevron_forward_circle_outline =
+      'chevron_forward_circle_outline.svg';
+  static const String chevron_forward_circle_sharp =
+      'chevron_forward_circle_sharp.svg';
   static const String chevron_forward_circle = 'chevron_forward_circle.svg';
   static const String chevron_forward_outline = 'chevron_forward_outline.svg';
   static const String chevron_forward_sharp = 'chevron_forward_sharp.svg';
   static const String chevron_forward = 'chevron_forward.svg';
-  static const String chevron_up_circle_outline = 'chevron_up_circle_outline.svg';
+  static const String chevron_up_circle_outline =
+      'chevron_up_circle_outline.svg';
   static const String chevron_up_circle_sharp = 'chevron_up_circle_sharp.svg';
   static const String chevron_up_circle = 'chevron_up_circle.svg';
   static const String chevron_up_outline = 'chevron_up_outline.svg';
@@ -527,16 +549,24 @@ class Ionicons extends StatelessWidget {
   static const String ellipse_outline = 'ellipse_outline.svg';
   static const String ellipse_sharp = 'ellipse_sharp.svg';
   static const String ellipse = 'ellipse.svg';
-  static const String ellipsis_horizontal_circle_outline = 'ellipsis_horizontal_circle_outline.svg';
-  static const String ellipsis_horizontal_circle_sharp = 'ellipsis_horizontal_circle_sharp.svg';
-  static const String ellipsis_horizontal_circle = 'ellipsis_horizontal_circle.svg';
-  static const String ellipsis_horizontal_outline = 'ellipsis_horizontal_outline.svg';
-  static const String ellipsis_horizontal_sharp = 'ellipsis_horizontal_sharp.svg';
+  static const String ellipsis_horizontal_circle_outline =
+      'ellipsis_horizontal_circle_outline.svg';
+  static const String ellipsis_horizontal_circle_sharp =
+      'ellipsis_horizontal_circle_sharp.svg';
+  static const String ellipsis_horizontal_circle =
+      'ellipsis_horizontal_circle.svg';
+  static const String ellipsis_horizontal_outline =
+      'ellipsis_horizontal_outline.svg';
+  static const String ellipsis_horizontal_sharp =
+      'ellipsis_horizontal_sharp.svg';
   static const String ellipsis_horizontal = 'ellipsis_horizontal.svg';
-  static const String ellipsis_vertical_circle_outline = 'ellipsis_vertical_circle_outline.svg';
-  static const String ellipsis_vertical_circle_sharp = 'ellipsis_vertical_circle_sharp.svg';
+  static const String ellipsis_vertical_circle_outline =
+      'ellipsis_vertical_circle_outline.svg';
+  static const String ellipsis_vertical_circle_sharp =
+      'ellipsis_vertical_circle_sharp.svg';
   static const String ellipsis_vertical_circle = 'ellipsis_vertical_circle.svg';
-  static const String ellipsis_vertical_outline = 'ellipsis_vertical_outline.svg';
+  static const String ellipsis_vertical_outline =
+      'ellipsis_vertical_outline.svg';
   static const String ellipsis_vertical_sharp = 'ellipsis_vertical_sharp.svg';
   static const String ellipsis_vertical = 'ellipsis_vertical.svg';
   static const String enter_outline = 'enter_outline.svg';
@@ -571,7 +601,8 @@ class Ionicons extends StatelessWidget {
   static const String file_tray_full = 'file_tray_full.svg';
   static const String file_tray_outline = 'file_tray_outline.svg';
   static const String file_tray_sharp = 'file_tray_sharp.svg';
-  static const String file_tray_stacked_outline = 'file_tray_stacked_outline.svg';
+  static const String file_tray_stacked_outline =
+      'file_tray_stacked_outline.svg';
   static const String file_tray_stacked_sharp = 'file_tray_stacked_sharp.svg';
   static const String file_tray_stacked = 'file_tray_stacked.svg';
   static const String file_tray = 'file_tray.svg';
@@ -686,8 +717,10 @@ class Ionicons extends StatelessWidget {
   static const String heart_circle_outline = 'heart_circle_outline.svg';
   static const String heart_circle_sharp = 'heart_circle_sharp.svg';
   static const String heart_circle = 'heart_circle.svg';
-  static const String heart_dislike_circle_outline = 'heart_dislike_circle_outline.svg';
-  static const String heart_dislike_circle_sharp = 'heart_dislike_circle_sharp.svg';
+  static const String heart_dislike_circle_outline =
+      'heart_dislike_circle_outline.svg';
+  static const String heart_dislike_circle_sharp =
+      'heart_dislike_circle_sharp.svg';
   static const String heart_dislike_circle = 'heart_dislike_circle.svg';
   static const String heart_dislike_outline = 'heart_dislike_outline.svg';
   static const String heart_dislike_sharp = 'heart_dislike_sharp.svg';
@@ -728,7 +761,8 @@ class Ionicons extends StatelessWidget {
   static const String infinite_outline = 'infinite_outline.svg';
   static const String infinite_sharp = 'infinite_sharp.svg';
   static const String infinite = 'infinite.svg';
-  static const String information_circle_outline = 'information_circle_outline.svg';
+  static const String information_circle_outline =
+      'information_circle_outline.svg';
   static const String information_circle_sharp = 'information_circle_sharp.svg';
   static const String information_circle = 'information_circle.svg';
   static const String information_outline = 'information_outline.svg';
@@ -752,11 +786,14 @@ class Ionicons extends StatelessWidget {
   static const String ios_archive = 'ios_archive.svg';
   static const String ios_arrow_back = 'ios_arrow_back.svg';
   static const String ios_arrow_down = 'ios_arrow_down.svg';
-  static const String ios_arrow_dropdown_circle = 'ios_arrow_dropdown_circle.svg';
+  static const String ios_arrow_dropdown_circle =
+      'ios_arrow_dropdown_circle.svg';
   static const String ios_arrow_dropdown = 'ios_arrow_dropdown.svg';
-  static const String ios_arrow_dropleft_circle = 'ios_arrow_dropleft_circle.svg';
+  static const String ios_arrow_dropleft_circle =
+      'ios_arrow_dropleft_circle.svg';
   static const String ios_arrow_dropleft = 'ios_arrow_dropleft.svg';
-  static const String ios_arrow_dropright_circle = 'ios_arrow_dropright_circle.svg';
+  static const String ios_arrow_dropright_circle =
+      'ios_arrow_dropright_circle.svg';
   static const String ios_arrow_dropright = 'ios_arrow_dropright.svg';
   static const String ios_arrow_dropup_circle = 'ios_arrow_dropup_circle.svg';
   static const String ios_arrow_dropup = 'ios_arrow_dropup.svg';
@@ -810,7 +847,8 @@ class Ionicons extends StatelessWidget {
   static const String ios_chatbubbles = 'ios_chatbubbles.svg';
   static const String ios_checkbox_outline = 'ios_checkbox_outline.svg';
   static const String ios_checkbox = 'ios_checkbox.svg';
-  static const String ios_checkmark_circle_outline = 'ios_checkmark_circle_outline.svg';
+  static const String ios_checkmark_circle_outline =
+      'ios_checkmark_circle_outline.svg';
   static const String ios_checkmark_circle = 'ios_checkmark_circle.svg';
   static const String ios_checkmark = 'ios_checkmark.svg';
   static const String ios_clipboard = 'ios_clipboard.svg';
@@ -901,7 +939,8 @@ class Ionicons extends StatelessWidget {
   static const String ios_image = 'ios_image.svg';
   static const String ios_images = 'ios_images.svg';
   static const String ios_infinite = 'ios_infinite.svg';
-  static const String ios_information_circle_outline = 'ios_information_circle_outline.svg';
+  static const String ios_information_circle_outline =
+      'ios_information_circle_outline.svg';
   static const String ios_information_circle = 'ios_information_circle.svg';
   static const String ios_information = 'ios_information.svg';
   static const String ios_jet = 'ios_jet.svg';
@@ -939,7 +978,8 @@ class Ionicons extends StatelessWidget {
   static const String ios_musical_notes = 'ios_musical_notes.svg';
   static const String ios_navigate = 'ios_navigate.svg';
   static const String ios_notifications_off = 'ios_notifications_off.svg';
-  static const String ios_notifications_outline = 'ios_notifications_outline.svg';
+  static const String ios_notifications_outline =
+      'ios_notifications_outline.svg';
   static const String ios_notifications = 'ios_notifications.svg';
   static const String ios_nuclear = 'ios_nuclear.svg';
   static const String ios_nutrition = 'ios_nutrition.svg';
@@ -980,7 +1020,8 @@ class Ionicons extends StatelessWidget {
   static const String ios_redo = 'ios_redo.svg';
   static const String ios_refresh_circle = 'ios_refresh_circle.svg';
   static const String ios_refresh = 'ios_refresh.svg';
-  static const String ios_remove_circle_outline = 'ios_remove_circle_outline.svg';
+  static const String ios_remove_circle_outline =
+      'ios_remove_circle_outline.svg';
   static const String ios_remove_circle = 'ios_remove_circle.svg';
   static const String ios_remove = 'ios_remove.svg';
   static const String ios_reorder = 'ios_reorder.svg';
@@ -1244,7 +1285,8 @@ class Ionicons extends StatelessWidget {
   static const String md_arrow_dropdown = 'md_arrow_dropdown.svg';
   static const String md_arrow_dropleft_circle = 'md_arrow_dropleft_circle.svg';
   static const String md_arrow_dropleft = 'md_arrow_dropleft.svg';
-  static const String md_arrow_dropright_circle = 'md_arrow_dropright_circle.svg';
+  static const String md_arrow_dropright_circle =
+      'md_arrow_dropright_circle.svg';
   static const String md_arrow_dropright = 'md_arrow_dropright.svg';
   static const String md_arrow_dropup_circle = 'md_arrow_dropup_circle.svg';
   static const String md_arrow_dropup = 'md_arrow_dropup.svg';
@@ -1298,7 +1340,8 @@ class Ionicons extends StatelessWidget {
   static const String md_chatbubbles = 'md_chatbubbles.svg';
   static const String md_checkbox_outline = 'md_checkbox_outline.svg';
   static const String md_checkbox = 'md_checkbox.svg';
-  static const String md_checkmark_circle_outline = 'md_checkmark_circle_outline.svg';
+  static const String md_checkmark_circle_outline =
+      'md_checkmark_circle_outline.svg';
   static const String md_checkmark_circle = 'md_checkmark_circle.svg';
   static const String md_checkmark = 'md_checkmark.svg';
   static const String md_clipboard = 'md_clipboard.svg';
@@ -1389,7 +1432,8 @@ class Ionicons extends StatelessWidget {
   static const String md_image = 'md_image.svg';
   static const String md_images = 'md_images.svg';
   static const String md_infinite = 'md_infinite.svg';
-  static const String md_information_circle_outline = 'md_information_circle_outline.svg';
+  static const String md_information_circle_outline =
+      'md_information_circle_outline.svg';
   static const String md_information_circle = 'md_information_circle.svg';
   static const String md_information = 'md_information.svg';
   static const String md_jet = 'md_jet.svg';
@@ -1590,13 +1634,18 @@ class Ionicons extends StatelessWidget {
   static const String newspaper_outline = 'newspaper_outline.svg';
   static const String newspaper_sharp = 'newspaper_sharp.svg';
   static const String newspaper = 'newspaper.svg';
-  static const String notifications_circle_outline = 'notifications_circle_outline.svg';
-  static const String notifications_circle_sharp = 'notifications_circle_sharp.svg';
+  static const String notifications_circle_outline =
+      'notifications_circle_outline.svg';
+  static const String notifications_circle_sharp =
+      'notifications_circle_sharp.svg';
   static const String notifications_circle = 'notifications_circle.svg';
-  static const String notifications_off_circle_outline = 'notifications_off_circle_outline.svg';
-  static const String notifications_off_circle_sharp = 'notifications_off_circle_sharp.svg';
+  static const String notifications_off_circle_outline =
+      'notifications_off_circle_outline.svg';
+  static const String notifications_off_circle_sharp =
+      'notifications_off_circle_sharp.svg';
   static const String notifications_off_circle = 'notifications_off_circle.svg';
-  static const String notifications_off_outline = 'notifications_off_outline.svg';
+  static const String notifications_off_outline =
+      'notifications_off_outline.svg';
   static const String notifications_off_sharp = 'notifications_off_sharp.svg';
   static const String notifications_off = 'notifications_off.svg';
   static const String notifications_outline = 'notifications_outline.svg';
@@ -1680,24 +1729,31 @@ class Ionicons extends StatelessWidget {
   static const String play_circle_outline = 'play_circle_outline.svg';
   static const String play_circle_sharp = 'play_circle_sharp.svg';
   static const String play_circle = 'play_circle.svg';
-  static const String play_forward_circle_outline = 'play_forward_circle_outline.svg';
-  static const String play_forward_circle_sharp = 'play_forward_circle_sharp.svg';
+  static const String play_forward_circle_outline =
+      'play_forward_circle_outline.svg';
+  static const String play_forward_circle_sharp =
+      'play_forward_circle_sharp.svg';
   static const String play_forward_circle = 'play_forward_circle.svg';
   static const String play_forward_outline = 'play_forward_outline.svg';
   static const String play_forward_sharp = 'play_forward_sharp.svg';
   static const String play_forward = 'play_forward.svg';
   static const String play_outline = 'play_outline.svg';
   static const String play_sharp = 'play_sharp.svg';
-  static const String play_skip_back_circle_outline = 'play_skip_back_circle_outline.svg';
-  static const String play_skip_back_circle_sharp = 'play_skip_back_circle_sharp.svg';
+  static const String play_skip_back_circle_outline =
+      'play_skip_back_circle_outline.svg';
+  static const String play_skip_back_circle_sharp =
+      'play_skip_back_circle_sharp.svg';
   static const String play_skip_back_circle = 'play_skip_back_circle.svg';
   static const String play_skip_back_outline = 'play_skip_back_outline.svg';
   static const String play_skip_back_sharp = 'play_skip_back_sharp.svg';
   static const String play_skip_back = 'play_skip_back.svg';
-  static const String play_skip_forward_circle_outline = 'play_skip_forward_circle_outline.svg';
-  static const String play_skip_forward_circle_sharp = 'play_skip_forward_circle_sharp.svg';
+  static const String play_skip_forward_circle_outline =
+      'play_skip_forward_circle_outline.svg';
+  static const String play_skip_forward_circle_sharp =
+      'play_skip_forward_circle_sharp.svg';
   static const String play_skip_forward_circle = 'play_skip_forward_circle.svg';
-  static const String play_skip_forward_outline = 'play_skip_forward_outline.svg';
+  static const String play_skip_forward_outline =
+      'play_skip_forward_outline.svg';
   static const String play_skip_forward_sharp = 'play_skip_forward_sharp.svg';
   static const String play_skip_forward = 'play_skip_forward.svg';
   static const String play = 'play.svg';
@@ -1788,13 +1844,16 @@ class Ionicons extends StatelessWidget {
   static const String return_down_back_outline = 'return_down_back_outline.svg';
   static const String return_down_back_sharp = 'return_down_back_sharp.svg';
   static const String return_down_back = 'return_down_back.svg';
-  static const String return_down_forward_outline = 'return_down_forward_outline.svg';
-  static const String return_down_forward_sharp = 'return_down_forward_sharp.svg';
+  static const String return_down_forward_outline =
+      'return_down_forward_outline.svg';
+  static const String return_down_forward_sharp =
+      'return_down_forward_sharp.svg';
   static const String return_down_forward = 'return_down_forward.svg';
   static const String return_up_back_outline = 'return_up_back_outline.svg';
   static const String return_up_back_sharp = 'return_up_back_sharp.svg';
   static const String return_up_back = 'return_up_back.svg';
-  static const String return_up_forward_outline = 'return_up_forward_outline.svg';
+  static const String return_up_forward_outline =
+      'return_up_forward_outline.svg';
   static const String return_up_forward_sharp = 'return_up_forward_sharp.svg';
   static const String return_up_forward = 'return_up_forward.svg';
   static const String ribbon_outline = 'ribbon_outline.svg';

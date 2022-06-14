@@ -1,6 +1,6 @@
 # icon_forest
 
-- A collection of 160k+ icons from 490+ icon libraries.
+- A collection of 160k+ icons from 500+ icon libraries.
 - It makes icons from all pub.dev packages searchable in one place.
 - You can search, select and apply the icons to your Flutter projects.
 
@@ -91,7 +91,7 @@ Icon(BootstrapIcons.cloud_rain_heavy_fill);
 
 # Icon libraries
 
-It has 36 icon libraries (38k+ icons). They come from:
+It has 35 icon libraries (38k+ icons). They come from:
 - converting existing non-null-safety or invalid icon packages
 - open-source icon libraries which are new to pub.dev
 
@@ -131,7 +131,7 @@ As a whole, you can search the following icon libraries with IconForest app:
 |uiw icons	|Unicons (Line)	|Unicons (Solid)	|Unicons (Thinline)	|Unicons Monochrome|
 |Vaadin Icons	|Vesper Icons	|VSCode Icons	|vscode-icons	|Weather Icons|
 |Weather Icons	|Web/Symobol	|WebHostingHub Glyphs	|Yaru	|Zocial|
-|Zondicons	|	|	|	||
+|Zondicons	|basf	|	|	||
 
 
 ---

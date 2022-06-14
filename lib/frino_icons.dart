@@ -2,7 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 /// frino_icons icon pack (384 icons)
 class _FrinoIcons extends IconData {
-  const _FrinoIcons(int codePoint) : super(codePoint, fontFamily: 'frino_icons', fontPackage: 'icon_forest');
+  const _FrinoIcons(int codePoint)
+      : super(codePoint, fontFamily: 'frino_icons', fontPackage: 'icon_forest');
 }
 
 /// constants link to font code point
