@@ -1,4 +1,4 @@
-# IconForest app <img alt="apk" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/logo.png"/>
+# IconForest app <img alt="apk" src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/logo.png"/>
 
 - Search icons for your Flutter projects.
 - 160k+ icons from all pub.dev packages.
@@ -6,12 +6,12 @@
 
 ---
 
-<img alt="search icons, mark favorites, output icon code" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/demo.gif" />
+<img alt="search icons, mark favorites, output icon code" src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/demo.gif" />
 
 
 Icons can be easily applied to your projects.
 
-![icons code viewer pasteboard example](https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/codeviewer_snapshot.png)
+![icons code viewer pasteboard example](https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/codeviewer_snapshot.png)
 
 
 <table>
@@ -22,21 +22,21 @@ Icons can be easily applied to your projects.
           href="https://play.google.com/store/apps/details?id=com.flutterplay.iconforest"
           ><img
             alt="Google Play"
-            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/googleplay.png"
+            src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/download/googleplay.png"
         /></a>
       </td>
       <td align="center">
         <a href="https://iconforest.flutterplay.com/download/android.php"
           ><img
             alt="apk"
-            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/apk.png"
+            src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/download/apk.png"
         /></a>
       </td>
       <td align="center">
         <a href="https://apps.apple.com/app/iconforest/id1626186092"
           ><img
             alt="Appstore"
-            src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/appstore.png"
+            src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/download/appstore.png"
         /></a>
       </td>
     </tr>
@@ -44,19 +44,19 @@ Icons can be easily applied to your projects.
       <td align="center">
         <img
           alt="Google Play"
-          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_googleplay.png"
+          src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_googleplay.png"
         />
       </td>
       <td align="center">
         <img
           alt="Appstore"
-          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_apk.png"
+          src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_apk.png"
         />
       </td>
       <td align="center">
         <img
           alt="Appstore"
-          src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_appstore.png"
+          src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_appstore.png"
         />
       </td>
     </tr>
