@@ -16,21 +16,9 @@ It has two components:
 
 <img alt="search icons, mark favorites, output icon code" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/demo.gif" />
 
-- Icons can be easily applied to your projects with pubspec.yaml.
-- Pasteboard example:
-```dart
-/// bootstrap_icons
-// https://pub.dev/packages/bootstrap_icons
+Icons can be easily applied to your projects with pubspec.yaml.
 
-bootstrap_icons: ^1.8.1
-
-import 'package:bootstrap_icons/bootstrap_icons.dart';
-
-Icon(BootstrapIcons.cloud_lightning_rain_fill);
-Icon(BootstrapIcons.cloud_lightning_rain);
-Icon(BootstrapIcons.cloud_rain_fill);
-Icon(BootstrapIcons.cloud_rain_heavy_fill);
-```
+![icons code viewer pasteboard example](https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/codeviewer_snapshot.png)
 
 <table>
   <tbody>
@@ -138,12 +126,13 @@ As a whole, you can search the following icon libraries with IconForest app:
 
 ## Our goal
 
-Make beautiful designs faster for Flutter developers. To achieve this:
-- we collect icon packages from pub.dev and make them searchable in one place
-- we test all icon packages, correct sample codes, and remove invalid icons
-- we make duplicated icon libraries invisible by default
-- we explore new beautiful icon libraries
-- we update the icon libraries to provide you with the richest and latest icons collections
+Make beautiful designs faster for Flutter developers. 
+To achieve this, we:
+- collect icon packages from pub.dev and make them searchable in one place
+- test all icon packages, correct sample codes, and remove invalid icons
+- make duplicated icon libraries invisible by default
+- explore new beautiful icon libraries
+- update the icon libraries to provide you with the richest and latest icons collections
 
 ## Contact us
 Email us at <a href="mailto:iconforest@flutterplay.com">iconforest@flutterplay.com</a>
