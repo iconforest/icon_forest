@@ -1,6 +1,6 @@
-## 1.0.10
+## 1.1
 
-- Minor enhancements on documentation
+- Make 6 icon libraries searchable
 
 ## 1.0.3
 

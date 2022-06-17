@@ -1,5 +1,5 @@
 name: icon_forest
-description: 160000+ icons from 490+ icon libraries for your Flutter projects. A collection of icons from all pub.dev packages and other open-source icon packs.
+description: 160000+ icons from 500+ icon libraries for your Flutter projects. A collection of icons from all pub.dev packages and other open-source icon packs.
 homepage: https://github.com/iconforest/icon_forest
 
 
@@ -17,7 +17,7 @@ homepage: https://github.com/iconforest/icon_forest
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.1
+version: 1.1.0
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

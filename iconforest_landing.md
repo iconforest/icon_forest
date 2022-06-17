@@ -1,4 +1,4 @@
-# IconForest app <img alt="apk" src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/logo.png" width="4%"/>
+# IconForest app <img alt="apk" src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/logo.png"/>
 
 - Search icons for your Flutter projects.
 - 160k+ icons from all pub.dev packages.
@@ -45,24 +45,18 @@ Icons can be easily applied to your projects.
         <img
           alt="Google Play"
           src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_googleplay.png"
-          width="127"
-          height="127"
         />
       </td>
       <td align="center">
         <img
           alt="Appstore"
           src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_apk.png"
-          width="127"
-          height="127"
         />
       </td>
       <td align="center">
         <img
           alt="Appstore"
           src="https://fastly.jsdelivr.net/gh/iconforest/icon_forest@main/readme_images/qr/qr_appstore.png"
-          width="128"
-          height="128"
         />
       </td>
     </tr>

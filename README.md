@@ -12,7 +12,7 @@ It has two components:
 
 ---
 
-# IconForest app <img alt="apk" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/logo.png" width="4%"/>
+# IconForest app <img alt="apk" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/logo.png"/>
 
 <img alt="search icons, mark favorites, output icon code" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/demo.gif" />
 
@@ -84,7 +84,7 @@ It has 35 icon libraries (38k+ icons). They come from:
 - open-source icon libraries which are new to pub.dev
 
 
-As a whole, you can search the following icon libraries with IconForest app:
+You can search the following icon libraries with IconForest app:
 
 ||||||
 | :- | :- |:- | :- | :- |
@@ -135,5 +135,5 @@ To achieve this, we:
 - update the icon libraries to provide you with the richest and latest icons collections
 
 ## Contact us
-Email us at <a href="mailto:iconforest@flutterplay.com">iconforest@flutterplay.com</a>
+<a href="mailto:iconforest@flutterplay.com">iconforest@flutterplay.com</a>
 
