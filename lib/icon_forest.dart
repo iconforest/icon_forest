@@ -27,6 +27,11 @@ import 'package:icon_forest/kicons_aliyun.dart';
 import 'package:icon_forest/kicons_emoji.dart';
 import 'package:icon_forest/koukicons.dart';
 import 'package:icon_forest/majesticons.dart';
+import 'package:icon_forest/mbi_combi.dart';
+import 'package:icon_forest/mbi_emoji.dart';
+import 'package:icon_forest/mbi_file.dart';
+import 'package:icon_forest/mbi_handmade.dart';
+import 'package:icon_forest/mbi_linecons.dart';
 import 'package:icon_forest/openmoji_black.dart';
 import 'package:icon_forest/openmoji_color.dart';
 import 'package:icon_forest/system_uicons.dart';
@@ -36,8 +41,9 @@ import 'package:icon_forest/ternav_icons_duotone.dart';
 import 'package:icon_forest/ternav_icons_light.dart';
 import 'package:icon_forest/ternav_icons_light_outline.dart';
 import 'package:icon_forest/ternav_icons_two_color.dart';
-import 'package:icon_forest/themify_icons.dart';
 import 'package:path/path.dart' as p;
+
+import 'mbi_linecons.dart';
 
 /// A utility class to handle icons
 class IconForest {
@@ -309,10 +315,27 @@ class _MyHomePageState extends State<MyHomePage> {
                 leading:
                     TernavIconsTwoColor(TernavIconsTwoColor.Arrow_UpSquare)),
 
-            /// Themify icon example
+            /// Mbi combi icon example
             ListTile(
-                title: Text('ThemifyIcons'),
-                leading: ThemifyIcons(ThemifyIcons.agenda)),
+                title: Text('Mbi combi'),
+                leading: Icon(MbiCombiIcons.placeholder)),
+
+            /// Mbi emoji icon example
+            ListTile(
+                title: Text('Mbi emoji'), leading: Icon(MbiEmojiIcons.angry)),
+
+            /// Mbi file icon example
+            ListTile(title: Text('Mbi file'), leading: Icon(MbiFileIcons.file)),
+
+            /// Mbi handmade icon example
+            ListTile(
+                title: Text('Mbi handmade'),
+                leading: Icon(MbiHandmadeIcons.add)),
+
+            /// Mbi linecons icon example
+            ListTile(
+                title: Text('Mbi linecons'),
+                leading: Icon(MbiLineconsIcons.data)),
           ],
         ),
       ),

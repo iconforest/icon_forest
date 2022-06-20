@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Add 5 icon libraries
+
 ## 1.1
 
 - Make 6 icon libraries searchable

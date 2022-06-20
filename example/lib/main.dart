@@ -26,6 +26,11 @@ import 'package:icon_forest/kicons_aliyun.dart';
 import 'package:icon_forest/kicons_emoji.dart';
 import 'package:icon_forest/koukicons.dart';
 import 'package:icon_forest/majesticons.dart';
+import 'package:icon_forest/mbi_combi.dart';
+import 'package:icon_forest/mbi_emoji.dart';
+import 'package:icon_forest/mbi_file.dart';
+import 'package:icon_forest/mbi_handmade.dart';
+import 'package:icon_forest/mbi_linecons.dart';
 import 'package:icon_forest/openmoji_black.dart';
 import 'package:icon_forest/openmoji_color.dart';
 import 'package:icon_forest/system_uicons.dart';
@@ -192,6 +197,21 @@ class _MyHomePageState extends State<MyHomePage> {
             ListTile(
                 title: Text('MaterialIcons'),
                 leading: Icon(Icons.add_business_sharp)),
+            ListTile(
+                title: Text('GalaIcons'),
+                leading: GalaIcons(GalaIcons.gala_airplay)),
+            ListTile(
+                title: Text('Mbi combi'),
+                leading: Icon(MbiCombiIcons.placeholder)),
+            ListTile(
+                title: Text('Mbi emoji'), leading: Icon(MbiEmojiIcons.angry)),
+            ListTile(title: Text('Mbi file'), leading: Icon(MbiFileIcons.file)),
+            ListTile(
+                title: Text('Mbi handmade'),
+                leading: Icon(MbiHandmadeIcons.add)),
+            ListTile(
+                title: Text('Mbi linecons'),
+                leading: Icon(MbiLineconsIcons.data)),
           ],
         ),
       ),
