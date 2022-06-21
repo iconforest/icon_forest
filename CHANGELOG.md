@@ -1,3 +1,7 @@
+## 1.1.3
+
+- Fine tune documentation
+
 ## 1.1.2
 
 - Add 5 icon libraries
