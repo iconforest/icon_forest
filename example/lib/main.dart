@@ -3,44 +3,17 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:icon_forest/amazingneoicons.dart';
 import 'package:icon_forest/app_crypto_icons.dart';
-import 'package:icon_forest/arcticons.dart';
-import 'package:icon_forest/bpmn.dart';
 import 'package:icon_forest/bytesize.dart';
-import 'package:icon_forest/charm_icons.dart';
-import 'package:icon_forest/clarity.dart';
 import 'package:icon_forest/don_icons.dart';
-import 'package:icon_forest/encapital_icons_test.dart';
 import 'package:icon_forest/flat_icons_arrows.dart';
 import 'package:icon_forest/flat_icons_medium.dart';
-import 'package:icon_forest/flat_icons_social.dart';
-import 'package:icon_forest/flutter_cmoon_icons.dart';
-import 'package:icon_forest/flutter_icomoon_icons.dart';
-import 'package:icon_forest/frino_icons.dart';
 import 'package:icon_forest/gala_icons.dart';
-import 'package:icon_forest/grommet_icons.dart';
-import 'package:icon_forest/icon_park.dart';
-import 'package:icon_forest/iconic.dart';
 import 'package:icon_forest/iconoir.dart';
-import 'package:icon_forest/ionicons.dart';
-import 'package:icon_forest/kicons_aliyun.dart';
 import 'package:icon_forest/kicons_emoji.dart';
-import 'package:icon_forest/koukicons.dart';
-import 'package:icon_forest/majesticons.dart';
 import 'package:icon_forest/mbi_combi.dart';
-import 'package:icon_forest/mbi_emoji.dart';
-import 'package:icon_forest/mbi_file.dart';
-import 'package:icon_forest/mbi_handmade.dart';
 import 'package:icon_forest/mbi_linecons.dart';
-import 'package:icon_forest/openmoji_black.dart';
-import 'package:icon_forest/openmoji_color.dart';
 import 'package:icon_forest/system_uicons.dart';
-import 'package:icon_forest/teenyicons.dart';
-import 'package:icon_forest/ternav_icons_bold.dart';
 import 'package:icon_forest/ternav_icons_duotone.dart';
-import 'package:icon_forest/ternav_icons_light.dart';
-import 'package:icon_forest/ternav_icons_light_outline.dart';
-import 'package:icon_forest/ternav_icons_two_color.dart';
-import 'package:icon_forest/themify_icons.dart';
 
 void main() {
   runApp(const MyApp());
@@ -93,122 +66,66 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: ListView(
           children: const [
-            // Examples
+            /// Examples
+            /// Amazing Neo icon example
             ListTile(
                 title: Text('AmazingNeoIcons'),
                 leading: Icon(AmazingNeoIcons.airplane)),
+
+            /// App crypto icon example
             ListTile(
                 title: Text('AppCryptoIcons'),
                 leading: AppCryptoIcons(AppCryptoIcons.band)),
+
+            /// Bytesize icon example
             ListTile(
-                title: Text('Arcticons'),
-                leading: Arcticons(Arcticons.a3c_all_in_one_toolbox)),
-            ListTile(title: Text('Bpmn'), leading: Icon(Bpmn.ad_hoc_marker)),
-            ListTile(
-                title: Text('Bytesize'), leading: Bytesize(Bytesize.bookmark)),
-            ListTile(
-                title: Text('CharmIcons'),
-                leading: CharmIcons(CharmIcons.anchor)),
-            ListTile(
-                title: Text('Clarity'),
-                leading: Clarity(Clarity.accessibility_2_line)),
+                title: Text('Bytesize'), leading: Bytesize(Bytesize.camera)),
+
+            /// Don icon example
             ListTile(
                 title: Text('DonIcons'), leading: Icon(DonIcons.add_square)),
-            ListTile(
-                title: Text('EncapitalIconsTest'),
-                leading: Icon(EncapitalIconsTest.watchlist_outlined)),
+
+            /// FlatIcons (Arrows) icon example
             ListTile(
                 title: Text('FlatIconsArrows'),
                 leading: Icon(FlatIconsArrows.back_a)),
+
+            /// FlatIcons (Medium) icon example
             ListTile(
                 title: Text('FlatIconsMedium'),
                 leading: Icon(FlatIconsMedium.agenda)),
-            ListTile(
-                title: Text('FlatIconsSocial'),
-                leading: Icon(FlatIconsSocial.amazon)),
-            ListTile(
-                title: Text('FlutterCmoonIcons'),
-                leading: Icon(FlutterCmoonIcons.icon_1password)),
-            ListTile(
-                title: Text('FlutterIcoMoonIcons'),
-                leading: Icon(FlutterIcoMoonIcons.aidKit)),
-            ListTile(
-                title: Text('FrinoIcons'),
-                leading: Icon(FrinoIcons.f_google_plus)),
+
+            /// Gala icon example
             ListTile(
                 title: Text('GalaIcons'),
                 leading: GalaIcons(GalaIcons.gala_airplay)),
-            ListTile(
-                title: Text('GrommetIcons'),
-                leading: GrommetIcons(GrommetIcons.accessibility)),
-            ListTile(
-                title: Text('IconPark'), leading: IconPark(IconPark.family)),
-            ListTile(title: Text('Iconic'), leading: Icon(Iconic.star)),
+
+            /// Iconoir icon example
             ListTile(
                 title: Text('Iconoir'),
-                leading: Iconoir(Iconoir.battery_charging)),
-            ListTile(
-                title: Text('Ionicons'),
-                leading: Ionicons(Ionicons.add_circle_sharp)),
-            ListTile(
-                title: Text('KiconsAliyun'),
-                leading: Icon(KiconsAliyun.calculator)),
+                leading: Iconoir(Iconoir.add_circled_outline)),
+
+            /// Kicons emoji icon example
             ListTile(
                 title: Text('KiconsEmoji'),
                 leading: Icon(KiconsEmoji.astonished)),
-            ListTile(
-                title: Text('Koukicons'),
-                leading: Koukicons(Koukicons.calculator)),
-            ListTile(
-                title: Text('Majesticons'),
-                leading: Majesticons(Majesticons.airplane_flight_2)),
-            ListTile(
-                title: Text('OpenmojiBlack'),
-                leading: OpenmojiBlack(OpenmojiBlack.E086)),
-            ListTile(
-                title: Text('OpenmojiColor'),
-                leading: OpenmojiColor(OpenmojiColor.E0AC_200D_2640_FE0F)),
+
+            /// SystemUicons icon example
             ListTile(
                 title: Text('SystemUicons'),
-                leading: SystemUicons(SystemUicons.battery_75)),
-            ListTile(
-                title: Text('Teenyicons'),
-                leading: Teenyicons(Teenyicons.table_outline)),
-            ListTile(
-                title: Text('TernavIconsBold'),
-                leading: TernavIconsBold(TernavIconsBold.Accept)),
+                leading: SystemUicons(SystemUicons.browser)),
+
+            /// TernavIcons (Duotone) icon example
             ListTile(
                 title: Text('TernavIconsDuotone'),
                 leading: TernavIconsDuotone(TernavIconsDuotone.Aligncenter)),
-            ListTile(
-                title: Text('TernavIconsLight'),
-                leading: TernavIconsLight(TernavIconsLight.Arrow_DownSquare3)),
-            ListTile(
-                title: Text('TernavIconsLightOutline'),
-                leading: TernavIconsLightOutline(
-                    TernavIconsLightOutline.Arrow_Left1)),
-            ListTile(
-                title: Text('TernavIconsTwoColor'),
-                leading:
-                    TernavIconsTwoColor(TernavIconsTwoColor.Arrow_UpSquare)),
-            ListTile(
-                title: Text('ThemifyIcons'),
-                leading: ThemifyIcons(ThemifyIcons.agenda)),
-            ListTile(
-                title: Text('MaterialIcons'),
-                leading: Icon(Icons.add_business_sharp)),
-            ListTile(
-                title: Text('GalaIcons'),
-                leading: GalaIcons(GalaIcons.gala_airplay)),
+
+            /// Mbi combi icon example
             ListTile(
                 title: Text('Mbi combi'),
                 leading: Icon(MbiCombiIcons.placeholder)),
-            ListTile(
-                title: Text('Mbi emoji'), leading: Icon(MbiEmojiIcons.angry)),
-            ListTile(title: Text('Mbi file'), leading: Icon(MbiFileIcons.file)),
-            ListTile(
-                title: Text('Mbi handmade'),
-                leading: Icon(MbiHandmadeIcons.add)),
+
+            /// Mbi linecons icon example
             ListTile(
                 title: Text('Mbi linecons'),
                 leading: Icon(MbiLineconsIcons.data)),

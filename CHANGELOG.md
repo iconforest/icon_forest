@@ -1,4 +1,4 @@
-## 1.1.3
+## 1.1.6
 
 - Fine tune documentation
 
