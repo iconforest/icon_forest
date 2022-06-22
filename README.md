@@ -25,7 +25,7 @@ Icons can be easily applied to your projects with pubspec.yaml.
     <tr>
       <td align="center">
         <a
-          href="http://iconforest.flutterplay.com/download/googleplay.php"
+          href="https://iconforest.flutterplay.com/download/googleplay.php"
           ><img
             alt="Google Play"
             src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/googleplay.png"
@@ -39,7 +39,7 @@ Icons can be easily applied to your projects with pubspec.yaml.
         /></a>
       </td>
       <td align="center">
-        <a href="http://iconforest.flutterplay.com/download/appstore.php"
+        <a href="https://iconforest.flutterplay.com/download/appstore.php"
           ><img
             alt="Appstore"
             src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/appstore.png"
