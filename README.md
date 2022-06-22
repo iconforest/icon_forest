@@ -7,8 +7,8 @@
 <img alt="sample icons screenshot" src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/icons_snapshot.png" />
 
 It has two components:
-1. a free app that searches icons - the **IconForest** app
-2. a collection of icon libraries - the **icon_forest** package
+1. a free app that searches icons (**IconForest** app)
+2. a collection of icon libraries (**icon_forest** package)
 
 ---
 
@@ -25,7 +25,7 @@ Icons can be easily applied to your projects with pubspec.yaml.
     <tr>
       <td align="center">
         <a
-          href="https://play.google.com/store/apps/details?id=com.flutterplay.iconforest"
+          href="http://iconforest.flutterplay.com/download/googleplay.php"
           ><img
             alt="Google Play"
             src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/googleplay.png"
@@ -39,7 +39,7 @@ Icons can be easily applied to your projects with pubspec.yaml.
         /></a>
       </td>
       <td align="center">
-        <a href="https://apps.apple.com/app/iconforest/id1626186092"
+        <a href="http://iconforest.flutterplay.com/download/appstore.php"
           ><img
             alt="Appstore"
             src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/download/appstore.png"
@@ -57,7 +57,7 @@ Icons can be easily applied to your projects with pubspec.yaml.
       </td>
       <td align="center">
         <img
-          alt="Appstore"
+          alt="apk"
           src="https://raw.githubusercontent.com/iconforest/icon_forest/main/readme_images/qr/qr_apk.png"
           width="127"
           height="127"
