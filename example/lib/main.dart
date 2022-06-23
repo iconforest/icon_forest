@@ -14,6 +14,7 @@ import 'package:icon_forest/mbi_combi.dart';
 import 'package:icon_forest/mbi_linecons.dart';
 import 'package:icon_forest/system_uicons.dart';
 import 'package:icon_forest/ternav_icons_duotone.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 void main() {
   runApp(const MyApp());
@@ -65,68 +66,104 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: ListView(
-          children: const [
+          children: [
+            /// download IconForest (Apple appstore)
+            ListTile(
+                leading: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Image.asset('assets/appstore.png'),
+                ),
+                title: const Text('Free icon search app'),
+                onTap: () {
+                  launchUrl(Uri.parse(
+                      'https://iconforest.flutterplay.com/download/appstore.php'));
+                }),
+
+            /// download IconForest (Google play)
+            ListTile(
+                leading: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Image.asset('assets/googleplay.png'),
+                ),
+                title: const Text('Free icon search app'),
+                onTap: () {
+                  launchUrl(Uri.parse(
+                      'https://iconforest.flutterplay.com/download/googleplay.php'));
+                }),
+
+            /// download IconForest (apk download)
+            ListTile(
+                leading: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Image.asset('assets/apk.png'),
+                ),
+                title: const Text('Free icon search app'),
+                onTap: () {
+                  launchUrl(Uri.parse(
+                      'https://iconforest.flutterplay.com/download/android.php'));
+                }),
+
             /// Examples
             /// Amazing Neo icon example
-            ListTile(
+            const ListTile(
                 title: Text('AmazingNeoIcons'),
                 leading: Icon(AmazingNeoIcons.airplane)),
 
             /// App crypto icon example
-            ListTile(
+            const ListTile(
                 title: Text('AppCryptoIcons'),
                 leading: AppCryptoIcons(AppCryptoIcons.band)),
 
             /// Bytesize icon example
-            ListTile(
+            const ListTile(
                 title: Text('Bytesize'), leading: Bytesize(Bytesize.camera)),
 
             /// Don icon example
-            ListTile(
+            const ListTile(
                 title: Text('DonIcons'), leading: Icon(DonIcons.add_square)),
 
             /// FlatIcons (Arrows) icon example
-            ListTile(
+            const ListTile(
                 title: Text('FlatIconsArrows'),
                 leading: Icon(FlatIconsArrows.back_a)),
 
             /// FlatIcons (Medium) icon example
-            ListTile(
+            const ListTile(
                 title: Text('FlatIconsMedium'),
                 leading: Icon(FlatIconsMedium.agenda)),
 
             /// Gala icon example
-            ListTile(
+            const ListTile(
                 title: Text('GalaIcons'),
                 leading: GalaIcons(GalaIcons.gala_airplay)),
 
             /// Iconoir icon example
-            ListTile(
+            const ListTile(
                 title: Text('Iconoir'),
                 leading: Iconoir(Iconoir.add_circled_outline)),
 
             /// Kicons emoji icon example
-            ListTile(
+            const ListTile(
                 title: Text('KiconsEmoji'),
                 leading: Icon(KiconsEmoji.astonished)),
 
             /// SystemUicons icon example
-            ListTile(
+            const ListTile(
                 title: Text('SystemUicons'),
                 leading: SystemUicons(SystemUicons.browser)),
 
             /// TernavIcons (Duotone) icon example
-            ListTile(
+            const ListTile(
                 title: Text('TernavIconsDuotone'),
                 leading: TernavIconsDuotone(TernavIconsDuotone.Aligncenter)),
 
             /// Mbi combi icon example
-            ListTile(
+            const ListTile(
                 title: Text('Mbi combi'),
                 leading: Icon(MbiCombiIcons.placeholder)),
 
             /// Mbi linecons icon example
-            ListTile(
+            const ListTile(
                 title: Text('Mbi linecons'),
                 leading: Icon(MbiLineconsIcons.data)),
           ],
